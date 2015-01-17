@@ -16,10 +16,11 @@ college3 = College("Drexel University", "Pennsylvania", 50000, 1800, 3.00)
 
 colleges = [college1, college2, college3]
 
-def FindColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration ):
+def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration ):
     print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
 
     for i in range(len(colleges)):
+    
         if colleges[i].loc in Locations:
             print("College Name: ", colleges[i].name);
             print("Location: ", colleges[i].loc);
@@ -31,5 +32,5 @@ def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
     return ( 0.35 * SAT/aSAT + 0.35 * GPA/aGPA + 0.3 * (1-TopPercentage)/100) * 100;
     
 
-FindColleges(SAT=1900, GPA=4.0, TopPercentage=20, Locations="Pennsylvania", Tuition=10000, Concentration="Engineering");
+FindBestColleges(SAT=1900, GPA=4.0, TopPercentage=20, Locations="Pennsylvania", Tuition=100000, Concentration="Engineering");
     
