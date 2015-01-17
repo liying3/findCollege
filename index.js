@@ -1,5 +1,6 @@
 $( document ).ready(function() {
-	$('.form-inline').on('click', '.submit', function(e){
+	
+	$('#search-form').submit(function(e){
        e.preventDefault() 
        
        //lets get our values from the form....
