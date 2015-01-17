@@ -25,9 +25,9 @@
 		}
 	}
 	
-	$college1 = new College("The University of Pennsylvania", "Pennsylvania", 60000, 2100, 3.66);
-	$college2 = new College("Stanford University", "California", 70000, 2300, 3.80);
-	$college3 = new College("Drexel University", "Pennsylvania", 50000, 1800, 3.00);
+	$college1 = new College("University of Pennsylvania", "Philadephia, PA", 60000, 2100, 3.66);
+	$college2 = new College("Stanford University", "Stanford, CA", 70000, 2300, 3.80);
+	$college3 = new College("University of Califorlia Los Angeles", "Los Angeles, CA", 50000, 1800, 3.00);
 	
 	$GLOBALS['colleges'] = [$college1, $college2, $college3];
 	
