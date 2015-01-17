@@ -17,7 +17,7 @@ $( document ).ready(function() {
           url: "back/proc.php",
 		  data: { sat: sat, gpa: gpa, percentage: percentage, loc:loc, tuition:tuition, major:major},
 		  success: function(data, status) {
-			
+			alert(data);
 		  },
         });   
 	});

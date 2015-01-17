@@ -1,6 +1,13 @@
 <?php
 	$Count = 0;
 	
+	$SAT = $_POST['sat'];
+	$GPA = $_POST['gpa'];
+	$TopPercentage = $_POST['percentage'];
+	$Locations = $_POST['loc'];
+	$Tuition = $_POST['tuition'];
+	$Concentration = $_POST['major'];
+	
 	class College{
 		var $name;
 		var $loc;
@@ -22,14 +29,22 @@
 	$college2 = new College("Stanford University", "California", 70000, 2300, 3.80);
 	$college3 = new College("Drexel University", "Pennsylvania", 50000, 1800, 3.00);
 	
-	$colleges = [$college1, $college2, $college3];
-
-	echo $Concentration;
-/*	+ " " + $GPA +" "+ $TopPercentage + " " + $Locations+"  "+$Tuition+" " + $Concentration;*/
+	$GLOBALS['colleges'] = [$college1, $college2, $college3];
+	echo FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration);
 	
 	function FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration) {
 		/*echo "My SAT: " + $SAT + "My GPA: " + $GPA + "\n";*/
 		
-		return $colleges;
+		return serialize($GLOBALS['colleges']);
+	}
+	
+	function getString($colleges)
+	{
+		$s = "";
+		foreach ($colleges as $college)
+		{
+			$s .= $college->name . $college->loc . $college->tuition . $college->aSAT . $college->aGPA;
+		}
+		return $s;
 	}
 ?>
