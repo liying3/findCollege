@@ -30,12 +30,12 @@
 	$college3 = new College("Drexel University", "Pennsylvania", 50000, 1800, 3.00);
 	
 	$GLOBALS['colleges'] = [$college1, $college2, $college3];
+	
 	echo FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration);
 	
 	function FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration) {
 		/*echo "My SAT: " + $SAT + "My GPA: " + $GPA + "\n";*/
-		
-		return serialize($GLOBALS['colleges']);
+		return getString($GLOBALS['colleges']);
 	}
 	
 	function getString($colleges)
@@ -43,7 +43,7 @@
 		$s = "";
 		foreach ($colleges as $college)
 		{
-			$s .= $college->name . $college->loc . $college->tuition . $college->aSAT . $college->aGPA;
+			$s .= $college->name . "," . $college->loc . "," . $college->tuition . "," . $college->aSAT . "," . $college->aGPA . ";";
 		}
 		return $s;
 	}
