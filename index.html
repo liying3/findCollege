@@ -38,9 +38,8 @@
   		  </div>
   	  </div>
   	  <br/>
-  	  <ul class="row">
-  		  <li class="form-group col-md-2">
-  			<label class="sr-only">Location</label>
+        <ul id="sortable">
+          <li class="form-group col-md-2 ui-state-default">
   			<div class="input-group">
   			<div class="input-group-addon">location</div>
   			 <select class="form-control" id="location" name="location">
@@ -60,11 +59,10 @@
   				<option>Illinois</option>	
   			</select>
   			</div>
-  		  </li>
-  		  <li class="form-group col-md-2">
-  			<label class="sr-only">Tuition</label>
-  			<div class="input-group">
-  				<div class="input-group-addon">Tuition $</div>
+          </li>
+          <li class="form-group col-md-2 ui-state-default">
+              <div class="input-group">
+  				<div class="input-group-addon">tuition $</div>
   				<select class="form-control" id="tuition" name="tuition">
   					<option>5-4</option>
   					<option>4-3</option>
@@ -73,16 +71,15 @@
   					<option>&lt;1</option>	
   				</select>
   			</div>
-  		  </li>
-  		  <li class="form-group col-md-3">
-  			<label class="sr-only">Concentration</label>
-  			<div class="input-group">
+          </li>
+          <li class="form-group col-md-2 ui-state-default">
+              <div class="input-group">
   				<div class="input-group-addon">Concentration</div>
   				<input class="form-control" id="major" name="major">
   			</div>
-  		  </li>
-  		  <button type="submit" class="btn btn-primary" >Search</button>
-  		</ul>
+          </li>
+        </ul>
+        <button type="submit" class="btn btn-primary" >Search</button>
   	</form> 
      <!--div id="panel"> 
          <input id="address" type="textbox" value="New York, NY">      
@@ -90,13 +87,13 @@
     </div-->
     <div id="map-canvas"></div>
     <div id="img-preview">
-      <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = 100px, height = 100px>
+      <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "100px", height = "100px">
       text
     </div>
     <div id="sch-content">
       <h1>haha</h1>
       <p>
-         <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = 200px, height = 200px><br>
+         <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "200px", height = "200px"><br>
         Name of school: <span id="cName"></span><br>
         Location: <span id="cLoc"></span><br>
         Tuition: <span id="cTuition"></span><br>
@@ -107,6 +104,7 @@
   </div>
   </body>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="http://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
   <script src="js/index.js"></script>

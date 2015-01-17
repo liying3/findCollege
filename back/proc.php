@@ -43,7 +43,7 @@
 		$s = "";
 		foreach ($colleges as $college)
 		{
-			$s .= $college->name . "," . $college->loc . "," . $college->tuition . "," . $college->aSAT . "," . $college->aGPA . ";";
+			$s .= $college->name . "&" . $college->loc . "&" . $college->tuition . "&" . $college->aSAT . "&" . $college->aGPA . ";";
 		}
 		return $s;
 	}

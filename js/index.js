@@ -1,10 +1,10 @@
 $( document ).ready(function() {
 	var colleges = [];
 	
-	$('#search-form').submit(function(e){
-       e.preventDefault() 
-       
-       //lets get our values from the form....
+    /*---------------------------- form -----------------------------*/
+	$('#search-form').submit(function (e) {
+	    e.preventDefault()
+
        var sat = $('#sat').val();
        var gpa = $('#gpa').val();
        var percentage = $('#percentage').val();
@@ -12,7 +12,6 @@ $( document ).ready(function() {
 	   var tuition = $('#tuition').val();
 	   var major = $('#major').val();
            
-       //now lets make our ajax call
         $.ajax({
           type: "POST",
           url: "back/proc.php",
@@ -21,14 +20,13 @@ $( document ).ready(function() {
 			var cols = data.split(';');
 			for (var i = 0; i < cols.length-1; i++)
 			{
-				var t = cols[i].split(',');
+				var t = cols[i].split('&');
 				var col = { name:t[0], loc:t[1], tuition:t[2], aSAT:t[3], aGPA:t[4] };
 				colleges[i] = col;
 			}
 		  },
         });   
 	});
-	
 	function showColInfo(i)
 	{
 		$('#cName').text(colleges[i]['name']);
@@ -37,7 +35,14 @@ $( document ).ready(function() {
 		$('#cSAT').text(colleges[i]['aSAT']);
 		$('#cGPA').text(colleges[i]['aGPA']);
 	}
+
+    //drag and drop
+	$(function () {
+	    $("#sortable").sortable();
+	    $("#sortable").disableSelection();
+	});
 	
+    //google map
 	var marker; 
        var map;      
        var geocoder;
