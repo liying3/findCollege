@@ -44,10 +44,10 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
     for i in range(len(colleges)):
     
         if colleges[i].loc in Locations:
-            print("College Name: ", colleges[i].name);
-            print("Location: ", colleges[i].loc);
+            print( colleges[i].name);
+            print( colleges[i].loc);
             chance = CalculateChance(SAT, GPA, TopPercentage, colleges[i].aSAT, colleges[i].aGPA)
-            print("Chance: ", chance ,"\n");
+            print( chance);
         
     return;
 
