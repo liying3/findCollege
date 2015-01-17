@@ -3,6 +3,24 @@
   <head>
 	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
     <style>
+    * {
+        margin:0;
+        padding:0;
+        font-family:"Helvetica Neue", Helvetica, Sans-serif;
+        word-spacing:-2px;
+      }
+      h1 {
+        font-size:100px;
+        font-weight:bold;
+        color:#191919;
+        -webkit-font-smoothing: antialiased;
+      }
+      h2 {
+        font-weight:normal;
+        font-size:50px;
+        color:#888;
+        padding:5px 0;
+      }
       #map-canvas {
         width: 800px;
         height: 600px;
@@ -31,86 +49,182 @@
           padding: 5px;     
           border: 1px solid #999;     
         }
+     .message {
+          background:#181818;
+          position: absolute;
+          top: -700px;
+          left: 0;
+          width: 100%;
+          height: 700px;
+          padding: 20px;
+          transition: top 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
+          overflow: hidden;
+          box-sizing: border-box;
+        
+      }
+      .message h1 {
+        color:#FFF;
+      }
+      #toggle {
+        position:absolute;
+        appearance:none;
+        cursor:pointer;
+        left:-100%;
+        top:-100%;
+      }
+      #toggle + label {
+        position:absolute;
+        cursor:pointer;
+        padding:10px;
+        background: #26ae90;
+        width: 200px;
+        height: 50px;
+        border-radius: 3px;
+        padding: 8px 10px;
+        color: #FFF;
+        line-height:20px;
+        font-size:30px;
+        text-align:center;
+        -webkit-font-smoothing: antialiased;
+        cursor: pointer;
+        margin:20px 50px;
+        transition:all 500ms ease;
+      }
+      #toggle + label:after {
+        content:"Start" 
+      }
+
+      .container {
+        transition: margin 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
+        padding:5em 3em;
+        margin: 0;
+        text-align: left;
+      }
+      #toggle:checked ~ .message {
+        top: 0;
+      }
+
+      #toggle:checked ~ .container {
+        margin-top: 700px;
+      }
+
+      #toggle:checked + label {
+        background:#dd6149;
+      }
+
+      #toggle:checked + label:after {
+        content:"End"
+      }
       body{
-      padding:20px;
-    }
+          background-image: url("pics/hat0.jpg");
+          background-size: 100%;
+          background-repeat: no-repeat;
+          background-color: #181818;
+          text-align: left;
+      }
 
     </style>
   </head>
   <body>
-  <form id="search-form" class="form-inline">
-	  <div class="row">
-		  <div class="form-group col-md-2">
-			<label class="sr-only">SAT</label>
-			<div class="input-group">
-				<div class="input-group-addon">SAT</div>
-				<input class="form-control" id="sat" name="sat" placeholder="600-2400">
-			</div>
-		  </div>
-		  <div class="form-group col-md-2">
-			<label class="sr-only">GPA</label>
-			<div class="input-group">
-				<div class="input-group-addon">GPA</div>
-				<input class="form-control" id="gpa" name="gpa" placeholder="<4.00">
-			</div>
-		  </div>
-		  <div class="form-group col-md-3">
-			<label class="sr-only">Top Percentage</label>
-			<div class="input-group">
-				<div class="input-group-addon">Top Percentage</div>
-				<input class="form-control" id="percentage" name="percentage">
-				<div class="input-group-addon">%</div>
-			</div>
-		  </div>
-	  </div>
-	  <br/>
-	  <div class="row">
-		  <div class="form-group col-md-2">
-			<label class="sr-only">Location</label>
-			<div class="input-group">
-			<div class="input-group-addon">location</div>
-			 <select class="form-control" id="location" name="location">
-				<option>Whatever</option>
-				<option>Alabama</option>
-				<option>Alaska</option>
-				<option>Arizona</option>
-				<option>Arkansas</option>
-				<option>California</option>
-				<option>Colorado</option>
-				<option>Connecticut</option>
-				<option>Delaware</option>
-				<option>Florida</option>
-				<option>Georgia</option>
-				<option>Hawaii</option>
-				<option>Idaho</option>
-				<option>Illinois</option>	
-			</select>
-			</div>
-		  </div>
-		  <div class="form-group col-md-2">
-			<label class="sr-only">Tuition</label>
-			<div class="input-group">
-				<div class="input-group-addon">Tuition $</div>
-				<select class="form-control" id="tuition" name="tuition">
-					<option>5-4</option>
-					<option>4-3</option>
-					<option>3-2</option>
-					<option>2-1</option>
-					<option>&lt;1</option>	
-				</select>
-			</div>
-		  </div>
-		  <div class="form-group col-md-3">
-			<label class="sr-only">Concentration</label>
-			<div class="input-group">
-				<div class="input-group-addon">Concentration</div>
-				<input class="form-control" id="major" name="major">
-			</div>
-		  </div>
-		  <button type="submit" class="btn btn-primary" >Search</button>
-		</div>
-	</form>  
+   <input type="checkbox" name="toggle" id="toggle" />
+   <label for="toggle"></label>
+   <div class="container">
+     <h1>Sorting Hat</h1>
+     <h2>Path to Your Future</h2>
+  </div>
+  <div class="message">
+    <form id="search-form" class="form-inline">
+  	  <div class="row">
+  		  <div class="form-group col-md-2">
+  			<label class="sr-only">SAT</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">SAT</div>
+  				<input class="form-control" id="sat" name="sat" placeholder="600-2400">
+  			</div>
+  		  </div>
+  		  <div class="form-group col-md-2">
+  			<label class="sr-only">GPA</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">GPA</div>
+  				<input class="form-control" id="gpa" name="gpa" placeholder="<4.00">
+  			</div>
+  		  </div>
+  		  <div class="form-group col-md-3">
+  			<label class="sr-only">Top Percentage</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">Top Percentage</div>
+  				<input class="form-control" id="percentage" name="percentage">
+  				<div class="input-group-addon">%</div>
+  			</div>
+  		  </div>
+  	  </div>
+  	  <br/>
+  	  <div class="row">
+  		  <div class="form-group col-md-2">
+  			<label class="sr-only">Location</label>
+  			<div class="input-group">
+  			<div class="input-group-addon">location</div>
+  			 <select class="form-control" id="location" name="location">
+  				<option>Whatever</option>
+  				<option>Alabama</option>
+  				<option>Alaska</option>
+  				<option>Arizona</option>
+  				<option>Arkansas</option>
+  				<option>California</option>
+  				<option>Colorado</option>
+  				<option>Connecticut</option>
+  				<option>Delaware</option>
+  				<option>Florida</option>
+  				<option>Georgia</option>
+  				<option>Hawaii</option>
+  				<option>Idaho</option>
+  				<option>Illinois</option>	
+  			</select>
+  			</div>
+  		  </div>
+  		  <div class="form-group col-md-2">
+  			<label class="sr-only">Tuition</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">Tuition $</div>
+  				<select class="form-control" id="tuition" name="tuition">
+  					<option>5-4</option>
+  					<option>4-3</option>
+  					<option>3-2</option>
+  					<option>2-1</option>
+  					<option>&lt;1</option>	
+  				</select>
+  			</div>
+  		  </div>
+  		  <div class="form-group col-md-3">
+  			<label class="sr-only">Concentration</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">Concentration</div>
+  				<input class="form-control" id="major" name="major">
+  			</div>
+  		  </div>
+  		  <button type="submit" class="btn btn-primary" >Search</button>
+  		</div>
+  	</form>  
+     <div id="panel">  
+       <input id="address" type="textbox" value="New York, NY">      
+       <input type="button" value="Geocode" onclick="codeAddress()">     
+    </div>
     <div id="map-canvas"></div>
+    <div id="img-preview">
+      <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = 100px, height = 100px>
+      text
+    </div>
+    <div id="sch-content">
+      <h1>haha</h1>
+      <p>
+         <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = 200px, height = 200px><br>
+        Name of school: <br>
+        Ranking: <br>
+        Possibility of acceptance: <br>
+        Tuition: <br>
+      </p>
+    </div>
+  </div>
   </body>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js"></script>
@@ -182,26 +296,5 @@
         });
 		
     </script>
-  </head>
-  <body>
-    <div id="panel">  
-       <input id="address" type="textbox" value="New York, NY">      
-       <input type="button" value="Geocode" onclick="codeAddress()">     
-    </div>
-    <div id="map-canvas"></div>
-    <div id="img-preview">
-      <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = 100px, height = 100px>
-      text
-    </div>
-    <div id="sch-content">
-      <h1>haha</h1>
-      <p>
-         <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = 200px, height = 200px><br>
-        Name of school: <br>
-        Ranking: <br>
-        Possibility of acceptance: <br>
-        Tuition: <br>
-      </p>
-    </div>
-  </body>
+
 </html>
