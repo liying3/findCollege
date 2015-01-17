@@ -117,7 +117,7 @@
         content:"End"
       }
       body{
-          background-image: url("pics/hat0.jpg");
+          background-image: url("../pics/hat0.jpg");
           background-size: 100%;
           background-repeat: no-repeat;
           background-color: #181818;
