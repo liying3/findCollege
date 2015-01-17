@@ -29,6 +29,15 @@ $( document ).ready(function() {
         });   
 	});
 	
+	function showColInfo(i)
+	{
+		$('#cName').text(colleges[i]['name']);
+		$('#cLoc').text(colleges[i]['loc']);
+		$('#cTuition').text(colleges[i]['tuition']);
+		$('#cSAT').text(colleges[i]['aSAT']);
+		$('#cGPA').text(colleges[i]['aGPA']);
+	}
+	
 	var marker; 
        var map;      
        var geocoder;
@@ -55,6 +64,7 @@ $( document ).ready(function() {
        google.maps.event.addListener(marker, 'click', function() {
         //infowindow.open(map,marker);
         $("#sch-content").css("display", "block");
+		showColInfo(0);
       });
 
        google.maps.event.addListener(marker, 'mouseover', function() {
