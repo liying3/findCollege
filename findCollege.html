@@ -1,13 +1,94 @@
 <!DOCTYPE html>
 <html>
   <head>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
     <style>
-      #map-canvas {
-        width: 500px;
-        height: 400px;
-      }
+		body{
+			padding:20px;
+		}
+		#map-canvas {
+			width: 500px;
+			height: 400px;
+			margin-top:20px;
+		}
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
+  </head>
+  <body>
+  <form id="search-form" class="form-inline">
+	  <div class="row">
+		  <div class="form-group col-md-2">
+			<label class="sr-only">SAT</label>
+			<div class="input-group">
+				<div class="input-group-addon">SAT</div>
+				<input class="form-control" id="sat" placeholder="600-2400">
+			</div>
+		  </div>
+		  <div class="form-group col-md-2">
+			<label class="sr-only">GPA</label>
+			<div class="input-group">
+				<div class="input-group-addon">GPA</div>
+				<input class="form-control" id="gpa" placeholder="<4.00">
+			</div>
+		  </div>
+		  <div class="form-group col-md-3">
+			<label class="sr-only">Top Percentage</label>
+			<div class="input-group">
+				<div class="input-group-addon">Top Percentage</div>
+				<input class="form-control" id="percentage">
+				<div class="input-group-addon">%</div>
+			</div>
+		  </div>
+	  </div>
+	  <br/>
+	  <div class="row">
+		  <div class="form-group col-md-2">
+			<label class="sr-only">Location</label>
+			<div class="input-group">
+			<div class="input-group-addon">location</div>
+			 <select class="form-control" id="location">
+				<option>Alabama</option>
+				<option>Alaska</option>
+				<option>Arizona</option>
+				<option>Arkansas</option>
+				<option>California</option>
+				<option>Colorado</option>
+				<option>Connecticut</option>
+				<option>Delaware</option>
+				<option>Florida</option>
+				<option>Georgia</option>
+				<option>Hawaii</option>
+				<option>Idaho</option>
+				<option>Illinois</option>	
+			</select>
+			</div>
+		  </div>
+		  <div class="form-group col-md-2">
+			<label class="sr-only">Tuition</label>
+			<div class="input-group">
+				<div class="input-group-addon">Tuition $</div>
+				<select class="form-control" id="tuition">
+					<option>5-4</option>
+					<option>4-3</option>
+					<option>3-2</option>
+					<option>2-1</option>
+					<option>&lt;1</option>	
+				</select>
+			</div>
+		  </div>
+		  <div class="form-group col-md-3">
+			<label class="sr-only">Concentration</label>
+			<div class="input-group">
+				<div class="input-group-addon">Concentration</div>
+				<input class="form-control" id="major">
+			</div>
+		  </div>
+		  <button type="submit" class="btn btn-primary">Search</button>
+		</div>
+	</form>  
+    <div id="map-canvas"></div>
+  </body>
+  <script src ="bootstrap.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
     <script>
       function initialize() {
         var mapCanvas = document.getElementById('map-canvas');
@@ -20,8 +101,4 @@
       }
       google.maps.event.addDomListener(window, 'load', initialize);
     </script>
-  </head>
-  <body>
-    <div id="map-canvas"></div>
-  </body>
 </html>
