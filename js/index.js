@@ -2,7 +2,9 @@ $( document ).ready(function() {
     $( "#accordion" ).accordion({
       collapsible: true
     });
-	var colleges = [];
+    var colleges = [];
+    var upenn = { name: "University of Pennsylvania", loc: "PA", tuition:25000 , aGPA:3.9 , aSAT:2163 , chance: 100.0, img:"school67"  };
+    colleges[0] = upenn;
     /*---------------------------- form -----------------------------*/
 	$('#search-form').submit(function (e) {
 	    e.preventDefault()
@@ -172,6 +174,7 @@ $( document ).ready(function() {
           center: myLatlng
         }
         map = new google.maps.Map(mapCanvas, mapOptions);
+        codeAddress(0, "University of Pennsylvania");
       }
 
       function codeAddress(i, addr) {      
@@ -220,6 +223,6 @@ $( document ).ready(function() {
 	   
       google.maps.event.addDomListener(window, 'load', initialize);	  
 
-
+      fillTable();
 
 });
