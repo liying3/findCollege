@@ -1,0 +1,491 @@
+Rank;SchoolMajor Quality; RankingMajor Value; RankingAnnual; Graduates% of Total; GraduatesRelated Major; mPower IndexStarting; SalaryMid-Career; Salary
+#1;Bentley University; Waltham, MA; School Quality Ranking:112741,01079.00%8.1$49,000 $90,000 
+#2;CUNY Bernard M Baruch College; New York, NY; School Quality Ranking:22592,34475.60%5.7$48,000 $87,000 
+#3;Bryant University; Smithfield, RI; School Quality Ranking:3316261578.50%6.5$48,000 $91,000 
+#4;University of Pennsylvania; Philadelphia, PA; School Quality Ranking:4434189426.10%4.5$60,000 $125,000 
+#5;University of Denver; Denver, CO; School Quality Ranking:5527147935.20%5.3$44,000 $89,000 
+#6;Lehigh University; Bethlehem, PA; School Quality Ranking:6630539830.20%4.9$54,000 $107,000 
+#7;Villanova University; Villanova, PA; School Quality Ranking:7735260628.60%6$53,000 $102,000 
+#8;University of California-Berkeley; Berkeley, CA; School Quality Ranking:883313403.90%5.8$63,000 $114,000 
+#9;New York University; New York, NY; School Quality Ranking:993901,12217.50%4.2$63,000 $107,000 
+#10;Baylor University; Waco, TX; School Quality Ranking:101017985328.40%3.6$46,000 $87,000 NextLast
+#11;Georgetown University; Washington, DC; School Quality Ranking:111137448321.80%4.6$60,000 $115,000 
+#12;University of Southern California; Los Angeles, CA; School Quality Ranking:12123481,18023.60%4.4$53,000 $98,000 
+#13;Baker University; Baldwin City, KS; School Quality Ranking:13138343863.60%8$40,000 $71,000 
+#14;Fashion Institute of Technology; New York, NY; School Quality Ranking:1414N/A1,23836.80%1.6$42,000 $82,000 
+#15;University of San Diego; San Diego, CA; School Quality Ranking:151534364343.20%5.4$47,000 $81,000 
+#16;Southern Methodist University; Dallas, TX; School Quality Ranking:161635536621.40%4$49,000 $106,000 
+#17;University of San Francisco; San Francisco, CA; School Quality Ranking:171737045431.30%5.7$50,000 $85,000 
+#18;University of Georgia; Athens, GA; School Quality Ranking:1818421,55121.10%4.5$45,000 $91,000 
+#19;Syracuse University; Syracuse, NY; School Quality Ranking:191928374919.10%3.7$50,000 $103,000 
+#20;Emory University; Atlanta, GA; School Quality Ranking:202028830111.60%4.8$50,000 $80,000 FirstPrevNextLast
+#21;University of Wisconsin-Madison; Madison, WI; School Quality Ranking:21211951,02112.00%4.1$50,000 $92,000 
+#22;Boston College; Chestnut Hill, MA; School Quality Ranking:222239067421.20%4.1$57,000 $112,000 
+#23;Cornell University; Ithaca, NY; School Quality Ranking:232333148812.40%4.2$55,000 $92,000 
+#24;College of William and Mary; Williamsburg, VA; School Quality Ranking:242428822511.70%5.3$43,000 $107,000 
+#25;University of Delaware; Newark, DE; School Quality Ranking:252514481518.40%4.4$49,000 $98,000 
+#26;Washington University in St Louis; Saint Louis, MO; School Quality Ranking:262641729714.30%5$56,000 $94,000 
+#27;Virginia Polytechnic Institute and State University; Blacksburg, VA; School Quality Ranking:27271321,09418.50%5.2$47,000 $87,000 
+#28;University of South Carolina-Columbia; Columbia, SC; School Quality Ranking:28281541,77433.50%5.5$40,000 $69,000 
+#29;Citadel Military College of South Carolina; Charleston, SC; School Quality Ranking:292914113625.60%8.5$43,000 $81,000 
+#30;Fordham University; Bronx, NY; School Quality Ranking:303040656626.20%3.4$51,000 $90,000 FirstPrevNextLast
+#31;DePaul University; Chicago, IL; School Quality Ranking:31312861,07528.30%5$46,000 $84,000 
+#32;Iona College; New Rochelle, NY; School Quality Ranking:323214125036.60%7.2$48,000 $90,000 
+#33;Fairfield University; Fairfield, CT; School Quality Ranking:333329724525.50%5.5$50,000 $99,000 
+#34;SUNY Maritime College; Throggs Neck, NY; School Quality Ranking:34343018752.70%7.8$38,000 $71,000 
+#35;Pace University-New York; New York, NY; School Quality Ranking:353531856334.70%7.4$50,000 $88,000 
+#36;Marquette University; Milwaukee, WI; School Quality Ranking:363621057325.20%4.9$45,000 $84,000 
+#37;Temple University; Philadelphia, PA; School Quality Ranking:37372011,19520.20%4.2$42,000 $78,000 
+#38;University of Washington-Seattle Campus; Seattle, WA; School Quality Ranking:383822986410.10%3.5$50,000 $94,000 
+#39;Mount Vernon Nazarene University; Mount Vernon, OH; School Quality Ranking:3939115534.30%8.4$42,000 $65,000 
+#40;University of Notre Dame; Notre Dame, IN; School Quality Ranking:404032762122.60%2.6$57,000 $112,000 FirstPrevNextLast
+#41;Texas Christian University; Fort Worth, TX; School Quality Ranking:414132248423.90%3.9$46,000 $93,000 
+#42;LeTourneau University; Longview, TX; School Quality Ranking:424211420633.90%3.4$44,000 $71,000 
+#43;Michigan State University; East Lansing, MI; School Quality Ranking:43432661,36317.20%4.6$48,000 $88,000 
+#44;Hofstra University; Hempstead, NY; School Quality Ranking:444435543425.00%4$47,000 $95,000 
+#45;Seattle University; Seattle, WA; School Quality Ranking:454527432926.40%5.4$46,000 $83,000 
+#46;George Washington University; Washington, DC; School Quality Ranking:464635445815.30%3.4$52,000 $105,000 
+#47;University of St Thomas Minnesota; Saint Paul, MN; School Quality Ranking:47473258238.40%4.5$44,000 $90,000 
+#48;University of Richmond; University of Richmond, VA; School Quality Ranking:484818234332.00%5.8$49,000 $80,000 
+#49;Pepperdine University; Malibu, CA; School Quality Ranking:494934130529.10%5.3$48,000 $88,000 
+#50;University of Dayton; Dayton, OH; School Quality Ranking:50506453328.80%5.2$45,000 $88,000 FirstPrevNextLast
+#51;University of Illinois at Urbana-Champaign; Champaign, IL; School Quality Ranking:51512701,04712.90%3.7$54,000 $96,000 
+#52;United States Air Force Academy; USAFA, CO; School Quality Ranking:5252N/A10910.30%7.3$60,000 $102,000 
+#53;Drake University; Des Moines, IA; School Quality Ranking:53533533535.00%4.3$43,000 $89,000 
+#54;Northeastern University; Boston, MA; School Quality Ranking:5454N/A1,05226.40%5.2$49,000 $83,000 
+#55;Florida State University; Tallahassee, FL; School Quality Ranking:5555491,89020.50%3.9$41,000 $85,000 
+#56;Monmouth University; West Long Branch, NJ; School Quality Ranking:565618227220.80%5.6$40,000 $94,000 
+#57;Boston University; Boston, MA; School Quality Ranking:575746374318.20%4.3$48,000 $83,000 
+#58;Wentworth Institute of Technology; Boston, MA; School Quality Ranking:585832121727.40%5.1$50,000 $80,000 
+#59;Purdue University-Main Campus; West Lafayette, IN; School Quality Ranking:59593161,23917.10%4.9$48,000 $79,000 
+#60;Gonzaga University; Spokane, WA; School Quality Ranking:6060233923.70%5.3$46,000 $93,000 FirstPrevNextLast
+#61;Tulane University of Louisiana; New Orleans, LA; School Quality Ranking:616144447521.70%4.4$47,000 $76,000 
+#62;Georgia Institute of Technology-Main Campus; Atlanta, GA; School Quality Ranking:626230942613.60%5.3$48,000 $100,000 
+#63;University of Houston; Houston, TX; School Quality Ranking:6363431,63728.60%3.7$45,000 $80,000 
+#64;Trinity University; San Antonio, TX; School Quality Ranking:64648514920.60%5.2$47,000 $88,000 
+#65;Trevecca Nazarene University; Nashville, TN; School Quality Ranking:6565217445.80%9.8$40,000 $67,000 
+#66;Duquesne University; Pittsburgh, PA; School Quality Ranking:66665139827.40%5.6$44,000 $71,000 
+#67;Miami University-Oxford; Oxford, OH; School Quality Ranking:676734399223.50%4.4$49,000 $96,000 
+#68;Suffolk University; Boston, MA; School Quality Ranking:686840854840.00%4.5$42,000 $77,000 
+#69;University of Connecticut; Storrs, CT; School Quality Ranking:696921959410.80%4$49,000 $90,000 
+#70;University of Oklahoma Norman Campus; Norman, OK; School Quality Ranking:70707377018.20%3.8$42,000 $91,000 FirstPrevNextLast
+#71;John Carroll University; University Heights, OH; School Quality Ranking:71713020930.30%6$46,000 $84,000 
+#72;Quinnipiac University; Hamden, CT; School Quality Ranking:727241032021.20%6.2$49,000 $82,000 
+#73;The University of Texas at Austin; Austin, TX; School Quality Ranking:73734021,08411.80%3.4$50,000 $90,000 
+#74;Providence College; Providence, RI; School Quality Ranking:747443431433.10%5$46,000 $86,000 
+#75;Morehouse College; Atlanta, GA; School Quality Ranking:75751509722.20%8.4$44,000 $77,000 
+#76;University of Colorado Boulder; Boulder, CO; School Quality Ranking:767648667610.50%5.1$42,000 $94,000 
+#77;Iowa State University; Ames, IA; School Quality Ranking:77771297317.90%5$44,000 $80,000 
+#78;University of Arizona; Tucson, AZ; School Quality Ranking:78782051,20617.20%4$44,000 $94,000 
+#79;Santa Clara University; Santa Clara, CA; School Quality Ranking:797946936027.70%4.2$53,000 $101,000 
+#80;Pennsylvania State University-Main Campus; University Park, PA; School Quality Ranking:80803701,54614.60%3.4$46,000 $84,000 FirstPrevNextLast
+#81;Washington State University; Pullman, WA; School Quality Ranking:818122892117.50%4.1$45,000 $86,000 
+#82;Saint Mary's University of Minnesota; Winona, MN; School Quality Ranking:82826925644.50%7$46,000 $74,000 
+#83;University of Miami; Coral Gables, FL; School Quality Ranking:838345249516.20%4.2$46,000 $80,000 
+#84;Louisiana State University and AgriculturalMechanical College; Baton Rouge, LA; School Quality Ranking:84848481817.90%4.4$44,000 $83,000 
+#85;Washington and Lee University; Lexington, VA; School Quality Ranking:858531210618.50%5.7$51,000 $99,000 
+#86;California Polytechnic State University-San Luis Obispo; San Luis Obispo, CA; School Quality Ranking:86862332607.80%6.1$51,000 $94,000 
+#87;Rensselaer Polytechnic Institute; Troy, NY; School Quality Ranking:8787456735.60%3.9$44,000 $96,000 
+#88;James Madison University; Harrisonburg, VA; School Quality Ranking:888812657213.40%6.1$50,000 $87,000 
+#89;Loyola University-Chicago; Chicago, IL; School Quality Ranking:898934856720.90%4.4$43,000 $87,000 
+#90;Rider University; Lawrenceville, NJ; School Quality Ranking:909033537936.20%4.9$43,000 $86,000 FirstPrevNextLast
+#91;Georgia State University; Atlanta, GA; School Quality Ranking:91911991,23026.70%4.9$42,000 $76,000 
+#92;Wake Forest University; Winston Salem, NC; School Quality Ranking:929248823718.40%2.1$52,000 $97,000 
+#93;Elon University; Elon, NC; School Quality Ranking:939327127921.00%4.5$46,000 $69,000 
+#94;Florida International University; Miami, FL; School Quality Ranking:94942152,96134.60%5.6$38,000 $72,000 
+#95;SUNY at Binghamton; Vestal, NY; School Quality Ranking:95951536411.30%4$49,000 $89,000 
+#96;Emerson College; Boston, MA; School Quality Ranking:969647814416.50%7.3$41,000 $69,000 
+#97;University of Massachusetts Amherst; Amherst, MA; School Quality Ranking:979712384614.60%4.4$47,000 $90,000 
+#98;University of North Texas; Denton, TX; School Quality Ranking:989861,22619.10%4.5$43,000 $81,000 
+#99;University of Florida; Gainesville, FL; School Quality Ranking:99991258799.40%3.5$47,000 $76,000 
+#100;Texas Tech University; Lubbock, TX; School Quality Ranking:100100141,13420.90%4$44,000 $86,000 FirstPrevNextLast
+#101;The University of Texas at Dallas; Richardson, TX; School Quality Ranking:1011018789632.40%4.8$45,000 $70,000 
+#102;George Mason University; Fairfax, VA; School Quality Ranking:10210239999219.80%4.1$48,000 $84,000 
+#103;University of California-Irvine; Irvine, CA; School Quality Ranking:10310338263910.20%5.9$39,000 $73,000 
+#104;University of Minnesota-Twin Cities; Minneapolis, MN; School Quality Ranking:1041041994511.50%3.7$46,000 $83,000 
+#105;Marist College; Poughkeepsie, NY; School Quality Ranking:10510538725722.40%7.1$46,000 $79,000 
+#106;Illinois State University; Normal, IL; School Quality Ranking:1061062597820.50%4.2$43,000 $84,000 
+#107;Central Michigan University; Mount Pleasant, MI; School Quality Ranking:107107741,08224.40%4.1$42,000 $74,000 
+#108;University of Massachusetts-Lowell; Lowell, MA; School Quality Ranking:10810823135216.50%7.3$47,000 $77,000 
+#109;University at Buffalo; Buffalo, NY; School Quality Ranking:1091096176716.20%4.2$43,000 $80,000 
+#110;Southern New Hampshire University; Manchester, NH; School Quality Ranking:11011036689757.40%8$40,000 $64,000 FirstPrevNextLast
+#111;Clemson University; Clemson, SC; School Quality Ranking:11111121171619.10%4.3$43,000 $79,000 
+#112;Wagner College; Staten Island, NY; School Quality Ranking:112112N/A6814.80%5.8$49,000 $79,000 
+#113;American University; Washington, DC; School Quality Ranking:11311349930615.60%4.4$48,000 $83,000 
+#114;Wheeling Jesuit University; Wheeling, WV; School Quality Ranking:114114N/A5123.10%9.7$41,000 $70,000 
+#115;Arizona State University; Tempe, AZ; School Quality Ranking:1151151051,89920.40%3.9$45,000 $86,000 
+#116;Clark University; Worcester, MA; School Quality Ranking:116116104315.20%7$38,000 $76,000 
+#117;Stetson University; DeLand, FL; School Quality Ranking:1171174612524.90%6.4$39,000 $77,000 
+#118;La Salle University; Philadelphia, PA; School Quality Ranking:11811830328624.70%3.7$48,000 $90,000 
+#119;Sacred Heart University; Fairfield, CT; School Quality Ranking:11911950129231.80%5.5$50,000 $81,000 
+#120;Oklahoma State University-Main Campus; Stillwater, OK; School Quality Ranking:1201206787924.10%5.5$42,000 $72,000 FirstPrevNextLast
+#121;Stonehill College; Easton, MA; School Quality Ranking:121121N/A14619.00%5.3$46,000 $84,000 
+#122;Creighton University; Omaha, NE; School Quality Ranking:12212213619416.70%5.8$44,000 $91,000 
+#123;Siena College; Loudonville, NY; School Quality Ranking:12312317431639.60%3.9$43,000 $78,000 
+#124;Point Loma Nazarene University; San Diego, CA; School Quality Ranking:12412418612121.00%4.4$43,000 $80,000 
+#125;University of Mississippi Main Campus; University, MS; School Quality Ranking:1251253579527.80%4.9$41,000 $83,000 
+#126;University of Massachusetts-Boston; Boston, MA; School Quality Ranking:126126N/A45218.90%5.6$43,000 $84,000 
+#127;University of Hawaii at Manoa; Honolulu, HI; School Quality Ranking:12712738759318.50%4$41,000 $74,000 
+#128;University of Nebraska-Lincoln; Lincoln, NE; School Quality Ranking:12812814088321.90%5.2$41,000 $78,000 
+#129;Illinois Institute of Technology; Chicago, IL; School Quality Ranking:129129N/A345.60%4.4$42,000 $92,000 
+#130;Seton Hall University; South Orange, NJ; School Quality Ranking:13013031621818.10%3.6$49,000 $93,000 FirstPrevNextLast
+#131;University of Utah; Salt Lake City, UT; School Quality Ranking:13113140261812.00%3.3$45,000 $83,000 
+#132;University of Redlands; Redlands, CA; School Quality Ranking:13213248431539.30%5.2$45,000 $89,000 
+#133;Case Western Reserve University; Cleveland, OH; School Quality Ranking:133133501878.20%4.9$49,000 $77,000 
+#134;University of California-Santa Barbara; Santa Barbara, CA; School Quality Ranking:1341344721632.80%6.5$50,000 $99,000 
+#135;Philadelphia University; Philadelphia, PA; School Quality Ranking:13513536421031.00%7.5$39,000 $78,000 
+#136;Robert Morris University; Moon Township, PA; School Quality Ranking:13613614831742.60%7.8$40,000 $70,000 
+#137;Montclair State University; Montclair, NJ; School Quality Ranking:13713726944213.80%5.2$45,000 $84,000 
+#138;University of Colorado Denver; Denver, CO; School Quality Ranking:13813842734515.80%5.5$42,000 $63,000 
+#139;Bradley University; Peoria, IL; School Quality Ranking:1391399421116.90%4.7$45,000 $83,000 
+#140;Rockhurst University; Kansas City, MO; School Quality Ranking:1401401448015.90%8.5$42,000 $72,000 FirstPrevNextLast
+#141;Northwestern University; Evanston, IL; School Quality Ranking:141141556210.80%4.2$51,000 $75,000 
+#142;Elizabethtown College; Elizabethtown, PA; School Quality Ranking:142142N/A7014.70%8.1$43,000 $76,000 
+#143;University of North Carolina at Chapel Hill; Chapel Hill, NC; School Quality Ranking:1431431954147.10%4.8$44,000 $83,000 
+#144;California State University-Chico; Chico, CA; School Quality Ranking:14414422461016.50%5.4$48,000 $83,000 
+#145;Rochester Institute of Technology; Rochester, NY; School Quality Ranking:14514546829611.10%6.6$42,000 $80,000 
+#146;Pacific Lutheran University; Tacoma, WA; School Quality Ranking:14614658510.90%5$41,000 $88,000 
+#147;University of Arkansas; Fayetteville, AR; School Quality Ranking:1471477779622.20%4.8$41,000 $77,000 
+#148;University of California-Los Angeles; Los Angeles, CA; School Quality Ranking:1481485131942.50%6.4$60,000 $113,000 
+#149;Brown University; Providence, RI; School Quality Ranking:149149548663.40%1.6$47,000 $106,000 
+#150;Drexel University; Philadelphia, PA; School Quality Ranking:15015056460019.90%3.4$45,000 $79,000 FirstPrevNextLast
+#151;Auburn University; Auburn University, AL; School Quality Ranking:15115135082318.70%5$41,000 $79,000 
+#152;St John's University-New York; Queens, NY; School Quality Ranking:15215255949221.10%4.3$47,000 $88,000 
+#153;University of Iowa; Iowa City, IA; School Quality Ranking:15315335899519.20%2.9$43,000 $86,000 
+#154;Merrimack College; North Andover, MA; School Quality Ranking:15415427817132.00%6.7$46,000 $87,000 
+#155;University of Kansas; Lawrence, KS; School Quality Ranking:15515511563914.20%3.6$45,000 $81,000 
+#156;Carnegie Mellon University; Pittsburgh, PA; School Quality Ranking:156156564925.50%4.9$54,000 $92,000 
+#157;Widener University-Main Campus; Chester, PA; School Quality Ranking:15715753415523.10%6$43,000 $78,000 
+#158;Le Moyne College; Syracuse, NY; School Quality Ranking:1581589619630.30%5.2$45,000 $61,000 
+#159;Clarkson University; Potsdam, NY; School Quality Ranking:15915920110414.90%2.9$47,000 $86,000 
+#160;University of Cincinnati-Main Campus; Cincinnati, OH; School Quality Ranking:16016051575615.40%4.9$42,000 $84,000 FirstPrevNextLast
+#161;California State Polytechnic University-Pomona; Pomona, CA; School Quality Ranking:1611611641,30131.00%5.2$43,000 $88,000 
+#162;Rutgers University-New Brunswick; New Brunswick, NJ; School Quality Ranking:16216235878211.30%4.1$50,000 $96,000 
+#163;University of California-Riverside; Riverside, CA; School Quality Ranking:16316348869915.20%6$43,000 $81,000 
+#164;St Marys University; San Antonio, TX; School Quality Ranking:164164812322.50%5.4$44,000 $85,000 
+#165;Woodbury University; Burbank, CA; School Quality Ranking:1651655458935.70%6.3$42,000 $81,000 
+#166;California State University-Sacramento; Sacramento, CA; School Quality Ranking:1661662411,17020.20%5.2$46,000 $90,000 
+#167;George Fox University; Newberg, OR; School Quality Ranking:16716713116025.70%4.9$43,000 $76,000 
+#168;Roanoke College; Salem, VA; School Quality Ranking:1681681818618.00%7$36,000 $71,000 
+#169;Azusa Pacific University; Azusa, CA; School Quality Ranking:16916940632320.20%4.2$44,000 $79,000 
+#170;University of Illinois at Chicago; Chicago, IL; School Quality Ranking:17017029160815.40%3.6$44,000 $89,000 FirstPrevNextLast
+#171;University of Scranton; Scranton, PA; School Quality Ranking:17117148520620.80%6.2$41,000 $71,000 
+#172;University of Central Florida; Orlando, FL; School Quality Ranking:1721722262,90422.40%5.6$37,000 $70,000 
+#173;Gwynedd Mercy College; Gwynedd Valley, PA; School Quality Ranking:17317325920429.20%9.2$40,000 $60,000 
+#174;Assumption College; Worcester, MA; School Quality Ranking:17417418213725.70%6.8$42,000 $80,000 
+#175;Peirce College; Philadelphia, PA; School Quality Ranking:175175N/A24058.20%9.8$40,000 $61,000 
+#176;Canisius College; Buffalo, NY; School Quality Ranking:1761768123026.70%6.3$40,000 $71,000 
+#177;University of Northern Iowa; Cedar Falls, IA; School Quality Ranking:1771771752619.60%3.6$42,000 $80,000 
+#178;University of California-San Diego; La Jolla, CA; School Quality Ranking:1781785172914.40%3.6$49,000 $91,000 
+#179;The College of New Jersey; Ewing, NJ; School Quality Ranking:17917932726617.80%5.5$46,000 $75,000 
+#180;Samford University; Birmingham, AL; School Quality Ranking:18018013413418.70%4.6$40,000 $89,000 FirstPrevNextLast
+#181;Augsburg College; Minneapolis, MN; School Quality Ranking:18118136327230.40%5.2$46,000 $70,000 
+#182;Biola University; La Mirada, CA; School Quality Ranking:1821822214115.50%5.1$42,000 $77,000 
+#183;Manhattan College; Riverdale, NY; School Quality Ranking:18318347312618.40%1.6$50,000 $90,000 
+#184;Sonoma State University; Rohnert Park, CA; School Quality Ranking:18418426136320.40%5.1$47,000 $79,000 
+#185;Chapman University; Orange, CA; School Quality Ranking:18518519531422.60%4.3$42,000 $79,000 
+#186;Regis University; Denver, CO; School Quality Ranking:18618655435025.20%6.2$47,000 $70,000 
+#187;San Diego State University; San Diego, CA; School Quality Ranking:1871872011,20519.80%5.5$40,000 $80,000 
+#188;John Brown University; Siloam Springs, AR; School Quality Ranking:1881881123550.20%6.9$38,000 $51,000 
+#189;Malone University; Canton, OH; School Quality Ranking:1891894716128.00%6.1$41,000 $55,000 
+#190;Nichols College; Dudley, MA; School Quality Ranking:19019025020273.20%8.4$41,000 $81,000 FirstPrevNextLast
+#191;Dickinson College; Carlisle, PA; School Quality Ranking:191191537528.30%4.6$43,000 $108,000 
+#192;University of Tulsa; Tulsa, OK; School Quality Ranking:19219224214419.00%4.8$44,000 $86,000 
+#193;Adelphi University; Garden City, NY; School Quality Ranking:19319344914911.40%4.6$47,000 $87,000 
+#194;Ithaca College; Ithaca, NY; School Quality Ranking:19419450817410.40%3.3$44,000 $81,000 
+#195;Niagara University; Niagara University, NY; School Quality Ranking:1951956233033.60%7.2$39,000 $73,000 
+#196;University of South Florida-Main Campus; Tampa, FL; School Quality Ranking:196196431,36117.10%4.6$40,000 $72,000 
+#197;Mercyhurst College; Erie, PA; School Quality Ranking:1971972611821.40%7.4$42,000 $58,000 
+#198;University of Portland; Portland, OR; School Quality Ranking:19819852110111.40%5.5$46,000 $80,000 
+#199;Appalachian State University; Boone, NC; School Quality Ranking:1991992870619.60%4.3$40,000 $74,000 
+#200;Kansas State University; Manhattan, KS; School Quality Ranking:20020015464317.30%4$42,000 $78,000 FirstPrevNextLast
+#201;University of Nevada-Las Vegas; Las Vegas, NV; School Quality Ranking:2012013681,35835.10%4.7$43,000 $76,000 
+#202;University of New Hampshire-Main Campus; Durham, NH; School Quality Ranking:20220248672821.20%4.7$44,000 $83,000 
+#203;University of Pittsburgh-Pittsburgh Campus; Pittsburgh, PA; School Quality Ranking:20320339773614.70%3.8$45,000 $79,000 
+#204;Loyola University-New Orleans; New Orleans, LA; School Quality Ranking:2042043717625.10%5.3$45,000 $71,000 
+#205;Benedictine University; Lisle, IL; School Quality Ranking:20520516732035.40%7.9$43,000 $71,000 
+#206;University of Detroit Mercy; Detroit, MI; School Quality Ranking:206206511628.80%8.6$42,000 $77,000 
+#207;Roosevelt University; Chicago, IL; School Quality Ranking:20720753332935.30%6.3$37,000 $74,000 
+#208;University of Massachusetts-Dartmouth; North Dartmouth, MA; School Quality Ranking:20820819538130.10%5.2$41,000 $83,000 
+#209;Valparaiso University; Valparaiso, IN; School Quality Ranking:2092097510314.00%4.4$46,000 $83,000 
+#210;National-Louis University; Chicago, IL; School Quality Ranking:210210N/A17937.90%1.6$48,000 $77,000 FirstPrevNextLast
+#211;Cardinal Stritch University; Milwaukee, WI; School Quality Ranking:21121155445362.30%9.6$41,000 $60,000 
+#212;Texas Lutheran University; Seguin, TX; School Quality Ranking:212212285121.10%8.5$43,000 $71,000 
+#213;Centenary College; Hackettstown, NJ; School Quality Ranking:213213N/A20437.40%5.5$43,000 $81,000 
+#214;Saint Louis University-Main Campus; Saint Louis, MO; School Quality Ranking:21421460143722.60%7.1$40,000 $77,000 
+#215;New Jersey Institute of Technology; Newark, NJ; School Quality Ranking:2152155581089.50%5.1$47,000 $80,000 
+#216;Abilene Christian University; Abilene, TX; School Quality Ranking:21621625118325.00%4.9$45,000 $86,000 
+#217;The University of Tampa; Tampa, FL; School Quality Ranking:21721719335226.20%4.9$41,000 $78,000 
+#218;Susquehanna University; Selinsgrove, PA; School Quality Ranking:21821817012322.30%5.1$43,000 $78,000 
+#219;Southern Nazarene University; Bethany, OK; School Quality Ranking:2192191022046.30%1.6$40,000 $59,000 
+#220;North Central College; Naperville, IL; School Quality Ranking:22022013819726.00%5.4$41,000 $80,000 FirstPrevNextLast
+#221;Saint Ambrose University; Davenport, IA; School Quality Ranking:221221418624.80%7$42,000 $63,000 
+#222;Anderson University Indiana; Anderson, IN; School Quality Ranking:2222224911222.60%6.2$42,000 $95,000 
+#223;Salve Regina University; Newport, RI; School Quality Ranking:2232234549118.10%5.4$45,000 $79,000 
+#224;Westmont College; Santa Barbara, CA; School Quality Ranking:2242243974512.90%5.1$46,000 $78,000 
+#225;Western Washington University; Bellingham, WA; School Quality Ranking:22522516049314.10%3.8$46,000 $87,000 
+#226;University of La Verne; La Verne, CA; School Quality Ranking:22622659544241.10%5.8$41,000 $75,000 
+#227;Albertus Magnus College; New Haven, CT; School Quality Ranking:227227N/A24856.10%7.2$45,000 $63,000 
+#228;DeSales University; Center Valley, PA; School Quality Ranking:228228N/A13423.30%7.6$45,000 $65,000 
+#229;Mount Mercy University; Cedar Rapids, IA; School Quality Ranking:22922923517838.80%7.9$40,000 $66,000 
+#230;Bucknell University; Lewisburg, PA; School Quality Ranking:23023061513612.60%3.9$50,000 $111,000 FirstPrevNextLast
+#231;Ramapo College of New Jersey; Mahwah, NJ; School Quality Ranking:23123135830021.70%5.3$45,000 $81,000 
+#232;Berry College; Mount Berry, GA; School Quality Ranking:232232536915.50%8$44,000 $93,000 
+#233;Central Connecticut State University; New Britain, CT; School Quality Ranking:23323327149225.80%4.5$45,000 $81,000 
+#234;University of Wisconsin-Whitewater; Whitewater, WI; School Quality Ranking:2342341367131.70%5.1$42,000 $74,000 
+#235;North Dakota State University-Main Campus; Fargo, ND; School Quality Ranking:23523513539217.00%4.2$40,000 $76,000 
+#236;New York Institute of Technology; Old Westbury, NY; School Quality Ranking:23623657715115.70%7.7$45,000 $79,000 
+#237;University of Wisconsin-Eau Claire; Eau Claire, WI; School Quality Ranking:2372374548521.00%4.9$44,000 $79,000 
+#238;United States Military Academy; West Point, NY; School Quality Ranking:238238N/A696.60%7.2$53,000 $123,000 
+#239;Howard University; Washington, DC; School Quality Ranking:23923934321017.10%3.4$45,000 $88,000 
+#240;University of Michigan-Ann Arbor; Ann Arbor, MI; School Quality Ranking:2402406044475.80%5.2$47,000 $80,000 FirstPrevNextLast
+#241;Mississippi State University; Mississippi State, MS; School Quality Ranking:2412417159418.50%4.7$39,000 $73,000 
+#242;University of Wisconsin-La Crosse; La Crosse, WI; School Quality Ranking:2422422340719.80%5.2$41,000 $73,000 
+#243;Butler University; Indianapolis, IN; School Quality Ranking:24324352412816.20%3.8$44,000 $75,000 
+#244;California Lutheran University; Thousand Oaks, CA; School Quality Ranking:24424411218925.40%4.3$48,000 $86,000 
+#245;Pratt Institute-Main; Brooklyn, NY; School Quality Ranking:24524562491.40%1.6$54,000 N/A
+#246;Winthrop University; Rock Hill, SC; School Quality Ranking:24624612426626.90%6.7$35,000 $73,000 
+#247;Saint John Fisher College; Rochester, NY; School Quality Ranking:2472479819023.40%4.6$40,000 $81,000 
+#248;San Jose State University; San Jose, CA; School Quality Ranking:2482485361,36125.60%4.8$48,000 $80,000 
+#249;Grand Valley State University; Allendale, MI; School Quality Ranking:249249381,06521.60%5.4$37,000 $62,000 
+#250;Roger Williams University; Bristol, RI; School Quality Ranking:25025060522824.00%6.3$45,000 $73,000 FirstPrevNextLast
+#251;Towson University; Towson, MD; School Quality Ranking:25125125158313.60%5.4$46,000 $83,000 
+#252;Norwich University; Northfield, VT; School Quality Ranking:252252884512.00%6.2$49,000 $76,000 
+#253;Rowan University; Glassboro, NJ; School Quality Ranking:25325316835814.00%5$44,000 $80,000 
+#254;University of Vermont; Burlington, VT; School Quality Ranking:2542545792338.50%3.5$40,000 $71,000 
+#255;Longwood University; Farmville, VA; School Quality Ranking:25525525910212.00%6.3$42,000 $75,000 
+#256;Whittier College; Whittier, CA; School Quality Ranking:256256N/A4814.00%6.9$52,000 $88,000 
+#257;Marian University Indiana; Indianapolis, IN; School Quality Ranking:25725729619034.20%8.5$40,000 $74,000 
+#258;Bethel University Minnesota; Saint Paul, MN; School Quality Ranking:25825832923222.60%5.4$43,000 $60,000 
+#259;Wofford College; Spartanburg, SC; School Quality Ranking:2592595512326.90%5.8$41,000 $75,000 
+#260;University of California-Davis; Davis, CA; School Quality Ranking:2602606012823.60%6.4$50,000 $90,000 FirstPrevNextLast
+#261;Milwaukee School of Engineering; Milwaukee, WI; School Quality Ranking:2612612749818.20%7$45,000 $81,000 
+#262;State University of New York at New Paltz; New Paltz, NY; School Quality Ranking:2622626824213.30%4.5$44,000 $86,000 
+#263;Gettysburg College; Gettysburg, PA; School Quality Ranking:263263N/A7410.00%6.2$47,000 $83,000 
+#264;University of Mary Washington; Fredericksburg, VA; School Quality Ranking:26426418915513.70%5.8$46,000 $92,000 
+#265;Stony Brook University; Stony Brook, NY; School Quality Ranking:265265913698.60%5.2$45,000 $82,000 
+#266;Muhlenberg College; Allentown, PA; School Quality Ranking:266266N/A17323.20%3.9$45,000 $92,000 
+#267;Illinois Wesleyan University; Bloomington, IL; School Quality Ranking:267267N/A12723.30%4$45,000 $86,000 
+#268;University of Kentucky; Lexington, KY; School Quality Ranking:26826815482119.10%4.3$41,000 $80,000 
+#269;Messiah College; Mechanicsburg, PA; School Quality Ranking:2692691198012.50%5.2$45,000 $70,000 
+#270;Presbyterian College; Clinton, SC; School Quality Ranking:27027075217.60%6.2$44,000 $81,000 FirstPrevNextLast
+#271;Nova Southeastern University; Fort Lauderdale, FL; School Quality Ranking:27127156230119.60%5.4$43,000 $76,000 
+#272;Lewis University; Romeoville, IL; School Quality Ranking:27227226523019.70%6.5$42,000 $77,000 
+#273;Saint Peter's College; Jersey City, NJ; School Quality Ranking:27327336616132.20%7.9$42,000 $79,000 
+#274;Simmons College; Boston, MA; School Quality Ranking:274274581387.40%5.8$48,000 $83,000 
+#275;Western Michigan University; Kalamazoo, MI; School Quality Ranking:27527542482319.80%3.6$43,000 $82,000 
+#276;Ohio University-Main Campus; Athens, OH; School Quality Ranking:27627622573911.40%4.4$44,000 $79,000 
+#277;Cedarville University; Cedarville, OH; School Quality Ranking:277277607311.80%6.8$45,000 $88,000 
+#278;Eastern Michigan University; Ypsilanti, MI; School Quality Ranking:27827844765019.70%4.3$39,000 $71,000 
+#279;Georgia CollegeState University; Milledgeville, GA; School Quality Ranking:27927950627323.10%6.5$40,000 $63,000 
+#280;Missouri State University-Springfield; Springfield, MO; School Quality Ranking:2802802191329.10%3.5$37,000 $69,000 FirstPrevNextLast
+#281;Christopher Newport University; Newport News, VA; School Quality Ranking:28128129413111.70%6$46,000 $70,000 
+#282;Belhaven University; Jackson, MS; School Quality Ranking:28228215219037.80%5.4$36,000 $59,000 
+#283;Marymount University; Arlington, VA; School Quality Ranking:28328339212221.70%7.4$40,000 $71,000 
+#284;Alfred University; Alfred, NY; School Quality Ranking:284284154287.30%8$44,000 $80,000 
+#285;Stevens Institute of Technology; Hoboken, NJ; School Quality Ranking:2852856455310.40%1.6$45,000 N/A
+#286;Marietta College; Marietta, OH; School Quality Ranking:286286566418.30%7.8$41,000 $75,000 
+#287;Rollins College; Winter Park, FL; School Quality Ranking:2872876296810.50%7$41,000 $74,000 
+#288;University of Hartford; West Hartford, CT; School Quality Ranking:28828852415312.90%3.7$45,000 $86,000 
+#289;High Point University; High Point, NC; School Quality Ranking:289289N/A30534.80%7.1$40,000 $70,000 
+#290;Michigan Technological University; Houghton, MI; School Quality Ranking:2902904661119.60%4$44,000 $73,000 FirstPrevNextLast
+#291;Franklin and Marshall College; Lancaster, PA; School Quality Ranking:2912916477711.40%5.6$45,000 $86,000 
+#292;Utah State University; Logan, UT; School Quality Ranking:2922926954112.30%3.8$40,000 $80,000 
+#293;West Virginia University; Morgantown, WV; School Quality Ranking:2932939247711.70%4.9$42,000 $87,000 
+#294;Oregon State University; Corvallis, OR; School Quality Ranking:29429452153812.80%3.7$44,000 $81,000 
+#295;Southwestern College; Winfield, KS; School Quality Ranking:29529536119444.00%8.6$43,000 $71,000 
+#296;Lipscomb University; Nashville, TN; School Quality Ranking:29629625611421.70%7.6$41,000 $65,000 
+#297;University of Wisconsin-Stout; Menomonie, WI; School Quality Ranking:2972979467841.00%7.5$41,000 $69,000 
+#298;California State University-San Bernardino; San Bernardino, CA; School Quality Ranking:29829813772121.70%5.2$42,000 $69,000 
+#299;Linfield College; McMinnville, OR; School Quality Ranking:2992991886721.30%3$44,000 $76,000 
+#300;Saint Francis University; Loretto, PA; School Quality Ranking:30030015011126.70%7$38,000 $75,000 FirstPrevNextLast
+#301;University of Wyoming; Laramie, WY; School Quality Ranking:3013012023510.50%4.5$43,000 $75,000 
+#302;East Carolina University; Greenville, NC; School Quality Ranking:30230225172416.10%3.9$40,000 $72,000 
+#303;Hartwick College; Oneonta, NY; School Quality Ranking:303303N/A5317.20%5.6$47,000 $98,000 
+#304;Elmhurst College; Elmhurst, IL; School Quality Ranking:30430420816619.30%4.8$42,000 $78,000 
+#305;Northern Arizona University; Flagstaff, AZ; School Quality Ranking:3053051684517.90%3.4$40,000 $75,000 
+#306;Baldwin-Wallace College; Berea, OH; School Quality Ranking:30630612823727.00%6.5$43,000 $60,000 
+#307;Felician College; Lodi, NJ; School Quality Ranking:3073075886516.50%8.9$43,000 $77,000 
+#308;Christian Brothers University; Memphis, TN; School Quality Ranking:30830896525.10%8.7$35,000 $83,000 
+#309;Northern Illinois University; Dekalb, IL; School Quality Ranking:30930946164916.70%3.5$45,000 $81,000 
+#310;The University of Texas at San Antonio; San Antonio, TX; School Quality Ranking:3103101011,12324.80%5$40,000 $67,000 FirstPrevNextLast
+#311;Holy Family University; Philadelphia, PA; School Quality Ranking:311311277615.70%8.6$45,000 $75,000 
+#312;Westminster College Utah; Salt Lake City, UT; School Quality Ranking:31231225614626.60%6.5$40,000 $70,000 
+#313;University of California-Santa Cruz; Santa Cruz, CA; School Quality Ranking:3133136332906.70%5.6$45,000 $86,000 
+#314;Park University; Parkville, MO; School Quality Ranking:314314391,39356.20%7.3$39,000 $66,000 
+#315;Arcadia University; Glenside, PA; School Quality Ranking:3153155085111.10%5.8$43,000 $69,000 
+#316;Seton Hill University; Greensburg, PA; School Quality Ranking:3163166610030.60%7.7$38,000 $70,000 
+#317;California State University-Stanislaus; Turlock, CA; School Quality Ranking:31731712130918.60%5.8$45,000 $67,000 
+#318;Geneva College; Beaver Falls, PA; School Quality Ranking:318318N/A11726.00%7.6$38,000 $53,000 
+#319;Roberts Wesleyan College; Rochester, NY; School Quality Ranking:319319408621.60%8.5$39,000 $59,000 
+#320;California State University-East Bay; Hayward, CA; School Quality Ranking:32032047479627.70%5.2$51,000 $81,000 FirstPrevNextLast
+#321;University of Rhode Island; Kingston, RI; School Quality Ranking:32132159737812.20%3.9$46,000 $78,000 
+#322;Viterbo University; La Crosse, WI; School Quality Ranking:322322896813.90%8.3$46,000 $67,000 
+#323;Keuka College; Keuka Park, NY; School Quality Ranking:323323N/A14130.30%5.6$37,000 $63,000 
+#324;San Francisco State University; San Francisco, CA; School Quality Ranking:3243245661,49123.10%5.1$47,000 $78,000 
+#325;University of Alabama at Huntsville; Huntsville, AL; School Quality Ranking:32532552725422.20%5.4$43,000 $76,000 
+#326;Gustavus Adolphus College; Saint Peter, MN; School Quality Ranking:326326N/A6810.90%4.3$45,000 $82,000 
+#327;Southern Wesleyan University; Central, SC; School Quality Ranking:32732710923957.20%7$46,000 $52,000 
+#328;The University of Texas at Arlington; Arlington, TX; School Quality Ranking:32832815882713.20%4.4$45,000 $77,000 
+#329;CUNY Brooklyn College; Brooklyn, NY; School Quality Ranking:329329N/A80430.80%3.6$42,000 $77,000 
+#330;WashingtonJefferson College; Washington, PA; School Quality Ranking:3303303878120.80%3$43,000 $80,000 FirstPrevNextLast
+#331;University of Nevada-Reno; Reno, NV; School Quality Ranking:33133157041815.20%3.5$45,000 $83,000 
+#332;MidAmerica Nazarene University; Olathe, KS; School Quality Ranking:3323321818437.90%9.2$43,000 $56,000 
+#333;Loyola Marymount University; Los Angeles, CA; School Quality Ranking:33333366536322.70%2.7$48,000 $81,000 
+#334;University of North Carolina at Charlotte; Charlotte, NC; School Quality Ranking:33433414485119.20%4.5$43,000 $71,000 
+#335;Ball State University; Muncie, IN; School Quality Ranking:33533532538511.80%3.9$42,000 $71,000 
+#336;Millersville University of Pennsylvania; Millersville, PA; School Quality Ranking:33633612215710.60%5.7$38,000 $75,000 
+#337;Lakeland College; Plymouth, WI; School Quality Ranking:33733741734964.50%7.9$41,000 $52,000 
+#338;University of Colorado at Colorado Springs; Colorado Springs, CO; School Quality Ranking:3383386429821.30%5.7$37,000 $75,000 
+#339;University of New Mexico-Main Campus; Albuquerque, NM; School Quality Ranking:33933935247312.40%4.9$41,000 $63,000 
+#340;University of Mary; Bismarck, ND; School Quality Ranking:340340N/A16436.10%9.3$42,000 $61,000 FirstPrevNextLast
+#341;Augustana College Illinois; Rock Island, IL; School Quality Ranking:34134117612518.10%6.2$37,000 $82,000 
+#342;College of Saint Benedict; Saint Joseph, MN; School Quality Ranking:3423423186311.30%8.2$43,000 $87,000 
+#343;West Chester University of Pennsylvania; West Chester, PA; School Quality Ranking:34334353747716.30%5$43,000 $80,000 
+#344;Saint Marys College of California; Moraga, CA; School Quality Ranking:34434466614923.40%2.2$48,000 $93,000 
+#345;Fairleigh Dickinson University-Metropolitan Campus; Teaneck, NJ; School Quality Ranking:345345678737.90%6.4$44,000 $79,000 
+#346;Coe College; Cedar Rapids, IA; School Quality Ranking:3463461107819.80%7$41,000 $73,000 
+#347;Eastern University; Saint Davids, PA; School Quality Ranking:34734744015121.00%8.3$42,000 $73,000 
+#348;Bluffton University; Bluffton, OH; School Quality Ranking:348348349337.00%8.4$37,000 $62,000 
+#349;Hampton University; Hampton, VA; School Quality Ranking:34934926110816.00%5.4$46,000 $68,000 
+#350;CUNY Queens College; Flushing, NY; School Quality Ranking:35035024556516.10%3$46,000 $86,000 FirstPrevNextLast
+#351;Concordia University-Wisconsin; Mequon, WI; School Quality Ranking:35135153229135.50%8.4$41,000 $60,000 
+#352;Webster University; Saint Louis, MO; School Quality Ranking:3523522426827.30%3.9$42,000 $71,000 
+#353;Saint Cloud State University; Saint Cloud, MN; School Quality Ranking:35335310256421.20%6$43,000 $83,000 
+#354;University of the Incarnate Word; San Antonio, TX; School Quality Ranking:35435457645636.90%7.2$40,000 $53,000 
+#355;Manchester College; North Manchester, IN; School Quality Ranking:355355N/A6021.30%8.6$46,000 $90,000 
+#356;Hawaii Pacific University; Honolulu, HI; School Quality Ranking:35635659931429.30%7.3$39,000 $74,000 
+#357;Sam Houston State University; Huntsville, TX; School Quality Ranking:3573577971921.40%6$42,000 $75,000 
+#358;University of Nebraska at Kearney; Kearney, NE; School Quality Ranking:3583585720520.20%7.2$34,000 $64,000 
+#359;Texas State University-San Marcos; San Marcos, TX; School Quality Ranking:3593591331,06818.30%4.3$42,000 $80,000 
+#360;University of Oregon; Eugene, OR; School Quality Ranking:36036064466313.10%2.4$43,000 $81,000 FirstPrevNextLast
+#361;University of Michigan-Dearborn; Dearborn, MI; School Quality Ranking:361361N/A22617.80%5.3$46,000 $75,000 
+#362;Ohio Northern University; Ada, OH; School Quality Ranking:3623625128818.60%7.4$41,000 $72,000 
+#363;Salisbury University; Salisbury, MD; School Quality Ranking:36336314828214.40%4.7$45,000 $73,000 
+#364;University of Missouri-Columbia; Columbia, MO; School Quality Ranking:36436447890816.00%2.7$42,000 $77,000 
+#365;University of Idaho; Moscow, ID; School Quality Ranking:36536520825512.00%3.5$43,000 $81,000 
+#366;Calvin College; Grand Rapids, MI; School Quality Ranking:36636633011912.80%3.8$43,000 $75,000 
+#367;College of Charleston; Charleston, SC; School Quality Ranking:36736759251321.40%4.6$36,000 $68,000 
+#368;Eckerd College; Saint Petersburg, FL; School Quality Ranking:36836860910117.00%7.8$41,000 $73,000 
+#369;California State University-Fullerton; Fullerton, CA; School Quality Ranking:3693695711,94924.90%5.7$42,000 $86,000 
+#370;Fontbonne University; Saint Louis, MO; School Quality Ranking:3703703738525.80%7.7$40,000 $63,000 FirstPrevNextLast
+#371;Indiana University of Pennsylvania-Main Campus; Indiana, PA; School Quality Ranking:37137141057622.50%4.3$36,000 $70,000 
+#372;Maryville University of Saint Louis; Saint Louis, MO; School Quality Ranking:37237258916824.20%7.4$40,000 $70,000 
+#373;Bloomsburg University of Pennsylvania; Bloomsburg, PA; School Quality Ranking:37337323935719.70%4.3$42,000 $69,000 
+#374;North Park University; Chicago, IL; School Quality Ranking:37437420110520.30%6$41,000 $73,000 
+#375;University of Nebraska at Omaha; Omaha, NE; School Quality Ranking:37537520653423.70%4.2$40,000 $74,000 
+#376;Truman State University; Kirksville, MO; School Quality Ranking:3763763220316.60%5.7$40,000 $69,000 
+#377;California State University-Los Angeles; Los Angeles, CA; School Quality Ranking:37737738076320.80%5.5$45,000 $65,000 
+#378;University of New Orleans; New Orleans, LA; School Quality Ranking:37837828047134.00%4.6$38,000 $75,000 
+#379;University of Indianapolis; Indianapolis, IN; School Quality Ranking:37937928817220.60%7.9$42,000 $79,000 
+#380;Mississippi College; Clinton, MS; School Quality Ranking:3803804712518.90%5.2$43,000 $64,000 FirstPrevNextLast
+#381;Concordia University-Saint Paul; Saint Paul, MN; School Quality Ranking:38138151313437.60%8.3$42,000 $66,000 
+#382;Whitworth University; Spokane, WA; School Quality Ranking:3823824008714.40%5.6$39,000 $60,000 
+#383;Methodist University; Fayetteville, NC; School Quality Ranking:38338362414845.30%8$45,000 $63,000 
+#384;Saint Bonaventure University; Saint Bonaventure, NY; School Quality Ranking:38438411810826.90%5.1$41,000 $57,000 
+#385;Capital University; Columbus, OH; School Quality Ranking:3853852668813.20%6.1$44,000 $67,000 
+#386;William Paterson University of New Jersey; Wayne, NJ; School Quality Ranking:38638659042121.10%3.8$42,000 $81,000 
+#387;Simpson College; Indianola, IA; School Quality Ranking:38738715312621.80%4.3$45,000 $72,000 
+#388;Catholic University of America; Washington, DC; School Quality Ranking:3883886847710.00%3.3$46,000 $89,000 
+#389;Bellevue University; Bellevue, NE; School Quality Ranking:389389N/A1,22258.30%5.2$44,000 $72,000 
+#390;Ohio Wesleyan University; Delaware, OH; School Quality Ranking:390390530428.30%5$43,000 $89,000 FirstPrevNextLast
+#391;Ashland University; Ashland, OH; School Quality Ranking:39139146013820.70%8.3$37,000 $66,000 
+#392;Indiana Wesleyan University; Marion, IN; School Quality Ranking:3923922831,99853.80%4.4$42,000 $63,000 
+#393;Harding University; Searcy, AR; School Quality Ranking:3933934116418.30%4.7$39,000 $84,000 
+#394;Houghton College; Houghton, NY; School Quality Ranking:3943941078620.70%5.2$45,000 $63,000 
+#395;California State University-Long Beach; Long Beach, CA; School Quality Ranking:3953955671,19416.50%4.7$44,000 $80,000 
+#396;University of Alabama at Birmingham; Birmingham, AL; School Quality Ranking:39639620641417.80%4.2$39,000 $68,000 
+#397;Thomas More College; Crestview Hills, KY; School Quality Ranking:39739711318648.30%8.9$45,000 $75,000 
+#398;Wilkes University; Wilkes-Barre, PA; School Quality Ranking:3983985527515.40%4.7$40,000 $83,000 
+#399;Wheaton College Illinois; Wheaton, IL; School Quality Ranking:399399507607.40%5.7$42,000 $82,000 
+#400;Belmont University; Nashville, TN; School Quality Ranking:40040064920616.40%6.6$39,000 $64,000 FirstPrevNextLast
+#401;Rhodes College; Memphis, TN; School Quality Ranking:401401N/A5314.20%5.5$45,000 $72,000 
+#402;Judson University; Elgin, IL; School Quality Ranking:40240245210036.20%9.5$40,000 $57,000 
+#403;New Mexico State University-Main Campus; Las Cruces, NM; School Quality Ranking:40340322149618.90%4.8$42,000 $80,000 
+#404;Huntingdon College; Montgomery, AL; School Quality Ranking:4044048211149.30%9.8$38,000 $58,000 
+#405;Birmingham Southern College; Birmingham, AL; School Quality Ranking:4054052446721.50%7.1$44,000 $73,000 
+#406;University of Memphis; Memphis, TN; School Quality Ranking:40640659954218.20%5$43,000 $75,000 
+#407;Friends University; Wichita, KS; School Quality Ranking:407407N/A32258.40%8.6$45,000 $62,000 
+#408;University of Minnesota-Duluth; Duluth, MN; School Quality Ranking:4084089244620.20%3.8$43,000 $86,000 
+#409;Central College; Pella, IA; School Quality Ranking:4094092354812.50%7.5$43,000 $77,000 
+#410;Eastern Illinois University; Charleston, IL; School Quality Ranking:41041059431113.70%4.7$41,000 $82,000 FirstPrevNextLast
+#411;California State University-Northridge; Northridge, CA; School Quality Ranking:4114116151,44820.50%4.3$46,000 $77,000 
+#412;Carthage College; Kenosha, WI; School Quality Ranking:41241223714120.40%6.1$43,000 $65,000 
+#413;Dallas Baptist University; Dallas, TX; School Quality Ranking:41341325120726.20%4.8$42,000 $73,000 
+#414;McKendree University; Lebanon, IL; School Quality Ranking:41441441022838.80%7.2$39,000 $70,000 
+#415;Wingate University; Wingate, NC; School Quality Ranking:415415724919.40%9.4$40,000 $66,000 
+#416;Meredith College; Raleigh, NC; School Quality Ranking:4164162487014.60%5.1$39,000 $80,000 
+#417;Southern Polytechnic State University; Marietta, GA; School Quality Ranking:41741724514718.80%1.6$42,000 $89,000 
+#418;University of Puget Sound; Tacoma, WA; School Quality Ranking:4184186468511.30%5.3$41,000 $95,000 
+#419;University of North Dakota; Grand Forks, ND; School Quality Ranking:41941954222912.60%4$42,000 $76,000 
+#420;Saint Joseph's College-New York; Brooklyn, NY; School Quality Ranking:420420N/A17915.70%5.5$43,000 $68,000 FirstPrevNextLast
+#421;Immaculata University; Immaculata, PA; School Quality Ranking:42142170513519.80%6.6$40,000 $54,000 
+#422;Florida Atlantic University; Boca Raton, FL; School Quality Ranking:4224225401,38124.30%4.7$39,000 $71,000 
+#423;University of Toledo; Toledo, OH; School Quality Ranking:42342333569422.40%5.6$39,000 $73,000 
+#424;Bowling Green State University-Main Campus; Bowling Green, OH; School Quality Ranking:42442416136812.70%4.1$40,000 $79,000 
+#425;Metropolitan State University; Saint Paul, MN; School Quality Ranking:425425N/A67934.80%6.1$44,000 $77,000 
+#426;Plymouth State University; Plymouth, NH; School Quality Ranking:42642638219922.50%6.4$41,000 $77,000 
+#427;Luther College; Decorah, IA; School Quality Ranking:4274272877210.70%4.2$43,000 $82,000 
+#428;Furman University; Greenville, SC; School Quality Ranking:42842863810414.50%3.9$41,000 $81,000 
+#429;Central Washington University; Ellensburg, WA; School Quality Ranking:42942941754619.00%4.5$42,000 $79,000 
+#430;Winona State University; Winona, MN; School Quality Ranking:43043016232017.20%5.1$43,000 $75,000 FirstPrevNextLast
+#431;Molloy College; Rockville Centre, NY; School Quality Ranking:431431672648.00%5.9$47,000 $72,000 
+#432;Nyack College; Nyack, NY; School Quality Ranking:43243222914635.30%7.4$45,000 $68,000 
+#433;La Roche College; Pittsburgh, PA; School Quality Ranking:433433777927.20%8.3$40,000 $72,000 
+#434;Oklahoma Christian University; Edmond, OK; School Quality Ranking:434434515415.70%9.2$44,000 $65,000 
+#435;Davenport University; Grand Rapids, MI; School Quality Ranking:4354355385453.10%8.1$36,000 $60,000 
+#436;University of Louisville; Louisville, KY; School Quality Ranking:43643646943515.20%4.1$38,000 $71,000 
+#437;Shippensburg University of Pennsylvania; Shippensburg, PA; School Quality Ranking:43743717836323.60%5.4$43,000 $71,000 
+#438;Concordia College at Moorhead; Moorhead, MN; School Quality Ranking:4384381597510.50%5.3$43,000 $66,000 
+#439;University of New England; Biddeford, ME; School Quality Ranking:439439667255.00%7.8$40,000 $76,000 
+#440;Georgia Southern University; Statesboro, GA; School Quality Ranking:44044044163521.10%4.8$41,000 $74,000 FirstPrevNextLast
+#441;University of North Florida; Jacksonville, FL; School Quality Ranking:44144142767218.30%5.3$41,000 $71,000 
+#442;University of Illinois at Springfield; Springfield, IL; School Quality Ranking:4424428918224.60%7.4$36,000 $64,000 
+#443;Ursuline College; Pepper Pike, OH; School Quality Ranking:4434435463314.00%7.8$40,000 $72,000 
+#444;University of North Carolina at Greensboro; Greensboro, NC; School Quality Ranking:44444421452416.80%4.5$40,000 $64,000 
+#445;Minot State University; Minot, ND; School Quality Ranking:4454455823533.90%7.8$46,000 $61,000 
+#446;Kean University; Union, NJ; School Quality Ranking:44644661250218.60%5.7$42,000 $89,000 
+#447;Kent State University at Kent; Kent, OH; School Quality Ranking:44744750593419.30%3.6$38,000 $73,000 
+#448;University of North Carolina at Wilmington; Wilmington, NC; School Quality Ranking:44844818657819.90%4.6$38,000 $69,000 
+#449;Fitchburg State University; Fitchburg, MA; School Quality Ranking:44944912011413.10%6.2$41,000 $67,000 
+#450;Moravian College and Moravian Theological Seminary; Bethlehem, PA; School Quality Ranking:4504505527617.90%5.1$42,000 $83,000 FirstPrevNextLast
+#451;Radford University; Radford, VA; School Quality Ranking:45145122130316.50%4.1$44,000 $73,000 
+#452;Campbell University; Buies Creek, NC; School Quality Ranking:4524526324325.10%8.3$40,000 $61,000 
+#453;Wichita State University; Wichita, KS; School Quality Ranking:45345310539818.70%4.6$39,000 $73,000 
+#454;Virginia Commonwealth University; Richmond, VA; School Quality Ranking:45445466362913.00%3.6$41,000 $74,000 
+#455;Western Illinois University; Macomb, IL; School Quality Ranking:45545513029512.20%4.5$42,000 $77,000 
+#456;Southern Illinois University Edwardsville; Edwardsville, IL; School Quality Ranking:45645622138417.40%4.2$39,000 $74,000 
+#457;University of St Francis; Joliet, IL; School Quality Ranking:4574574627315.40%5$42,000 $81,000 
+#458;Lindenwood University; Saint Charles, MO; School Quality Ranking:45845828556035.80%4.9$38,000 $64,000 
+#459;Lynchburg College; Lynchburg, VA; School Quality Ranking:459459361479.80%5.4$40,000 $71,000 
+#460;Marywood University; Scranton, PA; School Quality Ranking:4604604967114.50%7.6$39,000 $66,000 FirstPrevNextLast
+#461;California State University-San Marcos; San Marcos, CA; School Quality Ranking:46146162030315.00%5.8$41,000 $73,000 
+#462;Dowling College; Oakdale, NY; School Quality Ranking:46246269411523.30%7.6$42,000 $93,000 
+#463;University of Wisconsin-Milwaukee; Milwaukee, WI; School Quality Ranking:4634635811,06224.40%3.5$40,000 $79,000 
+#464;Old Dominion University; Norfolk, VA; School Quality Ranking:46446461965816.10%4.8$42,000 $78,000 
+#465;University of Mount Union; Alliance, OH; School Quality Ranking:4654651898216.20%7.6$45,000 $72,000 
+#466;Oral Roberts University; Tulsa, OK; School Quality Ranking:46646617412523.20%8.2$39,000 $75,000 
+#467;Minnesota State University-Mankato; Mankato, MN; School Quality Ranking:46746714445818.00%4.2$44,000 $71,000 
+#468;University of Evansville; Evansville, IN; School Quality Ranking:4684682487712.20%8.2$38,000 $61,000 
+#469;Westminster College Pennsylvania; New Wilmington, PA; School Quality Ranking:469469766217.80%5.8$43,000 $70,000 
+#470;Houston Baptist University; Houston, TX; School Quality Ranking:4704702976916.70%7.9$43,000 $76,000 FirstPrevNextLast
+#471;Caldwell College; Caldwell, NJ; School Quality Ranking:4714716127524.50%6.9$42,000 $70,000 
+#472;William Woods University; Fulton, MO; School Quality Ranking:472472N/A5222.50%1.6$42,000 $59,000 
+#473;Oklahoma City University; Oklahoma City, OK; School Quality Ranking:473473612598.40%9.1$42,000 $75,000 
+#474;Augustana College South Dakota; Sioux Falls, SD; School Quality Ranking:474474N/A7715.40%5.2$38,000 $94,000 
+#475;Northern Kentucky University; Highland Heights, KY; School Quality Ranking:47547518948921.90%4$41,000 $66,000 
+#476;Portland State University; Portland, OR; School Quality Ranking:47647668993119.50%3.7$41,000 $76,000 
+#477;California State University-Bakersfield; Bakersfield, CA; School Quality Ranking:47747733927017.80%6$38,000 $63,000 
+#478;The Richard Stockton College of New Jersey; Galloway, NJ; School Quality Ranking:47847863833817.50%6.8$40,000 $70,000 
+#479;Aurora University; Aurora, IL; School Quality Ranking:47947912821027.60%5.9$41,000 $74,000 
+#480;New Jersey City University; Jersey City, NJ; School Quality Ranking:48048068227923.00%5.4$48,000 $66,000 FirstPrevNextLast
+#481;Louisiana Tech University; Ruston, LA; School Quality Ranking:48148111719414.90%5.2$42,000 $80,000 
+#482;Lamar University; Beaumont, TX; School Quality Ranking:48248263622415.90%5.8$45,000 $91,000 
+#483;Wartburg College; Waverly, IA; School Quality Ranking:4834831728819.50%1.9$44,000 $83,000 
+#484;Wayland Baptist University; Plainview, TX; School Quality Ranking:48448411054732.60%9.8$43,000 $68,000 
+#485;Georgian Court University; Lakewood, NJ; School Quality Ranking:485485660296.00%4.8$48,000 $59,000 
+#486;York College Pennsylvania; York, PA; School Quality Ranking:48648630918318.30%5.8$41,000 $68,000 
+#487;University of Wisconsin-Oshkosh; Oshkosh, WI; School Quality Ranking:48748717939818.30%4.3$39,000 $72,000 
+#488;Gannon University; Erie, PA; School Quality Ranking:4884884585510.20%8.6$43,000 $79,000 
+#489;Stevenson University; Stevenson, MD; School Quality Ranking:48948962914019.90%6.1$39,000 $67,000 
+#490;Taylor University; Upland, IN; School Quality Ranking:4904905196313.60%7.4$39,000 $78,000 FirstPrevNextLast

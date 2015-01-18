@@ -268,3 +268,6 @@ PROFILE OF FALL ADMISSION
                 Employment
                   Work-Study Programs	Federal work study available, other work study available	
                   Average Earnings fromOn-Campus Employment	Not reported	
+Education Rank: 120;
+Engineering Rank: 166;
+Health Rank: 312;

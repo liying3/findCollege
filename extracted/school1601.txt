@@ -281,3 +281,7 @@ The UNC Charlotte campus is like a small, thriving city. It is full of dynamic, 
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$932	
+Business Rank: 334;
+Education Rank: 282;
+Engineering Rank: 173;
+Health Rank: 225;

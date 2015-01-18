@@ -281,3 +281,7 @@ Florida Atlantic University ranks second in the Florida State University System 
                 Employment
                   Work-Study Programs	Federal work study available, other work study available	
                   Average Earnings fromOn-Campus Employment	$3,799	
+Business Rank: 422;
+Education Rank: 210;
+Engineering Rank: 212;
+Health Rank: 409;

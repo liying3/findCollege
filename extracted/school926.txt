@@ -280,3 +280,7 @@ The freshman-to-sophomore retention rate is 86 percent! Here's why: Due to stron
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$2,081	
+Business Rank: 294;
+Education Rank: 305;
+Engineering Rank: 65;
+Health Rank: 212;

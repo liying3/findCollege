@@ -282,3 +282,6 @@ We are Salukis.  That's not just a name.  It's a belief that we're all capable o
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$1,237	
+Education Rank: 167;
+Engineering Rank: 220;
+Health Rank: 324;

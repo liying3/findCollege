@@ -284,3 +284,7 @@ Undergraduate students at UGA come from all 50 states and 121 different countrie
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$2,707	
+Business Rank: 18;
+Education Rank: 34;
+Engineering Rank: 92;
+Health Rank: 40;
