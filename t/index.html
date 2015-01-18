@@ -5,11 +5,13 @@
   <script src="http://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+  <script src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
   <script src="js/index.js"></script>
-	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="css/index.css">
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-
+      <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+      <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    
+     
   </head>
   <body>
    <input type="checkbox" name="toggle" id="toggle" />
@@ -43,6 +45,23 @@
   				<div class="input-group-addon">%</div>
   			</div>
   		  </div>
+            
+            <button type="submit" class="btn btn-primary btn-sm" >Search</button>
+  	  </div>
+  	  <br/>
+        <div class="row">
+            <div class="form-group col-md-2" id="tuition-pri">
+  			<div class="input-group">
+  			    <div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Tuition $</div>
+                  <select class="form-control input-sm" id="tuition" name="tuition">
+                    <option value="5">All</option>
+  					<option value="4">50000-40000</option>
+  					<option value="3">40000-30000</option>
+  					<option value="2">30000-20000</option>
+  					<option value="1">20000-10000</option>
+  				</select>
+  			</div>
+          </div>
             <div class="form-group col-md-2">
   			<div class="input-group">
   			<div class="input-group-addon">location</div>
@@ -57,43 +76,23 @@
   			</select>
   			</div>
           </div>
-            <button type="submit" class="btn btn-primary btn-sm" >Search</button>
   	  </div>
   	  <br/>
-        <div id="sortable" class="row">
-            <div class="form-group col-md-2" id="tuition-pri">
-  			<div class="input-group">
-  			    <div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Tuition $</div>
-                  <select class="form-control input-sm" id="tuition" name="tuition">
-                    <option value="5">All</option>
-  					<option value="4">5000-4000</option>
-  					<option value="3">40000-30000</option>
-  					<option value="2">30000-20000</option>
-  					<option value="1">20000-10000</option>
-  				</select>
-  			</div>
-          </div>
-          <div class="form-group col-md-3" id="major-pri">
-              <div class="input-group">
-  				<div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Concentration</div>
-                <select class="form-control input-sm" id="major" name="major">
-                    <option>All</option>
-  					<option>Engineering</option>
-  					<option>Education</option>
-  					<option>Business</option>
-  					<option>Health</option>
-                </select>
-  			</div>
-          </div>
-        </div>
-        
   	</form> 
      <!--div id="panel"> 
          <input id="address" type="textbox" value="New York, NY">      
          <input type="button" value="Geocode" onclick="codeAddress()">   
     </div-->
       <div class="clear">
-        <table>
+        <div id="map-canvas"></div>
+          <table class="table table-condensed table-hover table-striped" id="result-table">
+                <tr>
+                    <th>#</th><th>Name</th><th>Location</th><th>Tuition</th><th>GPA</th><th>SAT</th><th>Accepted Chance</th>
+                </tr>
+            </table>
+    </div>
+    <div id="accordion" style = "position:absolute; left:650px; top:140px;width:700px">
+		<table>
             <tr>
                 <td valign="top"> <div id="map-canvas"></div></td>
                 <td valign="top">
@@ -120,12 +119,7 @@
                 </td>
             </tr>
         </table>
-       
-       
-     
     </div>
-  
-
     <div id="img-preview">
         <img src = "" width = "100px", height = "100px">
         <span id = "name-preview"></span>
