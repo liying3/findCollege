@@ -2,6 +2,7 @@ import sys
 import os.path
 import operator
 import Raw2Internal
+import time
 
 class PCollege:
     Count = 0
@@ -24,9 +25,11 @@ pcolleges = [college1, college2, college3];
 def ReadCollegeFiles():
     #test=College()		
     for i in range(6,3341):
-        test=Raw2Internal.College()
         try:
-            test.Extract('../infoRaw/school'+str(i)+'.txt',  '../extracted/school'+str(i)+'.txt')
+            test=Raw2Internal.College()
+            test.Extract('../extracted/school'+str(i)+'.txt',  '../extracted/school'+str(i)+'.txt')
+            #if test.Name=='':
+            #    break
             aGPA = 2.0
             if 'N' in str(test.AverageGPA):
                 aGPA = 2.0
@@ -74,7 +77,7 @@ def SortCollege(pref1, pref2, pref3):
     try:
         pcolleges.sort(key=operator.attrgetter(pref1))
     except ValueError:
-        print("Error: SortCollege")
+        pass
     return
 
 def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration ):
@@ -101,6 +104,9 @@ def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
     
 ReadCollegeFiles()
 #SortCollege('chance','123','123')
-FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6]);
+
+
+FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6])
+
 
     
