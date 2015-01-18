@@ -33,8 +33,10 @@ $( document ).ready(function() {
           url: "back/proc.php",
 		  data: { sat: sat, gpa: gpa, percentage: percentage, loc:loc, tuition:tuition, major:major},
 		  success: function (data, status) {
+              
 		      console.log(data);
-			var cols = data.split(';');
+		      var cols = data.split(';');
+		      console.log(cols.length);
 			for (var i = 0; i < cols.length-1; i++)
 			{
 			    var t = cols[i].split('&');
