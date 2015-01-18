@@ -47,7 +47,7 @@ def ReadCollegeFiles(SAT, GPA, TopPercentage, Locations, Tuition, Concentration 
             satWriting = str(test.SAT_WritingAverage)[:3]
 
             finalSAT = GetScore(satMath, 600) + GetScore(satReading, 600) + GetScore(satWriting, 600)
-            finalCost = GetCost(str(test.CostOfAttendance), 10000)
+            finalCost = GetCost(str(test.CostOfAttendance), 25000)
             chance = CalculateChance(SAT, GPA, TopPercentage, finalSAT, aGPA)
             rank = 999
             if Concentration == 'Business':
@@ -92,7 +92,7 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
     #print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
     for i in range(len(pcolleges)):
         if  len(str(Locations))==2:
-            if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000 and pcolleges[i].loc == str(Locations):
+            if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000 and pcolleges[i].loc == str(Locations) or int(Tuition) == 0 and pcolleges[i].loc == str(Locations):
                 print(pcolleges[i].name)
                 print(pcolleges[i].loc)
                 print(pcolleges[i].tuition)
@@ -102,7 +102,7 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
                 print(pcolleges[i].filename)
 
         elif len(str(Locations))==3:
-            if pcolleges[i].tuition>=int(Tuition) and pcolleges[i].tuition<=int(Tuition)+10000:
+            if pcolleges[i].tuition>=int(Tuition) and pcolleges[i].tuition<=int(Tuition)+10000 or int(Tuition) == 0:
                 print(pcolleges[i].name)
                 print(pcolleges[i].loc)
                 print(pcolleges[i].tuition)
@@ -117,7 +117,7 @@ def CalculateOverall(chance, tuition, rank):
 
 def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
     try:
-        return (((aSAT/2400.0) * (2400.0 - abs(int(SAT)-aSAT))/2400) ** 2 +  ((aGPA/4.0) * (4.0-abs(float(GPA)-aGPA))/4.0) ** 2 +  ((100-float(TopPercentage))/100)**2)* 100
+        return (0.7*((aSAT/2400.0) * (2400.0 - abs(int(SAT)-aSAT))/2400) ** 2 +  0.2*((aGPA/4.0) * (4.0-abs(float(GPA)-aGPA))/4.0) ** 2 +  0.1*((100-float(TopPercentage))/100)**2)* 100
     except ValueError:
         return 0
     
