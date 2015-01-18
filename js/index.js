@@ -1,8 +1,17 @@
+ /* Global Variables */
+  var currentPage = 0;
+
+  var maxPage = 0;
+
+  var colleges = [];
+
 $( document ).ready(function() {
+    $('#navigator').fadeTo(1,0.01);
     $( "#accordion" ).accordion({
       collapsible: true
     });
-	var colleges = [];
+
+
     /*---------------------------- form -----------------------------*/
 	$('#search-form').submit(function (e) {
 	    e.preventDefault()
@@ -59,6 +68,9 @@ $( document ).ready(function() {
 
 			fillTable();
 
+      //show the navigator
+
+       $('#navigator').fadeTo("slow",0.9);
      // $('#result-table tr').click(function(){
        // $(this).next().slideToggle(500);
        //$(this).next().animate({down:'250px'});
@@ -78,11 +90,14 @@ $( document ).ready(function() {
 	}
 
 
-
-
+  
 	function fillTable() {
        $('#accordion').html('');
-	    for (var i = 0; i < colleges.length; i++) {5
+       //force reset
+       if(currentPage > 1){
+        currentPage = 1;
+       }
+	    for (var i = currentPage * 5; i < (currentPage*5 + 5); i++) {5
         var newTable = '<table><tr><td width="5%">' + String(i+1) +'</td><td width="230px">' + confineLength(colleges[i]['name'],28) +'</td><td width="60px">' + colleges[i]['loc']+'</td><td width="60px">'+ colleges[i]['tuition']+'</td><td width="9%">'+colleges[i]['aGPA']+'</td><td width="80px">'+colleges[i]['aSAT']+'</td><td width="auto">'+ parseFloat(colleges[i]['chance']).toFixed(2) +'%</td></tr></table>';
         var newDetail =  '<p><img src = "pics/'+ colleges[i]['img'] +'.jpg" width = "200px", height = "200px"><br>Name of school: '+ colleges[i]['name'] +'<br>Location: '+ colleges[i]['loc']+'<br>Tuition: '+colleges[i]['tuition']+'<br>SAT: '+colleges[i]['aSAT']+'<br>GPA: '+colleges[i]['aGPA']+'<br></p>';
         var newItem = '<div id = c' + i + '> ' + newTable + '</div><div>' + newDetail + '</div>';
@@ -96,14 +111,7 @@ $( document ).ready(function() {
     });
 	}
 
-  function confineLength(str,len){
-        len = len || 0;
-        if(str.length > len){
-          var a = str.substring(0,len) + "...";
-          return a;
-        }
-         return str;
-  }
+ 
 
    function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -182,3 +190,58 @@ $( document ).ready(function() {
 
 
 });
+
+function clearTable(){
+    $('#accordion').html('');
+  }
+
+function nextPage(){
+  //calculate maxpage
+  currentPage++;
+  refillTable();
+}
+
+function previousPage(){
+
+
+  currentPage--;
+  if(currentPage<0){
+    currentPage = 0;
+  }
+
+  refillTable();
+}
+
+function refillTable() {
+        clearTable();
+        //get maxPage
+         maxPage = Math.floor((colleges.length/5) -1);
+       //force reset
+       if(currentPage > maxPage){
+        currentPage = maxPage;
+       }
+
+      for (var i =  currentPage * 5; i < (currentPage*5 + 5); i++) {
+
+        var newTable = '<table><tr><td width="5%">' + String(i+1) +'</td><td width="230px">' + confineLength(colleges[i]['name'],28) +'</td><td width="60px">' + colleges[i]['loc']+'</td><td width="60px">'+ colleges[i]['tuition']+'</td><td width="9%">'+colleges[i]['aGPA']+'</td><td width="80px">'+colleges[i]['aSAT']+'</td><td width="auto">'+ parseFloat(colleges[i]['chance']).toFixed(2) +'%</td></tr></table>';
+        var newDetail =  '<p><img src = "pics/'+ colleges[i]['img'] +'.jpg" width = "200px", height = "200px"><br>Name of school: '+ colleges[i]['name'] +'<br>Location: '+ colleges[i]['loc']+'<br>Tuition: '+colleges[i]['tuition']+'<br>SAT: '+colleges[i]['aSAT']+'<br>GPA: '+colleges[i]['aGPA']+'<br></p>';
+        var newItem = '<div id = c' + i + '> ' + newTable + '</div><div>' + newDetail + '</div>';
+        $('#accordion').append(newItem).accordion('destroy').accordion();
+          //var newRow = '<tr id=c' + i + ' ><td >' + String(i+1) + '</td><td>' + colleges[i]['name'] + '</td><td>' + colleges[i]['loc'] + '</td><td>' + colleges[i]['tuition'] + '</td><td>' + colleges[i]['aGPA'] + '</td><td>' + colleges[i]['aSAT'] + '</td><td>' + colleges[i]['chance'] + '</td></tr>';
+          //$('#result-table').append(newRow);
+      }
+       $( "#accordion" ).accordion( "refresh" );
+        $( "#accordion" ).accordion({
+      collapsible: true
+    });
+  }
+
+
+   function confineLength(str,len){
+        len = len || 0;
+        if(str.length > len){
+          var a = str.substring(0,len) + "...";
+          return a;
+        }
+         return str;
+  }
