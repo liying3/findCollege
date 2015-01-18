@@ -2,140 +2,140 @@
   					Save
 			        Charlotte Christian College and Theological Seminary
 				        Charlotte, NC
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-			High School Preparation
-	    High School Graduation	Not reported	
-	    High School Program		
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English			
-           Mathematics			
-           Science			
-           Foreign Language			
-           Social Studies			
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT			
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Not reported	
-           Use of SAT/ACT Essay	Not reported	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	PO Box 790106	
-               City, State, Zip	Charlotte,NC28206-7901	
-               Phone	(704) 334-6882 x115	
-               Fax	(704) 334-6885	
-               E-mail	chemphill@nlts.edu	
-       Application Dates and Fees
-               Regular Admission Deadline		
-               Application Fee	$40	
-               Application Fee Waiver	Not reported	
-               Regular Admission Notification	Not reported	
-               Accept Offer of Admission	Not reported	
-               Waiting List Used	No	
-               Defer Admission		
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application		
-               Electronic Application	
-               Not reported
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	2 required for all freshmen	
-               Other	Certification of Church membership and involvement required for freshmen	
-               Financial Need		
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record					
-               Academic GPA					
-               Standardized Tests					
-               Class Rank					
-               Recommendations					
-               Essay					
-               Interview					
-               Level of Applicant's Interest					
-               Extracurricular Activities					
-               Volunteer Work					
-               ParticularTalent/Ability					
-               Character/Personal Qualities					
-               First Generation to Attend College					
-               State Residency					
-               Geographic Residence					
-               Relation with Alumnus					
-               Religious Affiliation/ Commitment					
-               Ethnicity					
-               Work Experience					
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	100% of     25 applicants were admitted	
-                Women	100% of     14 applicants were admitted	
-                Men	100% of     11 applicants were admitted	
-               Students Enrolled	25 (100%) of 25 admitted students enrolled	
-                Women	14 (100%) of 14 admitted students enrolled	
-                Men	11 (100%) of 11 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	Not reported	
-               3.75 and Above	Not reported	
-               3.50 - 3.74	Not reported	
-               3.25 - 3.49	Not reported	
-               3.00 - 3.24	Not reported	
-               2.50 - 2.99	Not reported	
-               2.00 - 2.49	Not reported	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-               SAT Critical Reading	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	Not reported	
-               Score of 30 - 36	Not reported	
-               Score of 24 - 29	Not reported	
-               Score of 18 - 23	Not reported	
-               Score of 12 - 17	Not reported	
-               Score of 6 - 11	Not reported	
-               Score of 5 or Below	Not reported	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank		
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+			High School Preparation
+	    High School Graduation	Not reported	
+	    High School Program		
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English			
+           Mathematics			
+           Science			
+           Foreign Language			
+           Social Studies			
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT			
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Not reported	
+           Use of SAT/ACT Essay	Not reported	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	PO Box 790106	
+               City, State, Zip	Charlotte,NC28206-7901	
+               Phone	(704) 334-6882 x115	
+               Fax	(704) 334-6885	
+               E-mail	chemphill@nlts.edu	
+       Application Dates and Fees
+               Regular Admission Deadline		
+               Application Fee	$40	
+               Application Fee Waiver	Not reported	
+               Regular Admission Notification	Not reported	
+               Accept Offer of Admission	Not reported	
+               Waiting List Used	No	
+               Defer Admission		
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application		
+               Electronic Application	
+               Not reported
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	2 required for all freshmen	
+               Other	Certification of Church membership and involvement required for freshmen	
+               Financial Need		
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record					
+               Academic GPA					
+               Standardized Tests					
+               Class Rank					
+               Recommendations					
+               Essay					
+               Interview					
+               Level of Applicant's Interest					
+               Extracurricular Activities					
+               Volunteer Work					
+               ParticularTalent/Ability					
+               Character/Personal Qualities					
+               First Generation to Attend College					
+               State Residency					
+               Geographic Residence					
+               Relation with Alumnus					
+               Religious Affiliation/ Commitment					
+               Ethnicity					
+               Work Experience					
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	100% of     25 applicants were admitted	
+                Women	100% of     14 applicants were admitted	
+                Men	100% of     11 applicants were admitted	
+               Students Enrolled	25 (100%) of 25 admitted students enrolled	
+                Women	14 (100%) of 14 admitted students enrolled	
+                Men	11 (100%) of 11 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	Not reported	
+               3.75 and Above	Not reported	
+               3.50 - 3.74	Not reported	
+               3.25 - 3.49	Not reported	
+               3.00 - 3.24	Not reported	
+               2.50 - 2.99	Not reported	
+               2.00 - 2.49	Not reported	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+               SAT Critical Reading	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	Not reported	
+               Score of 30 - 36	Not reported	
+               Score of 24 - 29	Not reported	
+               Score of 18 - 23	Not reported	
+               Score of 12 - 17	Not reported	
+               Score of 6 - 11	Not reported	
+               Score of 5 or Below	Not reported	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank		
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -149,76 +149,76 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	Not available	
-		         Tuition and Fees	$8,579	
-		         Room and Board	Not reported	
-		         Books and Supplies	$1,280	
-		         Other Expenses	Not reported	
-		         Payment Plans	Not reported	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail		
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Not reported
-	          Application Process
-	            Application Deadline		
-	            Award Notification	Not reported	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	3 (100.0%) of freshmen	
-		        Found to Have Financial Need	3 (100.0%) of applicants	
-		        Received Financial Aid	3 (100.0%) of applicants with financial need	
-		        Need Fully Met	3 (100.0%) of aid recipients	
-		        Average Percent of Need Met	100%	
-		        Average Award	$9,851	
-		        Need-Based Gift	Received by 3 (100.0%) of aid recipients, average amount $250	
-		        Need-Based Self-Help	Received by 3 (100.0%) of aid recipients, average amount $6,000	
-		        Merit-Based Gift	Not reported	
-		        Merit-Based Gift	Not reported	
-	          All Undergraduates
-	            Financial Aid Applicants	34 (91.9%) of undergraduates	
-	            Found to Have Financial Need	34 (91.9%) of applicants	
-	            Received Financial Aid	34 (100.0%) of applicants with financial need	
-	            Need Fully Met	30 (88.2%) of aid recipients	
-	            Average Percent of Need Met	100%	
-	            Average Award	$4,600	
-	            Need-Based Gift	Received by 30 (88.2%) of aid recipients, average amount $250	
-	            Need-Based Self-Help	Received by 29 (85.3%) of aid recipients, average amount $6,000	
-	            Merit-Based Gift	Not reported	
-	            Merit-Based Gift	Not reported	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	Not reported	
-                  Average Indebtedness of2013 Graduates	Not reported	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	Not reported	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans	
-                  State Loans		
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, Institutional scholarships, Private scholarships, Veterans Education Benefits (GI Bill)	
-                  Non-NeedBased Available	None	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Education, Foreign Languages, Religion/Biblical Studies	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Education, Religion/Biblical Studies, Foreign Languages	
-                  Creative Arts/PerformanceAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special Achievements/ActivitiesAward Areas	Memberships, Religious Involvement	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Memberships, Religious Involvement	
-                  Special CharacteristicsAward Areas	Religious Affiliation	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Religious Affiliation	
-                Employment
-                  Work-Study Programs	Federal work study available	
-                  Average Earnings fromOn-Campus Employment	$2,379	
+	TUITION AND EXPENSES
+		         Cost of Attendance	Not available	
+		         Tuition and Fees	$8,579	
+		         Room and Board	Not reported	
+		         Books and Supplies	$1,280	
+		         Other Expenses	Not reported	
+		         Payment Plans	Not reported	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail		
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Not reported
+	          Application Process
+	            Application Deadline		
+	            Award Notification	Not reported	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	3 (100.0%) of freshmen	
+		        Found to Have Financial Need	3 (100.0%) of applicants	
+		        Received Financial Aid	3 (100.0%) of applicants with financial need	
+		        Need Fully Met	3 (100.0%) of aid recipients	
+		        Average Percent of Need Met	100%	
+		        Average Award	$9,851	
+		        Need-Based Gift	Received by 3 (100.0%) of aid recipients, average amount $250	
+		        Need-Based Self-Help	Received by 3 (100.0%) of aid recipients, average amount $6,000	
+		        Merit-Based Gift	Not reported	
+		        Merit-Based Gift	Not reported	
+	          All Undergraduates
+	            Financial Aid Applicants	34 (91.9%) of undergraduates	
+	            Found to Have Financial Need	34 (91.9%) of applicants	
+	            Received Financial Aid	34 (100.0%) of applicants with financial need	
+	            Need Fully Met	30 (88.2%) of aid recipients	
+	            Average Percent of Need Met	100%	
+	            Average Award	$4,600	
+	            Need-Based Gift	Received by 30 (88.2%) of aid recipients, average amount $250	
+	            Need-Based Self-Help	Received by 29 (85.3%) of aid recipients, average amount $6,000	
+	            Merit-Based Gift	Not reported	
+	            Merit-Based Gift	Not reported	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	Not reported	
+                  Average Indebtedness of2013 Graduates	Not reported	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	Not reported	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans	
+                  State Loans		
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, Institutional scholarships, Private scholarships, Veterans Education Benefits (GI Bill)	
+                  Non-NeedBased Available	None	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Education, Foreign Languages, Religion/Biblical Studies	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Education, Religion/Biblical Studies, Foreign Languages	
+                  Creative Arts/PerformanceAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special Achievements/ActivitiesAward Areas	Memberships, Religious Involvement	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Memberships, Religious Involvement	
+                  Special CharacteristicsAward Areas	Religious Affiliation	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Religious Affiliation	
+                Employment
+                  Work-Study Programs	Federal work study available	
+                  Average Earnings fromOn-Campus Employment	$2,379	

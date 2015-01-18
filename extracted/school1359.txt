@@ -2,141 +2,141 @@
   					Save
 			        Emmaus Bible College
 				        Dubuque, IA
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Noncompetitive: Virtually all applicants accepted regardless of high school rank or test scores. 	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is not required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English			
-           Mathematics			
-           Science			
-           Foreign Language			
-           Social Studies			
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	Not reported	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	Not reported	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	2570 Asbury Road	
-               City, State, Zip	Dubuque,IA52001-3097	
-               Phone	(563) 588-8000 x1310	
-               Fax	(319) 588-1216	
-               E-mail	admissions@emmaus.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	June 1	
-               Application Fee	$25	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	2 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record			X		
-               Academic GPA			X		
-               Standardized Tests			X		
-               Class Rank				X	
-               Recommendations		X			
-               Essay	X				
-               Interview			X		
-               Level of Applicant's Interest				X	
-               Extracurricular Activities			X		
-               Volunteer Work			X		
-               ParticularTalent/Ability			X		
-               Character/Personal Qualities		X			
-               First Generation to Attend College				X	
-               State Residency				X	
-               Geographic Residence				X	
-               Relation with Alumnus				X	
-               Religious Affiliation/ Commitment		X			
-               Ethnicity				X	
-               Work Experience				X	
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	95% of    197 applicants were admitted	
-                Women	Not reported	
-                Men	Not reported	
-               Students Enrolled	Not reported	
-                Women	Not reported	
-                Men	Not reported	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	Not reported	
-               3.75 and Above	26%	
-               3.50 - 3.74	21%	
-               3.25 - 3.49	17%	
-               3.00 - 3.24	15%	
-               2.50 - 2.99	7%	
-               2.00 - 2.49	7%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	465 average 385-500 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	16%	
-               Score of 500 - 600	15%	
-               Score of 400 - 500	46%	
-               Score of 300 - 400	23%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	492 average 435-525 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	16%	
-               Score of 500 - 600	39%	
-               Score of 400 - 500	38%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	7%	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	957 average	
-               Score of 30 - 36	2%	
-               Score of 24 - 29	45%	
-               Score of 18 - 23	38%	
-               Score of 12 - 17	15%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 16%Top quarter: 48%Top half: 72%Bottom half: 28%	
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Noncompetitive: Virtually all applicants accepted regardless of high school rank or test scores. 	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is not required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English			
+           Mathematics			
+           Science			
+           Foreign Language			
+           Social Studies			
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	Not reported	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	Not reported	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	2570 Asbury Road	
+               City, State, Zip	Dubuque,IA52001-3097	
+               Phone	(563) 588-8000 x1310	
+               Fax	(319) 588-1216	
+               E-mail	admissions@emmaus.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	June 1	
+               Application Fee	$25	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	2 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record			X		
+               Academic GPA			X		
+               Standardized Tests			X		
+               Class Rank				X	
+               Recommendations		X			
+               Essay	X				
+               Interview			X		
+               Level of Applicant's Interest				X	
+               Extracurricular Activities			X		
+               Volunteer Work			X		
+               ParticularTalent/Ability			X		
+               Character/Personal Qualities		X			
+               First Generation to Attend College				X	
+               State Residency				X	
+               Geographic Residence				X	
+               Relation with Alumnus				X	
+               Religious Affiliation/ Commitment		X			
+               Ethnicity				X	
+               Work Experience				X	
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	95% of    197 applicants were admitted	
+                Women	Not reported	
+                Men	Not reported	
+               Students Enrolled	Not reported	
+                Women	Not reported	
+                Men	Not reported	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	Not reported	
+               3.75 and Above	26%	
+               3.50 - 3.74	21%	
+               3.25 - 3.49	17%	
+               3.00 - 3.24	15%	
+               2.50 - 2.99	7%	
+               2.00 - 2.49	7%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	465 average 385-500 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	16%	
+               Score of 500 - 600	15%	
+               Score of 400 - 500	46%	
+               Score of 300 - 400	23%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	492 average 435-525 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	16%	
+               Score of 500 - 600	39%	
+               Score of 400 - 500	38%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	7%	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	957 average	
+               Score of 30 - 36	2%	
+               Score of 24 - 29	45%	
+               Score of 18 - 23	38%	
+               Score of 12 - 17	15%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 16%Top quarter: 48%Top half: 72%Bottom half: 28%	
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -181,77 +181,77 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$25,150	
-		         Tuition and Fees	$15,390	
-		         Room and Board	$6,560	
-		         Books and Supplies	$600	
-		         Other Expenses	$2,600	
-		         Payment Plans	Credit card, installment plan, prepayment discount, deferred payment	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	financialaid@emmaus.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Not reported
-	          Application Process
-	            Application Deadline		
-	            Award Notification	On a rolling basis beginning March 1	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 016487	Free	
-	PROFILE OF 
-              2005-06
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	99 (82.5%) of freshmen	
-		        Found to Have Financial Need	61 (61.6%) of applicants	
-		        Received Financial Aid	51 (83.6%) of applicants with financial need	
-		        Need Fully Met	Not reported	
-		        Average Percent of Need Met	56%	
-		        Average Award	$4,780	
-		        Need-Based Gift	Received by 51 (100.0%) of aid recipients, average amount $2,687	
-		        Need-Based Self-Help	Received by 43 (84.3%) of aid recipients, average amount $3,119	
-		        Merit-Based Gift	Received by 29 (56.9%) of aid recipients	
-		        Merit-Based Gift	Not reported	
-	          All Undergraduates
-	            Financial Aid Applicants	212 (80.0%) of undergraduates	
-	            Found to Have Financial Need	145 (54.7%) of applicants	
-	            Received Financial Aid	125 (86.2%) of applicants with financial need	
-	            Need Fully Met	Not reported	
-	            Average Percent of Need Met	74%	
-	            Average Award	$5,216	
-	            Need-Based Gift	Received by 115 (92.0%) of aid recipients, average amount $2,852	
-	            Need-Based Self-Help	Received by 121 (96.8%) of aid recipients, average amount $3,652	
-	            Merit-Based Gift	Received by 91 (72.8%) of aid recipients	
-	            Merit-Based Gift	Not reported	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	66%	
-                  Average Indebtedness of2013 Graduates	Not reported	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	5.0%	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans		
-                  State Loans		
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Minority scholarships, Leadership scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	93	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Not reported	
-                  Number of Awards	4	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special Achievements/ActivitiesAward Areas	Leadership, Religious Involvement	
-                  Number of Awards	34	
-                  Top Areas (By MoneyAwarded)	Leadership, Religious Involvement	
-                  Special CharacteristicsAward Areas	Children of Faculty/Staff	
-                  Number of Awards	11	
-                  Top Areas (By MoneyAwarded)	Children of Faculty/Staff	
-                Employment
-                  Work-Study Programs	Not reported	
-                  Average Earnings fromOn-Campus Employment	Not reported	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$25,150	
+		         Tuition and Fees	$15,390	
+		         Room and Board	$6,560	
+		         Books and Supplies	$600	
+		         Other Expenses	$2,600	
+		         Payment Plans	Credit card, installment plan, prepayment discount, deferred payment	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	financialaid@emmaus.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Not reported
+	          Application Process
+	            Application Deadline		
+	            Award Notification	On a rolling basis beginning March 1	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 016487	Free	
+	PROFILE OF 
+              2005-06
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	99 (82.5%) of freshmen	
+		        Found to Have Financial Need	61 (61.6%) of applicants	
+		        Received Financial Aid	51 (83.6%) of applicants with financial need	
+		        Need Fully Met	Not reported	
+		        Average Percent of Need Met	56%	
+		        Average Award	$4,780	
+		        Need-Based Gift	Received by 51 (100.0%) of aid recipients, average amount $2,687	
+		        Need-Based Self-Help	Received by 43 (84.3%) of aid recipients, average amount $3,119	
+		        Merit-Based Gift	Received by 29 (56.9%) of aid recipients	
+		        Merit-Based Gift	Not reported	
+	          All Undergraduates
+	            Financial Aid Applicants	212 (80.0%) of undergraduates	
+	            Found to Have Financial Need	145 (54.7%) of applicants	
+	            Received Financial Aid	125 (86.2%) of applicants with financial need	
+	            Need Fully Met	Not reported	
+	            Average Percent of Need Met	74%	
+	            Average Award	$5,216	
+	            Need-Based Gift	Received by 115 (92.0%) of aid recipients, average amount $2,852	
+	            Need-Based Self-Help	Received by 121 (96.8%) of aid recipients, average amount $3,652	
+	            Merit-Based Gift	Received by 91 (72.8%) of aid recipients	
+	            Merit-Based Gift	Not reported	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	66%	
+                  Average Indebtedness of2013 Graduates	Not reported	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	5.0%	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans		
+                  State Loans		
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Minority scholarships, Leadership scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	93	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Not reported	
+                  Number of Awards	4	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special Achievements/ActivitiesAward Areas	Leadership, Religious Involvement	
+                  Number of Awards	34	
+                  Top Areas (By MoneyAwarded)	Leadership, Religious Involvement	
+                  Special CharacteristicsAward Areas	Children of Faculty/Staff	
+                  Number of Awards	11	
+                  Top Areas (By MoneyAwarded)	Children of Faculty/Staff	
+                Employment
+                  Work-Study Programs	Not reported	
+                  Average Earnings fromOn-Campus Employment	Not reported	

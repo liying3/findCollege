@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Azusa Pacific University, Biola University, University of California, San Diego, University of California, Los Angeles, California State University Long Beach, University of California, Riverside
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is recommended	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	3	4	
-           Science	2	3	
-           Foreign Language	2	3	
-           Social Studies	2		
-           History	2		
-           Academic Electives		3	
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	August  1	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only	Recommended		
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Used for placement ACT: Used for placement 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	8432 Magnolia Avenue	
-               City, State, Zip	Riverside,CA92504-3206	
-               Phone	(951) 343-4212	
-               Fax		
-               E-mail	admissions@calbaptist.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	Rolling	
-               Application Fee	$45	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling, notification begins November 9	
-               Accept Offer of Admission	No set date	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	Yes	
-               Early Action Deadline	December 15	
-               Early Action Notification	January 31	
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	2 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank			X		
-               Recommendations	X				
-               Essay	X				
-               Interview				X	
-               Level of Applicant's Interest		X			
-               Extracurricular Activities			X		
-               Volunteer Work			X		
-               ParticularTalent/Ability			X		
-               Character/Personal Qualities	X				
-               First Generation to Attend College				X	
-               State Residency				X	
-               Geographic Residence				X	
-               Relation with Alumnus				X	
-               Religious Affiliation/ Commitment				X	
-               Ethnicity				X	
-               Work Experience				X	
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	79% of  3,853 applicants were admitted	
-                Women	79% of  2,508 applicants were admitted	
-                Men	79% of  1,345 applicants were admitted	
-               Students Enrolled	1,527 (50%) of 3,036 admitted students enrolled	
-                Women	920 (46%) of 1,979 admitted students enrolled	
-                Men	607 (57%) of 1,057 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate	Not reported	
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.33	
-               3.75 and Above	26%	
-               3.50 - 3.74	15%	
-               3.25 - 3.49	17%	
-               3.00 - 3.24	14%	
-               2.50 - 2.99	23%	
-               2.00 - 2.49	5%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	491 average 420-560 range of middle 50%	
-               Score of 700 - 800	1%	
-               Score of 600 - 700	15%	
-               Score of 500 - 600	32%	
-               Score of 400 - 500	37%	
-               Score of 300 - 400	13%	
-               Score of 200 - 300	2%	
-               SAT Critical Reading	489 average 430-550 range of middle 50%	
-               Score of 700 - 800	2%	
-               Score of 600 - 700	10%	
-               Score of 500 - 600	35%	
-               Score of 400 - 500	39%	
-               Score of 300 - 400	13%	
-               Score of 200 - 300	1%	
-               SAT Writing	482 average 420-540 range of middle 50%	
-               Score of 700 - 800	1%	
-               Score of 600 - 700	7%	
-               Score of 500 - 600	35%	
-               Score of 400 - 500	43%	
-               Score of 300 - 400	13%	
-               Score of 200 - 300	1%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	21 average 18-24 range of middle 50%	
-               Score of 30 - 36	2%	
-               Score of 24 - 29	26%	
-               Score of 18 - 23	51%	
-               Score of 12 - 17	21%	
-               Score of 6 - 11	1%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 17%Top quarter: 43%Top half: 78%Bottom half: 22%	
-               National Merit Scholar	Not reported	
-               Valedictorian	0%	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is recommended	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	3	4	
+           Science	2	3	
+           Foreign Language	2	3	
+           Social Studies	2		
+           History	2		
+           Academic Electives		3	
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	August  1	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only	Recommended		
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Used for placement ACT: Used for placement 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	8432 Magnolia Avenue	
+               City, State, Zip	Riverside,CA92504-3206	
+               Phone	(951) 343-4212	
+               Fax		
+               E-mail	admissions@calbaptist.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	Rolling	
+               Application Fee	$45	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling, notification begins November 9	
+               Accept Offer of Admission	No set date	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	Yes	
+               Early Action Deadline	December 15	
+               Early Action Notification	January 31	
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	2 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank			X		
+               Recommendations	X				
+               Essay	X				
+               Interview				X	
+               Level of Applicant's Interest		X			
+               Extracurricular Activities			X		
+               Volunteer Work			X		
+               ParticularTalent/Ability			X		
+               Character/Personal Qualities	X				
+               First Generation to Attend College				X	
+               State Residency				X	
+               Geographic Residence				X	
+               Relation with Alumnus				X	
+               Religious Affiliation/ Commitment				X	
+               Ethnicity				X	
+               Work Experience				X	
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	79% of  3,853 applicants were admitted	
+                Women	79% of  2,508 applicants were admitted	
+                Men	79% of  1,345 applicants were admitted	
+               Students Enrolled	1,527 (50%) of 3,036 admitted students enrolled	
+                Women	920 (46%) of 1,979 admitted students enrolled	
+                Men	607 (57%) of 1,057 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate	Not reported	
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.33	
+               3.75 and Above	26%	
+               3.50 - 3.74	15%	
+               3.25 - 3.49	17%	
+               3.00 - 3.24	14%	
+               2.50 - 2.99	23%	
+               2.00 - 2.49	5%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	491 average 420-560 range of middle 50%	
+               Score of 700 - 800	1%	
+               Score of 600 - 700	15%	
+               Score of 500 - 600	32%	
+               Score of 400 - 500	37%	
+               Score of 300 - 400	13%	
+               Score of 200 - 300	2%	
+               SAT Critical Reading	489 average 430-550 range of middle 50%	
+               Score of 700 - 800	2%	
+               Score of 600 - 700	10%	
+               Score of 500 - 600	35%	
+               Score of 400 - 500	39%	
+               Score of 300 - 400	13%	
+               Score of 200 - 300	1%	
+               SAT Writing	482 average 420-540 range of middle 50%	
+               Score of 700 - 800	1%	
+               Score of 600 - 700	7%	
+               Score of 500 - 600	35%	
+               Score of 400 - 500	43%	
+               Score of 300 - 400	13%	
+               Score of 200 - 300	1%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	21 average 18-24 range of middle 50%	
+               Score of 30 - 36	2%	
+               Score of 24 - 29	26%	
+               Score of 18 - 23	51%	
+               Score of 12 - 17	21%	
+               Score of 6 - 11	1%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 17%Top quarter: 43%Top half: 78%Bottom half: 22%	
+               National Merit Scholar	Not reported	
+               Valedictorian	0%	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -193,78 +193,78 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$44,804	
-		         Tuition and Fees	$29,422	
-		         Room and Board	$9,370	
-		         Books and Supplies	$1,746	
-		         Other Expenses	$4,266	
-		         Payment Plans	Credit card, installment plan, external finance company	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail		
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline March 2	
-	            Award Notification	On a rolling basis beginning March 2	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 001125	Free	
-                    State Aid Form		
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	618 (91.6%) of freshmen	
-		        Found to Have Financial Need	617 (99.8%) of applicants	
-		        Received Financial Aid	503 (81.5%) of applicants with financial need	
-		        Need Fully Met	29 (5.8%) of aid recipients	
-		        Average Percent of Need Met	52%	
-		        Average Award	$15,861	
-		        Need-Based Gift	Received by 383 (76.1%) of aid recipients, average amount $11,266	
-		        Need-Based Self-Help	Received by 433 (86.1%) of aid recipients, average amount $11,796	
-		        Merit-Based Gift	Received by 301 (59.8%) of aid recipients	
-		        Merit-Based Gift	34 (5.0%) of freshmen had no financial need and received merit aid, average amount $5,875	
-	          All Undergraduates
-	            Financial Aid Applicants	4,484 (91.8%) of undergraduates	
-	            Found to Have Financial Need	4,471 (91.6%) of applicants	
-	            Received Financial Aid	3,587 (80.2%) of applicants with financial need	
-	            Need Fully Met	263 (7.3%) of aid recipients	
-	            Average Percent of Need Met	53%	
-	            Average Award	$16,025	
-	            Need-Based Gift	Received by 3,055 (85.2%) of aid recipients, average amount $11,116	
-	            Need-Based Self-Help	Received by 3,043 (84.8%) of aid recipients, average amount $11,232	
-	            Merit-Based Gift	Received by 1,976 (55.1%) of aid recipients	
-	            Merit-Based Gift	190 (3.9%) of undergraduates had no financial need and received merit aid, average amount $6,498	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	75%	
-                  Average Indebtedness of2013 Graduates	 $36,773	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	Not reported	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans	Alternative loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, ROTC scholarships, Religious affiliation scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Religion/Biblical Studies	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Religion/Biblical Studies	
-                  Creative Arts/PerformanceAward Areas	Art/Fine Arts, Music, Theater/Drama	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Art/Fine Arts, Theater/Drama, Music	
-                  Special Achievements/ActivitiesAward Areas	Cheerleading/Drum Major	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Cheerleading/Drum Major	
-                  Special CharacteristicsAward Areas	Adult Students, Children of Faculty/Staff, International Students, Relatives of Clergy, Religious Affiliation, Siblings of Current Students, Veterans	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Adult Students, Children of Faculty/Staff, Relatives of Clergy, Veterans, Religious Affiliation, Siblings of Current Students, International Students	
-                Employment
-                  Work-Study Programs	Federal work study available	
-                  Average Earnings fromOn-Campus Employment	$1,471	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$44,804	
+		         Tuition and Fees	$29,422	
+		         Room and Board	$9,370	
+		         Books and Supplies	$1,746	
+		         Other Expenses	$4,266	
+		         Payment Plans	Credit card, installment plan, external finance company	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail		
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline March 2	
+	            Award Notification	On a rolling basis beginning March 2	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 001125	Free	
+                    State Aid Form		
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	618 (91.6%) of freshmen	
+		        Found to Have Financial Need	617 (99.8%) of applicants	
+		        Received Financial Aid	503 (81.5%) of applicants with financial need	
+		        Need Fully Met	29 (5.8%) of aid recipients	
+		        Average Percent of Need Met	52%	
+		        Average Award	$15,861	
+		        Need-Based Gift	Received by 383 (76.1%) of aid recipients, average amount $11,266	
+		        Need-Based Self-Help	Received by 433 (86.1%) of aid recipients, average amount $11,796	
+		        Merit-Based Gift	Received by 301 (59.8%) of aid recipients	
+		        Merit-Based Gift	34 (5.0%) of freshmen had no financial need and received merit aid, average amount $5,875	
+	          All Undergraduates
+	            Financial Aid Applicants	4,484 (91.8%) of undergraduates	
+	            Found to Have Financial Need	4,471 (91.6%) of applicants	
+	            Received Financial Aid	3,587 (80.2%) of applicants with financial need	
+	            Need Fully Met	263 (7.3%) of aid recipients	
+	            Average Percent of Need Met	53%	
+	            Average Award	$16,025	
+	            Need-Based Gift	Received by 3,055 (85.2%) of aid recipients, average amount $11,116	
+	            Need-Based Self-Help	Received by 3,043 (84.8%) of aid recipients, average amount $11,232	
+	            Merit-Based Gift	Received by 1,976 (55.1%) of aid recipients	
+	            Merit-Based Gift	190 (3.9%) of undergraduates had no financial need and received merit aid, average amount $6,498	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	75%	
+                  Average Indebtedness of2013 Graduates	 $36,773	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	Not reported	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans	Alternative loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, ROTC scholarships, Religious affiliation scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Religion/Biblical Studies	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Religion/Biblical Studies	
+                  Creative Arts/PerformanceAward Areas	Art/Fine Arts, Music, Theater/Drama	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Art/Fine Arts, Theater/Drama, Music	
+                  Special Achievements/ActivitiesAward Areas	Cheerleading/Drum Major	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Cheerleading/Drum Major	
+                  Special CharacteristicsAward Areas	Adult Students, Children of Faculty/Staff, International Students, Relatives of Clergy, Religious Affiliation, Siblings of Current Students, Veterans	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Adult Students, Children of Faculty/Staff, Relatives of Clergy, Veterans, Religious Affiliation, Siblings of Current Students, International Students	
+                Employment
+                  Work-Study Programs	Federal work study available	
+                  Average Earnings fromOn-Campus Employment	$1,471	

@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Howard University, Hampton University, North Carolina A State University, Spelman College, Alabama State University, Alabama A University
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is recommended	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	3		
-           Science	2		
-           Foreign Language			
-           Social Studies	3		
-           History			
-           Academic Electives	4		
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	Not reported	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Used for placement ACT: Used for placement 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address		
-               City, State, Zip	Tuskegee,AL36088	
-               Phone	(334) 727-8500	
-               Fax		
-               E-mail	admissions@mytu.tuskegee.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	April 15	
-               Application Fee	$25	
-               Application Fee Waiver	Not available	
-               Regular Admission Notification	Not reported	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement		
-               Letters ofRecommendation		
-               Other	ACT or SAT (prefer SAT) required for freshmen	
-               Financial Need	Financial need is a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank		X			
-               Recommendations			X		
-               Essay			X		
-               Interview				X	
-               Level of Applicant's Interest					
-               Extracurricular Activities			X		
-               Volunteer Work		X			
-               ParticularTalent/Ability		X			
-               Character/Personal Qualities				X	
-               First Generation to Attend College			X		
-               State Residency			X		
-               Geographic Residence					
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity			X		
-               Work Experience		X			
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	41% of  8,894 applicants were admitted	
-                Women	42% of  5,682 applicants were admitted	
-                Men	40% of  3,212 applicants were admitted	
-               Students Enrolled	715 (19%) of 3,679 admitted students enrolled	
-                Women	441 (18%) of 2,387 admitted students enrolled	
-                Men	274 (21%) of 1,292 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.1	
-               3.75 and Above	16%	
-               3.50 - 3.74	18%	
-               3.25 - 3.49	16%	
-               3.00 - 3.24	20%	
-               2.50 - 2.99	27%	
-               2.00 - 2.49	3%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	470 average 390-500 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	7%	
-               Score of 500 - 600	28%	
-               Score of 400 - 500	48%	
-               Score of 300 - 400	17%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	463 average 400-500 range of middle 50%	
-               Score of 700 - 800	1%	
-               Score of 600 - 700	3%	
-               Score of 500 - 600	58%	
-               Score of 400 - 500	28%	
-               Score of 300 - 400	10%	
-               Score of 200 - 300	0%	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	21 average 17-22 range of middle 50%	
-               Score of 30 - 36	1%	
-               Score of 24 - 29	20%	
-               Score of 18 - 23	66%	
-               Score of 12 - 17	13%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 20%Top quarter: 60%Top half: 100%	
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is recommended	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	3		
+           Science	2		
+           Foreign Language			
+           Social Studies	3		
+           History			
+           Academic Electives	4		
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	Not reported	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Used for placement ACT: Used for placement 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address		
+               City, State, Zip	Tuskegee,AL36088	
+               Phone	(334) 727-8500	
+               Fax		
+               E-mail	admissions@mytu.tuskegee.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	April 15	
+               Application Fee	$25	
+               Application Fee Waiver	Not available	
+               Regular Admission Notification	Not reported	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement		
+               Letters ofRecommendation		
+               Other	ACT or SAT (prefer SAT) required for freshmen	
+               Financial Need	Financial need is a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank		X			
+               Recommendations			X		
+               Essay			X		
+               Interview				X	
+               Level of Applicant's Interest					
+               Extracurricular Activities			X		
+               Volunteer Work		X			
+               ParticularTalent/Ability		X			
+               Character/Personal Qualities				X	
+               First Generation to Attend College			X		
+               State Residency			X		
+               Geographic Residence					
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity			X		
+               Work Experience		X			
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	41% of  8,894 applicants were admitted	
+                Women	42% of  5,682 applicants were admitted	
+                Men	40% of  3,212 applicants were admitted	
+               Students Enrolled	715 (19%) of 3,679 admitted students enrolled	
+                Women	441 (18%) of 2,387 admitted students enrolled	
+                Men	274 (21%) of 1,292 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.1	
+               3.75 and Above	16%	
+               3.50 - 3.74	18%	
+               3.25 - 3.49	16%	
+               3.00 - 3.24	20%	
+               2.50 - 2.99	27%	
+               2.00 - 2.49	3%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	470 average 390-500 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	7%	
+               Score of 500 - 600	28%	
+               Score of 400 - 500	48%	
+               Score of 300 - 400	17%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	463 average 400-500 range of middle 50%	
+               Score of 700 - 800	1%	
+               Score of 600 - 700	3%	
+               Score of 500 - 600	58%	
+               Score of 400 - 500	28%	
+               Score of 300 - 400	10%	
+               Score of 200 - 300	0%	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	21 average 17-22 range of middle 50%	
+               Score of 30 - 36	1%	
+               Score of 24 - 29	20%	
+               Score of 18 - 23	66%	
+               Score of 12 - 17	13%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 20%Top quarter: 60%Top half: 100%	
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -194,78 +194,78 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$37,160	
-		         Tuition and Fees	$20,395	
-		         Room and Board	$9,104	
-		         Books and Supplies	$1,678	
-		         Other Expenses	$5,983	
-		         Payment Plans	Credit card, installment plan	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	faid@mytu.tuskegee.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Not reported
-	          Application Process
-	            Application Deadline	March 31	
-	            Award Notification	On a rolling basis beginning May 15	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 001050	Free	
-                    Institution's own form		
-	PROFILE OF 
-              2012-13
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	635 (84.9%) of freshmen	
-		        Found to Have Financial Need	540 (85.0%) of applicants	
-		        Received Financial Aid	510 (94.4%) of applicants with financial need	
-		        Need Fully Met	347 (68.0%) of aid recipients	
-		        Average Percent of Need Met	85%	
-		        Average Award	$19,250	
-		        Need-Based Gift	Received by 434 (85.1%) of aid recipients, average amount $800	
-		        Need-Based Self-Help	Received by 434 (85.1%) of aid recipients, average amount $5,666	
-		        Merit-Based Gift	Received by 284 (55.7%) of aid recipients	
-		        Merit-Based Gift	208 (27.8%) of freshmen had no financial need and received merit aid, average amount $6,000	
-	          All Undergraduates
-	            Financial Aid Applicants	2,519 (92.0%) of undergraduates	
-	            Found to Have Financial Need	2,147 (78.4%) of applicants	
-	            Received Financial Aid	1,970 (91.8%) of applicants with financial need	
-	            Need Fully Met	1,379 (70.0%) of aid recipients	
-	            Average Percent of Need Met	85%	
-	            Average Award	$19,250	
-	            Need-Based Gift	Received by 1,675 (85.0%) of aid recipients, average amount $800	
-	            Need-Based Self-Help	Received by 1,541 (78.2%) of aid recipients, average amount $5,666	
-	            Merit-Based Gift	Received by 951 (48.3%) of aid recipients	
-	            Merit-Based Gift	597 (21.8%) of undergraduates had no financial need and received merit aid, average amount $6,000	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	91%	
-                  Average Indebtedness of2013 Graduates	 $28,575	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	34.0%	
-                  Parents of Students NotReceiving Aid	21.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Athletic scholarships, State scholarships, ROTC scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	1,714	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Music	
-                  Number of Awards	150	
-                  Top Areas (By MoneyAwarded)	Music	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	Children of Faculty/Staff, Local/State Students	
-                  Number of Awards	36	
-                  Top Areas (By MoneyAwarded)	Local/State Students, Children of Faculty/Staff	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$1,879	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$37,160	
+		         Tuition and Fees	$20,395	
+		         Room and Board	$9,104	
+		         Books and Supplies	$1,678	
+		         Other Expenses	$5,983	
+		         Payment Plans	Credit card, installment plan	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	faid@mytu.tuskegee.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Not reported
+	          Application Process
+	            Application Deadline	March 31	
+	            Award Notification	On a rolling basis beginning May 15	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 001050	Free	
+                    Institution's own form		
+	PROFILE OF 
+              2012-13
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	635 (84.9%) of freshmen	
+		        Found to Have Financial Need	540 (85.0%) of applicants	
+		        Received Financial Aid	510 (94.4%) of applicants with financial need	
+		        Need Fully Met	347 (68.0%) of aid recipients	
+		        Average Percent of Need Met	85%	
+		        Average Award	$19,250	
+		        Need-Based Gift	Received by 434 (85.1%) of aid recipients, average amount $800	
+		        Need-Based Self-Help	Received by 434 (85.1%) of aid recipients, average amount $5,666	
+		        Merit-Based Gift	Received by 284 (55.7%) of aid recipients	
+		        Merit-Based Gift	208 (27.8%) of freshmen had no financial need and received merit aid, average amount $6,000	
+	          All Undergraduates
+	            Financial Aid Applicants	2,519 (92.0%) of undergraduates	
+	            Found to Have Financial Need	2,147 (78.4%) of applicants	
+	            Received Financial Aid	1,970 (91.8%) of applicants with financial need	
+	            Need Fully Met	1,379 (70.0%) of aid recipients	
+	            Average Percent of Need Met	85%	
+	            Average Award	$19,250	
+	            Need-Based Gift	Received by 1,675 (85.0%) of aid recipients, average amount $800	
+	            Need-Based Self-Help	Received by 1,541 (78.2%) of aid recipients, average amount $5,666	
+	            Merit-Based Gift	Received by 951 (48.3%) of aid recipients	
+	            Merit-Based Gift	597 (21.8%) of undergraduates had no financial need and received merit aid, average amount $6,000	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	91%	
+                  Average Indebtedness of2013 Graduates	 $28,575	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	34.0%	
+                  Parents of Students NotReceiving Aid	21.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Athletic scholarships, State scholarships, ROTC scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	1,714	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Music	
+                  Number of Awards	150	
+                  Top Areas (By MoneyAwarded)	Music	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	Children of Faculty/Staff, Local/State Students	
+                  Number of Awards	36	
+                  Top Areas (By MoneyAwarded)	Local/State Students, Children of Faculty/Staff	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$1,879	

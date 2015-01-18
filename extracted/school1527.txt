@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Tulane University, New York University, Louisiana State University, Fordham University, Boston University, University of Miami
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is recommended	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	2	3	
-           Science	2	3	
-           Foreign Language		2	
-           Social Studies	2		
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	August  1	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Used for placement ACT: Used for placement 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	6363 Saint Charles Avenue	
-               City, State, Zip	New Orleans,LA70118-6195	
-               Phone	(504) 865-3240	
-               Fax	(504) 865-3383	
-               E-mail	admit@loyno.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	Rolling	
-               Application Fee	$20 Fee may be reduced or waived if student applies online. Check with Admissions Office.	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	No	
-               Defer Admission	Student cannot defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	1 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank			X		
-               Recommendations		X			
-               Essay		X			
-               Interview			X		
-               Level of Applicant's Interest			X		
-               Extracurricular Activities		X			
-               Volunteer Work			X		
-               ParticularTalent/Ability		X			
-               Character/Personal Qualities			X		
-               First Generation to Attend College				X	
-               State Residency			X		
-               Geographic Residence			X		
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity				X	
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	87% of  4,827 applicants were admitted	
-                Women	87% of  3,123 applicants were admitted	
-                Men	87% of  1,704 applicants were admitted	
-               Students Enrolled	721 (17%) of 4,203 admitted students enrolled	
-                Women	426 (16%) of 2,713 admitted students enrolled	
-                Men	295 (20%) of 1,490 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.54	
-               3.75 and Above	38%	
-               3.50 - 3.74	16%	
-               3.25 - 3.49	14%	
-               3.00 - 3.24	14%	
-               2.50 - 2.99	14%	
-               2.00 - 2.49	4%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	560 average 510-610 range of middle 50%	
-               Score of 700 - 800	4%	
-               Score of 600 - 700	27%	
-               Score of 500 - 600	48%	
-               Score of 400 - 500	21%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	580 average 520-640 range of middle 50%	
-               Score of 700 - 800	8%	
-               Score of 600 - 700	33%	
-               Score of 500 - 600	44%	
-               Score of 400 - 500	14%	
-               Score of 300 - 400	1%	
-               Score of 200 - 300	0%	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	25 average 22-28 range of middle 50%	
-               Score of 30 - 36	15%	
-               Score of 24 - 29	50%	
-               Score of 18 - 23	35%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 15%Top quarter: 43%Top half: 76%Bottom half: 24%	
-               National Merit Scholar	Not reported	
-               Valedictorian	2%	
-               Class President	5%	
-               Student Government Officer	29%	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is recommended	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	2	3	
+           Science	2	3	
+           Foreign Language		2	
+           Social Studies	2		
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	August  1	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Used for placement ACT: Used for placement 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	6363 Saint Charles Avenue	
+               City, State, Zip	New Orleans,LA70118-6195	
+               Phone	(504) 865-3240	
+               Fax	(504) 865-3383	
+               E-mail	admit@loyno.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	Rolling	
+               Application Fee	$20 Fee may be reduced or waived if student applies online. Check with Admissions Office.	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	No	
+               Defer Admission	Student cannot defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	1 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank			X		
+               Recommendations		X			
+               Essay		X			
+               Interview			X		
+               Level of Applicant's Interest			X		
+               Extracurricular Activities		X			
+               Volunteer Work			X		
+               ParticularTalent/Ability		X			
+               Character/Personal Qualities			X		
+               First Generation to Attend College				X	
+               State Residency			X		
+               Geographic Residence			X		
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity				X	
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	87% of  4,827 applicants were admitted	
+                Women	87% of  3,123 applicants were admitted	
+                Men	87% of  1,704 applicants were admitted	
+               Students Enrolled	721 (17%) of 4,203 admitted students enrolled	
+                Women	426 (16%) of 2,713 admitted students enrolled	
+                Men	295 (20%) of 1,490 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.54	
+               3.75 and Above	38%	
+               3.50 - 3.74	16%	
+               3.25 - 3.49	14%	
+               3.00 - 3.24	14%	
+               2.50 - 2.99	14%	
+               2.00 - 2.49	4%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	560 average 510-610 range of middle 50%	
+               Score of 700 - 800	4%	
+               Score of 600 - 700	27%	
+               Score of 500 - 600	48%	
+               Score of 400 - 500	21%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	580 average 520-640 range of middle 50%	
+               Score of 700 - 800	8%	
+               Score of 600 - 700	33%	
+               Score of 500 - 600	44%	
+               Score of 400 - 500	14%	
+               Score of 300 - 400	1%	
+               Score of 200 - 300	0%	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	25 average 22-28 range of middle 50%	
+               Score of 30 - 36	15%	
+               Score of 24 - 29	50%	
+               Score of 18 - 23	35%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 15%Top quarter: 43%Top half: 76%Bottom half: 24%	
+               National Merit Scholar	Not reported	
+               Valedictorian	2%	
+               Class President	5%	
+               Student Government Officer	29%	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -194,77 +194,77 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$53,358	
-		         Tuition and Fees	$36,610	
-		         Room and Board	$12,660	
-		         Books and Supplies	$1,200	
-		         Other Expenses	$2,888	
-		         Payment Plans	Credit card, installment plan, external finance company	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail		
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline February 15 Final deadline June 1	
-	            Award Notification	On a rolling basis beginning March 1	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 002016	Free	
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	527 (87.8%) of freshmen	
-		        Found to Have Financial Need	453 (86.0%) of applicants	
-		        Received Financial Aid	453 (100.0%) of applicants with financial need	
-		        Need Fully Met	70 (15.5%) of aid recipients	
-		        Average Percent of Need Met	75%	
-		        Average Award	$29,416	
-		        Need-Based Gift	Received by 453 (100.0%) of aid recipients, average amount $25,970	
-		        Need-Based Self-Help	Received by 376 (83.0%) of aid recipients, average amount $4,151	
-		        Merit-Based Gift	Received by 54 (11.9%) of aid recipients	
-		        Merit-Based Gift	142 (23.7%) of freshmen had no financial need and received merit aid, average amount $15,445	
-	          All Undergraduates
-	            Financial Aid Applicants	2,024 (77.8%) of undergraduates	
-	            Found to Have Financial Need	1,797 (69.1%) of applicants	
-	            Received Financial Aid	1,797 (100.0%) of applicants with financial need	
-	            Need Fully Met	277 (15.4%) of aid recipients	
-	            Average Percent of Need Met	71%	
-	            Average Award	$27,599	
-	            Need-Based Gift	Received by 1,787 (99.4%) of aid recipients, average amount $23,707	
-	            Need-Based Self-Help	Received by 1,412 (78.6%) of aid recipients, average amount $5,120	
-	            Merit-Based Gift	Received by 230 (12.8%) of aid recipients	
-	            Merit-Based Gift	774 (29.8%) of undergraduates had no financial need and received merit aid, average amount $15,200	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	66%	
-                  Average Indebtedness of2013 Graduates	 $24,492	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	Not reported	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Federal Perkins loans	
-                  State Loans		
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, ROTC scholarships, Alumni affiliation scholarships, Leadership scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Art/Fine Arts	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Art/Fine Arts	
-                  Special Achievements/ActivitiesAward Areas	Leadership	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Leadership	
-                  Special CharacteristicsAward Areas	Children and Siblings of Alumni, Children of Faculty/Staff	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Children and Siblings of Alumni, Children of Faculty/Staff	
-                Employment
-                  Work-Study Programs	Federal work study available	
-                  Average Earnings fromOn-Campus Employment	Not reported	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$53,358	
+		         Tuition and Fees	$36,610	
+		         Room and Board	$12,660	
+		         Books and Supplies	$1,200	
+		         Other Expenses	$2,888	
+		         Payment Plans	Credit card, installment plan, external finance company	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail		
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline February 15 Final deadline June 1	
+	            Award Notification	On a rolling basis beginning March 1	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 002016	Free	
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	527 (87.8%) of freshmen	
+		        Found to Have Financial Need	453 (86.0%) of applicants	
+		        Received Financial Aid	453 (100.0%) of applicants with financial need	
+		        Need Fully Met	70 (15.5%) of aid recipients	
+		        Average Percent of Need Met	75%	
+		        Average Award	$29,416	
+		        Need-Based Gift	Received by 453 (100.0%) of aid recipients, average amount $25,970	
+		        Need-Based Self-Help	Received by 376 (83.0%) of aid recipients, average amount $4,151	
+		        Merit-Based Gift	Received by 54 (11.9%) of aid recipients	
+		        Merit-Based Gift	142 (23.7%) of freshmen had no financial need and received merit aid, average amount $15,445	
+	          All Undergraduates
+	            Financial Aid Applicants	2,024 (77.8%) of undergraduates	
+	            Found to Have Financial Need	1,797 (69.1%) of applicants	
+	            Received Financial Aid	1,797 (100.0%) of applicants with financial need	
+	            Need Fully Met	277 (15.4%) of aid recipients	
+	            Average Percent of Need Met	71%	
+	            Average Award	$27,599	
+	            Need-Based Gift	Received by 1,787 (99.4%) of aid recipients, average amount $23,707	
+	            Need-Based Self-Help	Received by 1,412 (78.6%) of aid recipients, average amount $5,120	
+	            Merit-Based Gift	Received by 230 (12.8%) of aid recipients	
+	            Merit-Based Gift	774 (29.8%) of undergraduates had no financial need and received merit aid, average amount $15,200	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	66%	
+                  Average Indebtedness of2013 Graduates	 $24,492	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	Not reported	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Federal Perkins loans	
+                  State Loans		
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, ROTC scholarships, Alumni affiliation scholarships, Leadership scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Art/Fine Arts	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Art/Fine Arts	
+                  Special Achievements/ActivitiesAward Areas	Leadership	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Leadership	
+                  Special CharacteristicsAward Areas	Children and Siblings of Alumni, Children of Faculty/Staff	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Children and Siblings of Alumni, Children of Faculty/Staff	
+                Employment
+                  Work-Study Programs	Federal work study available	
+                  Average Earnings fromOn-Campus Employment	Not reported	

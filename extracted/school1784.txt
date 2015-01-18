@@ -5,155 +5,155 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	University of Minnesota, Twin Cities, University of Iowa, University of Illinois at Urbana-Champaign, Purdue University, University of Wisconsin - Madison, University of Michigan
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	3	4	
-           Science	3	4	
-           Foreign Language	2	3	
-           Social Studies	2	4	
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	July  1	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address		
-               City, State, Zip	Ames,IA50011	
-               Phone	(515) 294-5836	
-               Fax	(515) 294-2592	
-               E-mail	admissions@iastate.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	July 1	
-               Application Fee	$40	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement		
-               Letters ofRecommendation		
-               Other	Regent Admission Index (RAI) of at least 245 and meet minimum HS course requirements required for freshmen	
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank	X				
-               Recommendations			X		
-               Essay			X		
-               Interview			X		
-               Level of Applicant's Interest				X	
-               Extracurricular Activities			X		
-               Volunteer Work			X		
-               ParticularTalent/Ability			X		
-               Character/Personal Qualities			X		
-               First Generation to Attend College				X	
-               State Residency			X		
-               Geographic Residence			X		
-               Relation with Alumnus				X	
-               Religious Affiliation/ Commitment				X	
-               Ethnicity				X	
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	85% of 17,525 applicants were admitted	
-                Women	87% of  8,204 applicants were admitted	
-                Men	84% of  9,321 applicants were admitted	
-               Students Enrolled	6,279 (42%) of 14,975 admitted students enrolled	
-                Women	3,145 (44%) of 7,152 admitted students enrolled	
-                Men	3,134 (40%) of 7,823 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.55	
-               3.75 and Above	36%	
-               3.50 - 3.74	22%	
-               3.25 - 3.49	18%	
-               3.00 - 3.24	14%	
-               2.50 - 2.99	9%	
-               2.00 - 2.49	1%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	530-680 range of middle 50%	
-               Score of 700 - 800	19%	
-               Score of 600 - 700	36%	
-               Score of 500 - 600	28%	
-               Score of 400 - 500	14%	
-               Score of 300 - 400	3%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	460-620 range of middle 50%	
-               Score of 700 - 800	10%	
-               Score of 600 - 700	21%	
-               Score of 500 - 600	34%	
-               Score of 400 - 500	27%	
-               Score of 300 - 400	7%	
-               Score of 200 - 300	1%	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	25 average 22-28 range of middle 50%	
-               Score of 30 - 36	14%	
-               Score of 24 - 29	48%	
-               Score of 18 - 23	36%	
-               Score of 12 - 17	2%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 26%Top quarter: 56%Top half: 90%Bottom half: 10%	
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	3	4	
+           Science	3	4	
+           Foreign Language	2	3	
+           Social Studies	2	4	
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	July  1	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address		
+               City, State, Zip	Ames,IA50011	
+               Phone	(515) 294-5836	
+               Fax	(515) 294-2592	
+               E-mail	admissions@iastate.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	July 1	
+               Application Fee	$40	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement		
+               Letters ofRecommendation		
+               Other	Regent Admission Index (RAI) of at least 245 and meet minimum HS course requirements required for freshmen	
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank	X				
+               Recommendations			X		
+               Essay			X		
+               Interview			X		
+               Level of Applicant's Interest				X	
+               Extracurricular Activities			X		
+               Volunteer Work			X		
+               ParticularTalent/Ability			X		
+               Character/Personal Qualities			X		
+               First Generation to Attend College				X	
+               State Residency			X		
+               Geographic Residence			X		
+               Relation with Alumnus				X	
+               Religious Affiliation/ Commitment				X	
+               Ethnicity				X	
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	85% of 17,525 applicants were admitted	
+                Women	87% of  8,204 applicants were admitted	
+                Men	84% of  9,321 applicants were admitted	
+               Students Enrolled	6,279 (42%) of 14,975 admitted students enrolled	
+                Women	3,145 (44%) of 7,152 admitted students enrolled	
+                Men	3,134 (40%) of 7,823 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.55	
+               3.75 and Above	36%	
+               3.50 - 3.74	22%	
+               3.25 - 3.49	18%	
+               3.00 - 3.24	14%	
+               2.50 - 2.99	9%	
+               2.00 - 2.49	1%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	530-680 range of middle 50%	
+               Score of 700 - 800	19%	
+               Score of 600 - 700	36%	
+               Score of 500 - 600	28%	
+               Score of 400 - 500	14%	
+               Score of 300 - 400	3%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	460-620 range of middle 50%	
+               Score of 700 - 800	10%	
+               Score of 600 - 700	21%	
+               Score of 500 - 600	34%	
+               Score of 400 - 500	27%	
+               Score of 300 - 400	7%	
+               Score of 200 - 300	1%	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	25 average 22-28 range of middle 50%	
+               Score of 30 - 36	14%	
+               Score of 24 - 29	48%	
+               Score of 18 - 23	36%	
+               Score of 12 - 17	2%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 26%Top quarter: 56%Top half: 90%Bottom half: 10%	
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
 			1/17
-What the School Says...
-Iowa State is an international, prestigious university with a friendly, welcoming personality. Our more than 31,000 students can choose from 100 majors, study with world-class scholars, and hone their leadership skills in more than 800 student organizations. Iowa State offers an environment where students can enjoy reaching their potential and discovering their passions. It has a culturally diverse student body, with students from all 50 states and more than 110 countries. We are located in Ames, Iowa, and are one of only three campuses honored with a Medallion Award from the American Society of Landscape Architects. The university was also named one of the "Top 25 Most Beautiful Campuses" in the book The Campus as a Work of Art. From the moment you set foot on our campus you will feel like you belong here. Schedule a visit today and let us show you around so you can check out the things you're interested in, up close and personal.
-What the School Says...
-While you have the option of submitting a paper application for admission, we strongly encourage you to apply online. Doing so allows you to self-report your academic information instead of having your high school send us your most recent transcript. It also means that you can expect to receive an e-mail indicating your admission status only two business days after you submit the online application!
-We process applications beginning approximately one year prior to each term of entry. The earlier you apply and accept your offer of admission, the more options you will have for financial aid, scholarships, course selection, and housing. Your early acceptance will also give you plenty of time to register for our orientation programs.
-What the School Says...
-When you think of lifetime earnings and quality of life, an Iowa State education is worth the investment. The Office of Student Financial Aid  provides information about and assistance with covering the cost of your education. More than 80 percent of Iowa State students receive some form of financial assistance, including grants, loans, or jobs. Many are awarded scholarships based on merit or talent.
-Students who are offered admission to Iowa State are automatically considered for scholarships. Because some scholarships have early deadlines, it is important to apply for admission as far in advance as possible.
-What the School Says...
-From accounting to zoology, we've got you covered. With more than 100 majors to choose from, you'll be able to decide what direction you want your future to take. Undecided? We've got that too. Come in "Open Option" or create your own path.
-What the School Says...
-Convenience and community are only a few of the reasons why 90 percent of incoming students choose to live on campus. Explore all of our housing options, and then pick the one that's right for you. Whether it's a traditional-style room, suite, or apartment, you'll feel right at home. Have you heard how good our food is? ISU Dining offers residential dining centers, convenience stores, cafes, and restaurants throughout campus. More than 800 student clubs and organizations provide unlimited leadership, social, and cultural opportunities for students. With intramural sports, concerts, plays, Cyclone athletics, and cultural events, adventure is around every corner.
-What the School Says...
+What the School Says...
+Iowa State is an international, prestigious university with a friendly, welcoming personality. Our more than 31,000 students can choose from 100 majors, study with world-class scholars, and hone their leadership skills in more than 800 student organizations. Iowa State offers an environment where students can enjoy reaching their potential and discovering their passions. It has a culturally diverse student body, with students from all 50 states and more than 110 countries. We are located in Ames, Iowa, and are one of only three campuses honored with a Medallion Award from the American Society of Landscape Architects. The university was also named one of the "Top 25 Most Beautiful Campuses" in the book The Campus as a Work of Art. From the moment you set foot on our campus you will feel like you belong here. Schedule a visit today and let us show you around so you can check out the things you're interested in, up close and personal.
+What the School Says...
+While you have the option of submitting a paper application for admission, we strongly encourage you to apply online. Doing so allows you to self-report your academic information instead of having your high school send us your most recent transcript. It also means that you can expect to receive an e-mail indicating your admission status only two business days after you submit the online application!
+We process applications beginning approximately one year prior to each term of entry. The earlier you apply and accept your offer of admission, the more options you will have for financial aid, scholarships, course selection, and housing. Your early acceptance will also give you plenty of time to register for our orientation programs.
+What the School Says...
+When you think of lifetime earnings and quality of life, an Iowa State education is worth the investment. The Office of Student Financial Aid  provides information about and assistance with covering the cost of your education. More than 80 percent of Iowa State students receive some form of financial assistance, including grants, loans, or jobs. Many are awarded scholarships based on merit or talent.
+Students who are offered admission to Iowa State are automatically considered for scholarships. Because some scholarships have early deadlines, it is important to apply for admission as far in advance as possible.
+What the School Says...
+From accounting to zoology, we've got you covered. With more than 100 majors to choose from, you'll be able to decide what direction you want your future to take. Undecided? We've got that too. Come in "Open Option" or create your own path.
+What the School Says...
+Convenience and community are only a few of the reasons why 90 percent of incoming students choose to live on campus. Explore all of our housing options, and then pick the one that's right for you. Whether it's a traditional-style room, suite, or apartment, you'll feel right at home. Have you heard how good our food is? ISU Dining offers residential dining centers, convenience stores, cafes, and restaurants throughout campus. More than 800 student clubs and organizations provide unlimited leadership, social, and cultural opportunities for students. With intramural sports, concerts, plays, Cyclone athletics, and cultural events, adventure is around every corner.
+What the School Says...
 Internships, study abroad programs, learning communities, and other out-of-class opportunities are an important part of an Iowa State education. Iowa State ranks 18th in the nation for students studying or working abroad, proving that your Iowa State adventure can take you anywhere. The Iowa State Career Services program ranks among the best in the nation. Iowa State hosts two of the nation's largest indoor career fairs, and more than 800 employers recruit on campus each year. Plus, with a more than 90 percent job-placement rate within six months of graduation, this is an investment that will pay dividends.
         Will You Get In? Find Out.
         Estimate your chances at
@@ -212,77 +212,77 @@ Internships, study abroad programs, learning communities, and other out-of-class
 							When I thought I would not get into my top choice, I...
 							Read Story
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	In-state: $20,002  Out-of-state: $32,888	
-		         Tuition and Fees	In-state: $7,731Out-of-state: $20,617	
-		         Room and Board	$8,798	
-		         Books and Supplies	$1,043	
-		         Other Expenses	$2,430	
-		         Payment Plans	Installment plan, deferred payment, external finance company	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	financialaid@iastate.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline March 1	
-	            Award Notification	On a rolling basis beginning April 1	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 001869	Free	
-	PROFILE OF 
-              2012-13
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	4,516 (84.4%) of freshmen	
-		        Found to Have Financial Need	2,987 (66.1%) of applicants	
-		        Received Financial Aid	2,957 (99.0%) of applicants with financial need	
-		        Need Fully Met	1,050 (35.5%) of aid recipients	
-		        Average Percent of Need Met	83%	
-		        Average Award	$11,945	
-		        Need-Based Gift	Received by 2,939 (99.4%) of aid recipients, average amount $7,692	
-		        Need-Based Self-Help	Received by 2,072 (70.1%) of aid recipients, average amount $3,509	
-		        Merit-Based Gift	Received by 1,434 (48.5%) of aid recipients	
-		        Merit-Based Gift	1,743 (32.6%) of freshmen had no financial need and received merit aid, average amount $3,049	
-	          All Undergraduates
-	            Financial Aid Applicants	18,523 (77.1%) of undergraduates	
-	            Found to Have Financial Need	13,140 (54.7%) of applicants	
-	            Received Financial Aid	12,958 (98.6%) of applicants with financial need	
-	            Need Fully Met	4,544 (35.1%) of aid recipients	
-	            Average Percent of Need Met	81%	
-	            Average Award	$11,841	
-	            Need-Based Gift	Received by 12,853 (99.2%) of aid recipients, average amount $6,607	
-	            Need-Based Self-Help	Received by 10,155 (78.4%) of aid recipients, average amount $4,566	
-	            Merit-Based Gift	Received by 6,075 (46.9%) of aid recipients	
-	            Merit-Based Gift	7,100 (29.5%) of undergraduates had no financial need and received merit aid, average amount $2,712	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	62%	
-                  Average Indebtedness of2013 Graduates	 $29,898	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	Not reported	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans	College/university loans, Private loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships	
-                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, Minority scholarships, State scholarships, ROTC scholarships, Alumni affiliation scholarships, Leadership scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Agriculture, Architecture, Area/Ethnic Studies, Biological Sciences, Business, Communication, Computer Science, Education, Engineering/Technologies, English, Foreign Languages, Health Fields, Home Economics, Humanities, International Studies, Library Science, Mathematics, Military Science, Physical Sciences, Premedicine, Social Sciences	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Agriculture, Military Science, Area/Ethnic Studies, Biological Sciences, Business, Computer Science, Communication, Education, Engineering/Technologies, English, Foreign Languages, Health Fields, Home Economics, Humanities, International Studies, Library Science, Mathematics, Physical Sciences, Premedicine, Social Sciences, Architecture	
-                  Creative Arts/PerformanceAward Areas	Applied Art and Design, Art/Fine Arts, Journalism/Publications, Music, Theater/Drama	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Applied Art and Design, Art/Fine Arts, Theater/Drama, Music, Journalism/Publications	
-                  Special Achievements/ActivitiesAward Areas	Community Service, Leadership, Rodeo	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Community Service, Rodeo, Leadership	
-                  Special CharacteristicsAward Areas	Adult Students, Children and Siblings of Alumni, Ethnic Background, First-Generation College Students, International Students, Local/State Students, Members of Minorities, Out-of-State Students	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Adult Students, Children and Siblings of Alumni, Ethnic Background, Out-of-State Students, International Students, Local/State Students, Members of Minorities, First-Generation College Students	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	Not reported	
+	TUITION AND EXPENSES
+		         Cost of Attendance	In-state: $20,002  Out-of-state: $32,888	
+		         Tuition and Fees	In-state: $7,731Out-of-state: $20,617	
+		         Room and Board	$8,798	
+		         Books and Supplies	$1,043	
+		         Other Expenses	$2,430	
+		         Payment Plans	Installment plan, deferred payment, external finance company	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	financialaid@iastate.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline March 1	
+	            Award Notification	On a rolling basis beginning April 1	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 001869	Free	
+	PROFILE OF 
+              2012-13
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	4,516 (84.4%) of freshmen	
+		        Found to Have Financial Need	2,987 (66.1%) of applicants	
+		        Received Financial Aid	2,957 (99.0%) of applicants with financial need	
+		        Need Fully Met	1,050 (35.5%) of aid recipients	
+		        Average Percent of Need Met	83%	
+		        Average Award	$11,945	
+		        Need-Based Gift	Received by 2,939 (99.4%) of aid recipients, average amount $7,692	
+		        Need-Based Self-Help	Received by 2,072 (70.1%) of aid recipients, average amount $3,509	
+		        Merit-Based Gift	Received by 1,434 (48.5%) of aid recipients	
+		        Merit-Based Gift	1,743 (32.6%) of freshmen had no financial need and received merit aid, average amount $3,049	
+	          All Undergraduates
+	            Financial Aid Applicants	18,523 (77.1%) of undergraduates	
+	            Found to Have Financial Need	13,140 (54.7%) of applicants	
+	            Received Financial Aid	12,958 (98.6%) of applicants with financial need	
+	            Need Fully Met	4,544 (35.1%) of aid recipients	
+	            Average Percent of Need Met	81%	
+	            Average Award	$11,841	
+	            Need-Based Gift	Received by 12,853 (99.2%) of aid recipients, average amount $6,607	
+	            Need-Based Self-Help	Received by 10,155 (78.4%) of aid recipients, average amount $4,566	
+	            Merit-Based Gift	Received by 6,075 (46.9%) of aid recipients	
+	            Merit-Based Gift	7,100 (29.5%) of undergraduates had no financial need and received merit aid, average amount $2,712	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	62%	
+                  Average Indebtedness of2013 Graduates	 $29,898	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	Not reported	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans	College/university loans, Private loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships	
+                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, Minority scholarships, State scholarships, ROTC scholarships, Alumni affiliation scholarships, Leadership scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Agriculture, Architecture, Area/Ethnic Studies, Biological Sciences, Business, Communication, Computer Science, Education, Engineering/Technologies, English, Foreign Languages, Health Fields, Home Economics, Humanities, International Studies, Library Science, Mathematics, Military Science, Physical Sciences, Premedicine, Social Sciences	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Agriculture, Military Science, Area/Ethnic Studies, Biological Sciences, Business, Computer Science, Communication, Education, Engineering/Technologies, English, Foreign Languages, Health Fields, Home Economics, Humanities, International Studies, Library Science, Mathematics, Physical Sciences, Premedicine, Social Sciences, Architecture	
+                  Creative Arts/PerformanceAward Areas	Applied Art and Design, Art/Fine Arts, Journalism/Publications, Music, Theater/Drama	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Applied Art and Design, Art/Fine Arts, Theater/Drama, Music, Journalism/Publications	
+                  Special Achievements/ActivitiesAward Areas	Community Service, Leadership, Rodeo	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Community Service, Rodeo, Leadership	
+                  Special CharacteristicsAward Areas	Adult Students, Children and Siblings of Alumni, Ethnic Background, First-Generation College Students, International Students, Local/State Students, Members of Minorities, Out-of-State Students	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Adult Students, Children and Siblings of Alumni, Ethnic Background, Out-of-State Students, International Students, Local/State Students, Members of Minorities, First-Generation College Students	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	Not reported	

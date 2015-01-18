@@ -2,141 +2,141 @@
   					Save
 			        Grace Bible College
 				        Grand Rapids, MI
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Minimally Difficult: Most freshmen were not in the top 50% of their high school class and scored somewhat below 1010 on the SAT I or below 19 on the ACT; up to 95% of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is not required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English		4	
-           Mathematics		3	
-           Science		3	
-           Foreign Language		1	
-           Social Studies		3	
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT			
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT	Required	Not reported	
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: No policy as of now ACT: No policy as of now 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	1011 Aldon Street SWPO Box 910	
-               City, State, Zip	Grand Rapids,MI49509-0910	
-               Phone	(616) 538-2330	
-               Fax	(616) 538-0599	
-               E-mail	gbc@gbcol.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	July 15	
-               Application Fee	No fee required	
-               Application Fee Waiver	Not reported	
-               Regular Admission Notification	August 1	
-               Accept Offer of Admission	By May 1 or within 4 weeks if notified after May 1 	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement		
-               Letters ofRecommendation	2 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record		X			
-               Academic GPA		X			
-               Standardized Tests	X				
-               Class Rank			X		
-               Recommendations	X				
-               Essay				X	
-               Interview				X	
-               Level of Applicant's Interest			X		
-               Extracurricular Activities				X	
-               Volunteer Work				X	
-               ParticularTalent/Ability				X	
-               Character/Personal Qualities			X		
-               First Generation to Attend College				X	
-               State Residency				X	
-               Geographic Residence				X	
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment		X			
-               Ethnicity				X	
-               Work Experience				X	
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	34% of    158 applicants were admitted	
-                Women	30% of     83 applicants were admitted	
-                Men	37% of     75 applicants were admitted	
-               Students Enrolled	Not reported	
-                Women	Not reported	
-                Men	Not reported	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.03	
-               3.75 and Above	21%	
-               3.50 - 3.74	12%	
-               3.25 - 3.49	13%	
-               3.00 - 3.24	8%	
-               2.50 - 2.99	17%	
-               2.00 - 2.49	25%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	471 average 390-580 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	14%	
-               Score of 500 - 600	14%	
-               Score of 400 - 500	43%	
-               Score of 300 - 400	29%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	503 average 440-600 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	29%	
-               Score of 500 - 600	29%	
-               Score of 400 - 500	29%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	13%	
-               SAT Writing	461 average 420-590 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	14%	
-               Score of 500 - 600	29%	
-               Score of 400 - 500	43%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	14%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	19 average 15-23 range of middle 50%	
-               Score of 30 - 36	2%	
-               Score of 24 - 29	15%	
-               Score of 18 - 23	44%	
-               Score of 12 - 17	39%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 17%Top quarter: 27%Top half: 47%Bottom half: 53%	
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Minimally Difficult: Most freshmen were not in the top 50% of their high school class and scored somewhat below 1010 on the SAT I or below 19 on the ACT; up to 95% of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is not required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English		4	
+           Mathematics		3	
+           Science		3	
+           Foreign Language		1	
+           Social Studies		3	
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT			
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT	Required	Not reported	
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: No policy as of now ACT: No policy as of now 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	1011 Aldon Street SWPO Box 910	
+               City, State, Zip	Grand Rapids,MI49509-0910	
+               Phone	(616) 538-2330	
+               Fax	(616) 538-0599	
+               E-mail	gbc@gbcol.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	July 15	
+               Application Fee	No fee required	
+               Application Fee Waiver	Not reported	
+               Regular Admission Notification	August 1	
+               Accept Offer of Admission	By May 1 or within 4 weeks if notified after May 1 	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement		
+               Letters ofRecommendation	2 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record		X			
+               Academic GPA		X			
+               Standardized Tests	X				
+               Class Rank			X		
+               Recommendations	X				
+               Essay				X	
+               Interview				X	
+               Level of Applicant's Interest			X		
+               Extracurricular Activities				X	
+               Volunteer Work				X	
+               ParticularTalent/Ability				X	
+               Character/Personal Qualities			X		
+               First Generation to Attend College				X	
+               State Residency				X	
+               Geographic Residence				X	
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment		X			
+               Ethnicity				X	
+               Work Experience				X	
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	34% of    158 applicants were admitted	
+                Women	30% of     83 applicants were admitted	
+                Men	37% of     75 applicants were admitted	
+               Students Enrolled	Not reported	
+                Women	Not reported	
+                Men	Not reported	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.03	
+               3.75 and Above	21%	
+               3.50 - 3.74	12%	
+               3.25 - 3.49	13%	
+               3.00 - 3.24	8%	
+               2.50 - 2.99	17%	
+               2.00 - 2.49	25%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	471 average 390-580 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	14%	
+               Score of 500 - 600	14%	
+               Score of 400 - 500	43%	
+               Score of 300 - 400	29%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	503 average 440-600 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	29%	
+               Score of 500 - 600	29%	
+               Score of 400 - 500	29%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	13%	
+               SAT Writing	461 average 420-590 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	14%	
+               Score of 500 - 600	29%	
+               Score of 400 - 500	43%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	14%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	19 average 15-23 range of middle 50%	
+               Score of 30 - 36	2%	
+               Score of 24 - 29	15%	
+               Score of 18 - 23	44%	
+               Score of 12 - 17	39%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 17%Top quarter: 27%Top half: 47%Bottom half: 53%	
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -150,77 +150,77 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$27,287	
-		         Tuition and Fees	$16,950	
-		         Room and Board	$7,300	
-		         Books and Supplies	$600	
-		         Other Expenses	$2,437	
-		         Payment Plans	Credit card, installment plan	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	kpostma@gbcol.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline March 1	
-	            Award Notification	On a rolling basis beginning May 15	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 002265	Free	
-	PROFILE OF 
-              2011-12
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	90 (96.8%) of freshmen	
-		        Found to Have Financial Need	85 (94.4%) of applicants	
-		        Received Financial Aid	85 (100.0%) of applicants with financial need	
-		        Need Fully Met	4 (4.7%) of aid recipients	
-		        Average Percent of Need Met	60%	
-		        Average Award	$9,849	
-		        Need-Based Gift	Received by 81 (95.3%) of aid recipients, average amount $4,438	
-		        Need-Based Self-Help	Received by 76 (89.4%) of aid recipients, average amount $3,081	
-		        Merit-Based Gift	Received by 62 (72.9%) of aid recipients	
-		        Merit-Based Gift	7 (7.5%) of freshmen had no financial need and received merit aid, average amount $4,636	
-	          All Undergraduates
-	            Financial Aid Applicants	321 (95.0%) of undergraduates	
-	            Found to Have Financial Need	300 (88.8%) of applicants	
-	            Received Financial Aid	300 (100.0%) of applicants with financial need	
-	            Need Fully Met	18 (6.0%) of aid recipients	
-	            Average Percent of Need Met	63%	
-	            Average Award	$9,582	
-	            Need-Based Gift	Received by 274 (91.3%) of aid recipients, average amount $4,217	
-	            Need-Based Self-Help	Received by 264 (88.0%) of aid recipients, average amount $3,641	
-	            Merit-Based Gift	Received by 187 (62.3%) of aid recipients	
-	            Merit-Based Gift	19 (5.6%) of undergraduates had no financial need and received merit aid, average amount $3,718	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	59%	
-                  Average Indebtedness of2013 Graduates	 $21,527	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	12.0%	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans	
-                  State Loans		
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Religious affiliation scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	182	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Music	
-                  Number of Awards	24	
-                  Top Areas (By MoneyAwarded)	Music	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	Children of Faculty/Staff, Relatives of Clergy	
-                  Number of Awards	127	
-                  Top Areas (By MoneyAwarded)	Relatives of Clergy, Children of Faculty/Staff	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$323	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$27,287	
+		         Tuition and Fees	$16,950	
+		         Room and Board	$7,300	
+		         Books and Supplies	$600	
+		         Other Expenses	$2,437	
+		         Payment Plans	Credit card, installment plan	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	kpostma@gbcol.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline March 1	
+	            Award Notification	On a rolling basis beginning May 15	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 002265	Free	
+	PROFILE OF 
+              2011-12
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	90 (96.8%) of freshmen	
+		        Found to Have Financial Need	85 (94.4%) of applicants	
+		        Received Financial Aid	85 (100.0%) of applicants with financial need	
+		        Need Fully Met	4 (4.7%) of aid recipients	
+		        Average Percent of Need Met	60%	
+		        Average Award	$9,849	
+		        Need-Based Gift	Received by 81 (95.3%) of aid recipients, average amount $4,438	
+		        Need-Based Self-Help	Received by 76 (89.4%) of aid recipients, average amount $3,081	
+		        Merit-Based Gift	Received by 62 (72.9%) of aid recipients	
+		        Merit-Based Gift	7 (7.5%) of freshmen had no financial need and received merit aid, average amount $4,636	
+	          All Undergraduates
+	            Financial Aid Applicants	321 (95.0%) of undergraduates	
+	            Found to Have Financial Need	300 (88.8%) of applicants	
+	            Received Financial Aid	300 (100.0%) of applicants with financial need	
+	            Need Fully Met	18 (6.0%) of aid recipients	
+	            Average Percent of Need Met	63%	
+	            Average Award	$9,582	
+	            Need-Based Gift	Received by 274 (91.3%) of aid recipients, average amount $4,217	
+	            Need-Based Self-Help	Received by 264 (88.0%) of aid recipients, average amount $3,641	
+	            Merit-Based Gift	Received by 187 (62.3%) of aid recipients	
+	            Merit-Based Gift	19 (5.6%) of undergraduates had no financial need and received merit aid, average amount $3,718	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	59%	
+                  Average Indebtedness of2013 Graduates	 $21,527	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	12.0%	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans	
+                  State Loans		
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Religious affiliation scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	182	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Music	
+                  Number of Awards	24	
+                  Top Areas (By MoneyAwarded)	Music	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	Children of Faculty/Staff, Relatives of Clergy	
+                  Number of Awards	127	
+                  Top Areas (By MoneyAwarded)	Relatives of Clergy, Children of Faculty/Staff	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$323	

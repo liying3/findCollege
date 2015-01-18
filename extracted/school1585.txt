@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Georgia Southern University, Georgia State University, Kennesaw State University, Valdosta State University, University of Georgia, Georgia College and State University
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Minimally Difficult: Most freshmen were not in the top 50% of their high school class and scored somewhat below 1010 on the SAT I or below 19 on the ACT; up to 95% of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is not accepted	
-	    High School Program	College preparatory program is required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	4		
-           Science	4		
-           Foreign Language	2		
-           Social Studies	1		
-           History	2		
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	June  1	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	1601 Maple Street	
-               City, State, Zip	Carrollton,GA30118	
-               Phone	(678) 839-5600	
-               Fax		
-               E-mail	admiss@westga.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	Rolling	
-               Application Fee	$40	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling	
-               Accept Offer of Admission	No set date	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Not accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement		
-               Letters ofRecommendation		
-               Other	Proof of immunization required for freshmen	
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank				X	
-               Recommendations				X	
-               Essay				X	
-               Interview				X	
-               Level of Applicant's Interest				X	
-               Extracurricular Activities				X	
-               Volunteer Work				X	
-               ParticularTalent/Ability				X	
-               Character/Personal Qualities				X	
-               First Generation to Attend College				X	
-               State Residency				X	
-               Geographic Residence				X	
-               Relation with Alumnus				X	
-               Religious Affiliation/ Commitment				X	
-               Ethnicity				X	
-               Work Experience				X	
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	54% of  7,266 applicants were admitted	
-                Women	56% of  4,568 applicants were admitted	
-                Men	50% of  2,698 applicants were admitted	
-               Students Enrolled	3,624 (93%) of 3,913 admitted students enrolled	
-                Women	2,258 (88%) of 2,556 admitted students enrolled	
-                Men	Not reported	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.11	
-               3.75 and Above	11%	
-               3.50 - 3.74	13%	
-               3.25 - 3.49	17%	
-               3.00 - 3.24	18%	
-               2.50 - 2.99	32%	
-               2.00 - 2.49	9%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	476 average 430-510 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	5%	
-               Score of 500 - 600	28%	
-               Score of 400 - 500	61%	
-               Score of 300 - 400	6%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	485 average 440-520 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	5%	
-               Score of 500 - 600	33%	
-               Score of 400 - 500	57%	
-               Score of 300 - 400	5%	
-               Score of 200 - 300	0%	
-               SAT Writing	470 average 420-510 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	4%	
-               Score of 500 - 600	29%	
-               Score of 400 - 500	55%	
-               Score of 300 - 400	12%	
-               Score of 200 - 300	0%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	20 average 18-22 range of middle 50%	
-               Score of 30 - 36	0%	
-               Score of 24 - 29	13%	
-               Score of 18 - 23	71%	
-               Score of 12 - 17	16%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank		
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Minimally Difficult: Most freshmen were not in the top 50% of their high school class and scored somewhat below 1010 on the SAT I or below 19 on the ACT; up to 95% of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is not accepted	
+	    High School Program	College preparatory program is required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	4		
+           Science	4		
+           Foreign Language	2		
+           Social Studies	1		
+           History	2		
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	June  1	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	1601 Maple Street	
+               City, State, Zip	Carrollton,GA30118	
+               Phone	(678) 839-5600	
+               Fax		
+               E-mail	admiss@westga.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	Rolling	
+               Application Fee	$40	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling	
+               Accept Offer of Admission	No set date	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Not accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement		
+               Letters ofRecommendation		
+               Other	Proof of immunization required for freshmen	
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank				X	
+               Recommendations				X	
+               Essay				X	
+               Interview				X	
+               Level of Applicant's Interest				X	
+               Extracurricular Activities				X	
+               Volunteer Work				X	
+               ParticularTalent/Ability				X	
+               Character/Personal Qualities				X	
+               First Generation to Attend College				X	
+               State Residency				X	
+               Geographic Residence				X	
+               Relation with Alumnus				X	
+               Religious Affiliation/ Commitment				X	
+               Ethnicity				X	
+               Work Experience				X	
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	54% of  7,266 applicants were admitted	
+                Women	56% of  4,568 applicants were admitted	
+                Men	50% of  2,698 applicants were admitted	
+               Students Enrolled	3,624 (93%) of 3,913 admitted students enrolled	
+                Women	2,258 (88%) of 2,556 admitted students enrolled	
+                Men	Not reported	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.11	
+               3.75 and Above	11%	
+               3.50 - 3.74	13%	
+               3.25 - 3.49	17%	
+               3.00 - 3.24	18%	
+               2.50 - 2.99	32%	
+               2.00 - 2.49	9%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	476 average 430-510 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	5%	
+               Score of 500 - 600	28%	
+               Score of 400 - 500	61%	
+               Score of 300 - 400	6%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	485 average 440-520 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	5%	
+               Score of 500 - 600	33%	
+               Score of 400 - 500	57%	
+               Score of 300 - 400	5%	
+               Score of 200 - 300	0%	
+               SAT Writing	470 average 420-510 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	4%	
+               Score of 500 - 600	29%	
+               Score of 400 - 500	55%	
+               Score of 300 - 400	12%	
+               Score of 200 - 300	0%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	20 average 18-22 range of middle 50%	
+               Score of 30 - 36	0%	
+               Score of 24 - 29	13%	
+               Score of 18 - 23	71%	
+               Score of 12 - 17	16%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank		
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -193,77 +193,77 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	In-state: $23,426  Out-of-state: $36,322	
-		         Tuition and Fees	In-state: $6,956Out-of-state: $19,852	
-		         Room and Board	$9,028	
-		         Books and Supplies	$1,500	
-		         Other Expenses	$5,942	
-		         Payment Plans	Credit card	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	finaid@westga.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline April 1 Final deadline July 1	
-	            Award Notification	On a rolling basis beginning May 1	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 001601	Free	
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	2,071 (95.5%) of freshmen	
-		        Found to Have Financial Need	1,745 (84.3%) of applicants	
-		        Received Financial Aid	1,735 (99.4%) of applicants with financial need	
-		        Need Fully Met	352 (20.3%) of aid recipients	
-		        Average Percent of Need Met	37%	
-		        Average Award	$6,450	
-		        Need-Based Gift	Received by 1,186 (68.4%) of aid recipients, average amount $4,685	
-		        Need-Based Self-Help	Received by 1,593 (91.8%) of aid recipients, average amount $3,536	
-		        Merit-Based Gift	Received by 257 (14.8%) of aid recipients	
-		        Merit-Based Gift	86 (4.0%) of freshmen had no financial need and received merit aid, average amount $2,188	
-	          All Undergraduates
-	            Financial Aid Applicants	7,560 (90.3%) of undergraduates	
-	            Found to Have Financial Need	6,470 (77.3%) of applicants	
-	            Received Financial Aid	6,400 (98.9%) of applicants with financial need	
-	            Need Fully Met	1,603 (25.0%) of aid recipients	
-	            Average Percent of Need Met	40%	
-	            Average Award	$7,209	
-	            Need-Based Gift	Received by 4,459 (69.7%) of aid recipients, average amount $4,703	
-	            Need-Based Self-Help	Received by 5,831 (91.1%) of aid recipients, average amount $4,316	
-	            Merit-Based Gift	Received by 689 (10.8%) of aid recipients	
-	            Merit-Based Gift	273 (3.3%) of undergraduates had no financial need and received merit aid, average amount $1,959	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	73%	
-                  Average Indebtedness of2013 Graduates	 $21,328	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	8.0%	
-                  Parents of Students NotReceiving Aid	1.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans, Federal Nursing loans	
-                  State Loans	Available	
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, Minority scholarships, State scholarships, Alumni affiliation scholarships, Job skill scholarships, Leadership scholarships, Religious affiliation scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Biological Sciences, Business, Communication, Computer Science, Education, English, Foreign Languages, Health Fields, Humanities, Mathematics, Physical Sciences, Premedicine, Social Sciences	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Biological Sciences, Business, Computer Science, Communication, Education, English, Social Sciences, Health Fields, Humanities, Mathematics, Physical Sciences, Premedicine, Foreign Languages	
-                  Creative Arts/PerformanceAward Areas	Applied Art and Design, Art/Fine Arts, Debating, Journalism/Publications, Music, Performing Arts, Theater/Drama	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Applied Art and Design, Art/Fine Arts, Debating, Theater/Drama, Music, Performing Arts, Journalism/Publications	
-                  Special Achievements/ActivitiesAward Areas	Community Service, Leadership, Memberships, Religious Involvement	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Religious Involvement, Memberships, Leadership, Community Service	
-                  Special CharacteristicsAward Areas	Adult Students, Children and Siblings of Alumni, Handicapped Students, International Students, Local/State Students, Members of Minorities	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Adult Students, Children and Siblings of Alumni, Members of Minorities, International Students, Local/State Students, Handicapped Students	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$1,178	
+	TUITION AND EXPENSES
+		         Cost of Attendance	In-state: $23,426  Out-of-state: $36,322	
+		         Tuition and Fees	In-state: $6,956Out-of-state: $19,852	
+		         Room and Board	$9,028	
+		         Books and Supplies	$1,500	
+		         Other Expenses	$5,942	
+		         Payment Plans	Credit card	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	finaid@westga.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline April 1 Final deadline July 1	
+	            Award Notification	On a rolling basis beginning May 1	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 001601	Free	
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	2,071 (95.5%) of freshmen	
+		        Found to Have Financial Need	1,745 (84.3%) of applicants	
+		        Received Financial Aid	1,735 (99.4%) of applicants with financial need	
+		        Need Fully Met	352 (20.3%) of aid recipients	
+		        Average Percent of Need Met	37%	
+		        Average Award	$6,450	
+		        Need-Based Gift	Received by 1,186 (68.4%) of aid recipients, average amount $4,685	
+		        Need-Based Self-Help	Received by 1,593 (91.8%) of aid recipients, average amount $3,536	
+		        Merit-Based Gift	Received by 257 (14.8%) of aid recipients	
+		        Merit-Based Gift	86 (4.0%) of freshmen had no financial need and received merit aid, average amount $2,188	
+	          All Undergraduates
+	            Financial Aid Applicants	7,560 (90.3%) of undergraduates	
+	            Found to Have Financial Need	6,470 (77.3%) of applicants	
+	            Received Financial Aid	6,400 (98.9%) of applicants with financial need	
+	            Need Fully Met	1,603 (25.0%) of aid recipients	
+	            Average Percent of Need Met	40%	
+	            Average Award	$7,209	
+	            Need-Based Gift	Received by 4,459 (69.7%) of aid recipients, average amount $4,703	
+	            Need-Based Self-Help	Received by 5,831 (91.1%) of aid recipients, average amount $4,316	
+	            Merit-Based Gift	Received by 689 (10.8%) of aid recipients	
+	            Merit-Based Gift	273 (3.3%) of undergraduates had no financial need and received merit aid, average amount $1,959	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	73%	
+                  Average Indebtedness of2013 Graduates	 $21,328	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	8.0%	
+                  Parents of Students NotReceiving Aid	1.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans, Federal Nursing loans	
+                  State Loans	Available	
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, Minority scholarships, State scholarships, Alumni affiliation scholarships, Job skill scholarships, Leadership scholarships, Religious affiliation scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Biological Sciences, Business, Communication, Computer Science, Education, English, Foreign Languages, Health Fields, Humanities, Mathematics, Physical Sciences, Premedicine, Social Sciences	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Biological Sciences, Business, Computer Science, Communication, Education, English, Social Sciences, Health Fields, Humanities, Mathematics, Physical Sciences, Premedicine, Foreign Languages	
+                  Creative Arts/PerformanceAward Areas	Applied Art and Design, Art/Fine Arts, Debating, Journalism/Publications, Music, Performing Arts, Theater/Drama	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Applied Art and Design, Art/Fine Arts, Debating, Theater/Drama, Music, Performing Arts, Journalism/Publications	
+                  Special Achievements/ActivitiesAward Areas	Community Service, Leadership, Memberships, Religious Involvement	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Religious Involvement, Memberships, Leadership, Community Service	
+                  Special CharacteristicsAward Areas	Adult Students, Children and Siblings of Alumni, Handicapped Students, International Students, Local/State Students, Members of Minorities	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Adult Students, Children and Siblings of Alumni, Members of Minorities, International Students, Local/State Students, Handicapped Students	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$1,178	

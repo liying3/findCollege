@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Stanford University, University of California, Berkeley, University of California, Los Angeles, Massachusetts Institute of Technology, California Institute of Technology, University of California, San Diego
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Most Difficult: More than 75% of  freshmen were in the top 10% of their high school class and scored over 1310 on the SAT I or over 29 on the ACT; about 30% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma or equivalent is not required	
-	    High School Program		
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	4		
-           Science	3	4	
-           Foreign Language		2	
-           Social Studies		2	
-           History	1	2	
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	February  1	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only	Required		
-           ACT Writing Test Policy	Writing component required	
-           Use of SAT/ACT Essay	SAT: Used for admission ACT: Used for admission 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	301 Platt Boulevard	
-               City, State, Zip	Claremont,CA91711-5994	
-               Phone	(909) 621-8011	
-               Fax	(909) 621-8360	
-               E-mail	admission@hmc.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	January 1	
-               Application Fee	$70	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	April 1	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	Yes	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	Yes	
-               Early Decision Deadline	November 15, January 1	
-               Early Decision Notification	December 15, February 15	
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	3 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests		X			
-               Class Rank		X			
-               Recommendations	X				
-               Essay	X				
-               Interview			X		
-               Level of Applicant's Interest		X			
-               Extracurricular Activities		X			
-               Volunteer Work			X		
-               ParticularTalent/Ability	X				
-               Character/Personal Qualities	X				
-               First Generation to Attend College		X			
-               State Residency			X		
-               Geographic Residence			X		
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity			X		
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	19% of  3,375 applicants were admitted	
-                Women	33% of    994 applicants were admitted	
-                Men	13% of  2,381 applicants were admitted	
-               Students Enrolled	217 (34%) of 643 admitted students enrolled	
-                Women	103 (31%) of 330 admitted students enrolled	
-                Men	114 (36%) of 313 admitted students enrolled	
-               Early Decision Admission Rate	22% of 301 applicants were admitted	
-               Early Action Admission Rate		
-               Students Offered Wait List	     563	
-               Students Accepting Wait List Position	     264	
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	Not reported	
-               3.75 and Above	Not reported	
-               3.50 - 3.74	Not reported	
-               3.25 - 3.49	Not reported	
-               3.00 - 3.24	Not reported	
-               2.50 - 2.99	Not reported	
-               2.00 - 2.49	Not reported	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	720-800 range of middle 50%	
-               Score of 700 - 800	91%	
-               Score of 600 - 700	9%	
-               Score of 500 - 600	0%	
-               Score of 400 - 500	0%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	680-760 range of middle 50%	
-               Score of 700 - 800	65%	
-               Score of 600 - 700	32%	
-               Score of 500 - 600	3%	
-               Score of 400 - 500	0%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Writing	670-760 range of middle 50%	
-               Score of 700 - 800	64%	
-               Score of 600 - 700	31%	
-               Score of 500 - 600	5%	
-               Score of 400 - 500	0%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	32-35 range of middle 50%	
-               Score of 30 - 36	96%	
-               Score of 24 - 29	4%	
-               Score of 18 - 23	0%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 97%Top quarter: 100%Top half: 100%	
-               National Merit Scholar	Not reported	
-               Valedictorian	8%	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Most Difficult: More than 75% of  freshmen were in the top 10% of their high school class and scored over 1310 on the SAT I or over 29 on the ACT; about 30% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma or equivalent is not required	
+	    High School Program		
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	4		
+           Science	3	4	
+           Foreign Language		2	
+           Social Studies		2	
+           History	1	2	
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	February  1	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only	Required		
+           ACT Writing Test Policy	Writing component required	
+           Use of SAT/ACT Essay	SAT: Used for admission ACT: Used for admission 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	301 Platt Boulevard	
+               City, State, Zip	Claremont,CA91711-5994	
+               Phone	(909) 621-8011	
+               Fax	(909) 621-8360	
+               E-mail	admission@hmc.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	January 1	
+               Application Fee	$70	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	April 1	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	Yes	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	Yes	
+               Early Decision Deadline	November 15, January 1	
+               Early Decision Notification	December 15, February 15	
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	3 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests		X			
+               Class Rank		X			
+               Recommendations	X				
+               Essay	X				
+               Interview			X		
+               Level of Applicant's Interest		X			
+               Extracurricular Activities		X			
+               Volunteer Work			X		
+               ParticularTalent/Ability	X				
+               Character/Personal Qualities	X				
+               First Generation to Attend College		X			
+               State Residency			X		
+               Geographic Residence			X		
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity			X		
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	19% of  3,375 applicants were admitted	
+                Women	33% of    994 applicants were admitted	
+                Men	13% of  2,381 applicants were admitted	
+               Students Enrolled	217 (34%) of 643 admitted students enrolled	
+                Women	103 (31%) of 330 admitted students enrolled	
+                Men	114 (36%) of 313 admitted students enrolled	
+               Early Decision Admission Rate	22% of 301 applicants were admitted	
+               Early Action Admission Rate		
+               Students Offered Wait List	     563	
+               Students Accepting Wait List Position	     264	
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	Not reported	
+               3.75 and Above	Not reported	
+               3.50 - 3.74	Not reported	
+               3.25 - 3.49	Not reported	
+               3.00 - 3.24	Not reported	
+               2.50 - 2.99	Not reported	
+               2.00 - 2.49	Not reported	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	720-800 range of middle 50%	
+               Score of 700 - 800	91%	
+               Score of 600 - 700	9%	
+               Score of 500 - 600	0%	
+               Score of 400 - 500	0%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	680-760 range of middle 50%	
+               Score of 700 - 800	65%	
+               Score of 600 - 700	32%	
+               Score of 500 - 600	3%	
+               Score of 400 - 500	0%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Writing	670-760 range of middle 50%	
+               Score of 700 - 800	64%	
+               Score of 600 - 700	31%	
+               Score of 500 - 600	5%	
+               Score of 400 - 500	0%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	32-35 range of middle 50%	
+               Score of 30 - 36	96%	
+               Score of 24 - 29	4%	
+               Score of 18 - 23	0%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 97%Top quarter: 100%Top half: 100%	
+               National Merit Scholar	Not reported	
+               Valedictorian	8%	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -194,80 +194,80 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$66,627	
-		         Tuition and Fees	$48,594	
-		         Room and Board	$15,833	
-		         Books and Supplies	$800	
-		         Other Expenses	$1,400	
-		         Payment Plans	Installment plan	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	financial_aid@hmc.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	February 1	
-	            Award Notification	On or about April 1	
-	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 001171	Free	
-                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
-                    State Aid Form		
-                    Business/Farm Supplement		
-	PROFILE OF 
-              2012-13
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	134 (67.7%) of freshmen	
-		        Found to Have Financial Need	106 (79.1%) of applicants	
-		        Received Financial Aid	106 (100.0%) of applicants with financial need	
-		        Need Fully Met	106 (100.0%) of aid recipients	
-		        Average Percent of Need Met	100%	
-		        Average Award	$41,914	
-		        Need-Based Gift	Received by 102 (96.2%) of aid recipients, average amount $39,641	
-		        Need-Based Self-Help	Received by 65 (61.3%) of aid recipients, average amount $3,567	
-		        Merit-Based Gift	Received by 42 (39.6%) of aid recipients	
-		        Merit-Based Gift	35 (17.7%) of freshmen had no financial need and received merit aid, average amount $8,275	
-	          All Undergraduates
-	            Financial Aid Applicants	473 (60.1%) of undergraduates	
-	            Found to Have Financial Need	407 (51.7%) of applicants	
-	            Received Financial Aid	407 (100.0%) of applicants with financial need	
-	            Need Fully Met	407 (100.0%) of aid recipients	
-	            Average Percent of Need Met	100%	
-	            Average Award	$36,556	
-	            Need-Based Gift	Received by 394 (96.8%) of aid recipients, average amount $32,990	
-	            Need-Based Self-Help	Received by 303 (74.4%) of aid recipients, average amount $4,849	
-	            Merit-Based Gift	Received by 179 (44.0%) of aid recipients	
-	            Merit-Based Gift	160 (20.3%) of undergraduates had no financial need and received merit aid, average amount $9,743	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	58%	
-                  Average Indebtedness of2013 Graduates	 $28,255	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	7.0%	
-                  Parents of Students NotReceiving Aid	2.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans	College/university loans, Alternative loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	322	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	International Students	
-                  Number of Awards	2	
-                  Top Areas (By MoneyAwarded)	International Students	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$622	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$66,627	
+		         Tuition and Fees	$48,594	
+		         Room and Board	$15,833	
+		         Books and Supplies	$800	
+		         Other Expenses	$1,400	
+		         Payment Plans	Installment plan	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	financial_aid@hmc.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	February 1	
+	            Award Notification	On or about April 1	
+	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 001171	Free	
+                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
+                    State Aid Form		
+                    Business/Farm Supplement		
+	PROFILE OF 
+              2012-13
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	134 (67.7%) of freshmen	
+		        Found to Have Financial Need	106 (79.1%) of applicants	
+		        Received Financial Aid	106 (100.0%) of applicants with financial need	
+		        Need Fully Met	106 (100.0%) of aid recipients	
+		        Average Percent of Need Met	100%	
+		        Average Award	$41,914	
+		        Need-Based Gift	Received by 102 (96.2%) of aid recipients, average amount $39,641	
+		        Need-Based Self-Help	Received by 65 (61.3%) of aid recipients, average amount $3,567	
+		        Merit-Based Gift	Received by 42 (39.6%) of aid recipients	
+		        Merit-Based Gift	35 (17.7%) of freshmen had no financial need and received merit aid, average amount $8,275	
+	          All Undergraduates
+	            Financial Aid Applicants	473 (60.1%) of undergraduates	
+	            Found to Have Financial Need	407 (51.7%) of applicants	
+	            Received Financial Aid	407 (100.0%) of applicants with financial need	
+	            Need Fully Met	407 (100.0%) of aid recipients	
+	            Average Percent of Need Met	100%	
+	            Average Award	$36,556	
+	            Need-Based Gift	Received by 394 (96.8%) of aid recipients, average amount $32,990	
+	            Need-Based Self-Help	Received by 303 (74.4%) of aid recipients, average amount $4,849	
+	            Merit-Based Gift	Received by 179 (44.0%) of aid recipients	
+	            Merit-Based Gift	160 (20.3%) of undergraduates had no financial need and received merit aid, average amount $9,743	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	58%	
+                  Average Indebtedness of2013 Graduates	 $28,255	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	7.0%	
+                  Parents of Students NotReceiving Aid	2.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans	College/university loans, Alternative loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	322	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	International Students	
+                  Number of Awards	2	
+                  Top Areas (By MoneyAwarded)	International Students	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$622	

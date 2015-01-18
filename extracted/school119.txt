@@ -5,153 +5,153 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	New York University, Columbia University, Brown University, Boston University, Cornell University, Wellesley College
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Most Difficult: More than 75% of  freshmen were in the top 10% of their high school class and scored over 1310 on the SAT I or over 29 on the ACT; about 30% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is recommended	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English		4	
-           Mathematics		3	
-           Science		3	
-           Foreign Language		3	
-           Social Studies			
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT			
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Writing component required	
-           Use of SAT/ACT Essay	SAT: Used for admission ACT: Used for admission 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	3009 Broadway	
-               City, State, Zip	New York,NY10027-6598	
-               Phone	(212) 854-2014	
-               Fax	(212) 854-6220	
-               E-mail	admissions@barnard.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	January 1	
-               Application Fee	$65	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	April 1	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	Yes	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	Yes	
-               Early Decision Deadline	November 1	
-               Early Decision Notification	December 15	
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Accepted, supplemental forms required	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Not available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	3 required for all freshmen	
-               Other	Common Application with Barnard supplement required for freshmen	
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests		X			
-               Class Rank		X			
-               Recommendations	X				
-               Essay	X				
-               Interview			X		
-               Level of Applicant's Interest			X		
-               Extracurricular Activities	X				
-               Volunteer Work		X			
-               ParticularTalent/Ability		X			
-               Character/Personal Qualities	X				
-               First Generation to Attend College			X		
-               State Residency				X	
-               Geographic Residence			X		
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity			X		
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	21% of  5,606 applicants were admitted	
-                Women	21% of  5,606 applicants were admitted	
-                Men	Not reported	
-               Students Enrolled	580 (50%) of 1,151 admitted students enrolled	
-                Women	580 (50%) of 1,151 admitted students enrolled	
-                Men	Not reported	
-               Early Decision Admission Rate	43% of 599 applicants were admitted	
-               Early Action Admission Rate		
-               Students Offered Wait List	   1,207	
-               Students Accepting Wait List Position	     635	
-               Students Admitted From Wait List	      41	
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.86	
-               3.75 and Above	70%	
-               3.50 - 3.74	25%	
-               3.25 - 3.49	3%	
-               3.00 - 3.24	1%	
-               2.50 - 2.99	1%	
-               2.00 - 2.49		
-             SAT Scores of Enrolled Freshmen
-               SAT Math	660 average 620-710 range of middle 50%	
-               Score of 700 - 800	33%	
-               Score of 600 - 700	49%	
-               Score of 500 - 600	17%	
-               Score of 400 - 500	1%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	671 average 620-730 range of middle 50%	
-               Score of 700 - 800	39%	
-               Score of 600 - 700	43%	
-               Score of 500 - 600	16%	
-               Score of 400 - 500	2%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Writing	689 average 650-740 range of middle 50%	
-               Score of 700 - 800	51%	
-               Score of 600 - 700	38%	
-               Score of 500 - 600	9%	
-               Score of 400 - 500	2%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	30 average 28-32 range of middle 50%	
-               Score of 30 - 36	62%	
-               Score of 24 - 29	31%	
-               Score of 18 - 23	7%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 79%Top quarter: 98%Top half: 100%	
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Most Difficult: More than 75% of  freshmen were in the top 10% of their high school class and scored over 1310 on the SAT I or over 29 on the ACT; about 30% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is recommended	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English		4	
+           Mathematics		3	
+           Science		3	
+           Foreign Language		3	
+           Social Studies			
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT			
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Writing component required	
+           Use of SAT/ACT Essay	SAT: Used for admission ACT: Used for admission 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	3009 Broadway	
+               City, State, Zip	New York,NY10027-6598	
+               Phone	(212) 854-2014	
+               Fax	(212) 854-6220	
+               E-mail	admissions@barnard.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	January 1	
+               Application Fee	$65	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	April 1	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	Yes	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	Yes	
+               Early Decision Deadline	November 1	
+               Early Decision Notification	December 15	
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Accepted, supplemental forms required	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Not available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	3 required for all freshmen	
+               Other	Common Application with Barnard supplement required for freshmen	
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests		X			
+               Class Rank		X			
+               Recommendations	X				
+               Essay	X				
+               Interview			X		
+               Level of Applicant's Interest			X		
+               Extracurricular Activities	X				
+               Volunteer Work		X			
+               ParticularTalent/Ability		X			
+               Character/Personal Qualities	X				
+               First Generation to Attend College			X		
+               State Residency				X	
+               Geographic Residence			X		
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity			X		
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	21% of  5,606 applicants were admitted	
+                Women	21% of  5,606 applicants were admitted	
+                Men	Not reported	
+               Students Enrolled	580 (50%) of 1,151 admitted students enrolled	
+                Women	580 (50%) of 1,151 admitted students enrolled	
+                Men	Not reported	
+               Early Decision Admission Rate	43% of 599 applicants were admitted	
+               Early Action Admission Rate		
+               Students Offered Wait List	   1,207	
+               Students Accepting Wait List Position	     635	
+               Students Admitted From Wait List	      41	
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.86	
+               3.75 and Above	70%	
+               3.50 - 3.74	25%	
+               3.25 - 3.49	3%	
+               3.00 - 3.24	1%	
+               2.50 - 2.99	1%	
+               2.00 - 2.49		
+             SAT Scores of Enrolled Freshmen
+               SAT Math	660 average 620-710 range of middle 50%	
+               Score of 700 - 800	33%	
+               Score of 600 - 700	49%	
+               Score of 500 - 600	17%	
+               Score of 400 - 500	1%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	671 average 620-730 range of middle 50%	
+               Score of 700 - 800	39%	
+               Score of 600 - 700	43%	
+               Score of 500 - 600	16%	
+               Score of 400 - 500	2%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Writing	689 average 650-740 range of middle 50%	
+               Score of 700 - 800	51%	
+               Score of 600 - 700	38%	
+               Score of 500 - 600	9%	
+               Score of 400 - 500	2%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	30 average 28-32 range of middle 50%	
+               Score of 30 - 36	62%	
+               Score of 24 - 29	31%	
+               Score of 18 - 23	7%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 79%Top quarter: 98%Top half: 100%	
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
 			1/20
-What the School Says...
-A Barnard College education provides women with tools to think critically and act effectively in today's world. It fosters a respect for learning, an aptitude for analysis, and a competence in the demanding disciplines of the liberal arts and sciences. By virtue of the College's mission and location, a Barnard education encourages women to strengthen their insight and forge ahead with their ideas, well-prepared and unafraid. Barnard women do not develop in a vacuum of isolation, since they practice what they learn in a co-ed and global environment on a daily basis. Located on the West Side of Manhattan, across from Columbia University, Barnard's neighborhood is one of the city's most diverse. Students enjoy the comfort of a green campus oasis with the spirit of a vibrant city. 
-What the School Says...
-The Committee on Admissions selects young women of proven academic strength who exhibit intellectual voracity and strong potential for further scholarly growth. In addition to school records (including a rigorous curriculum and strong grades), recommendations, writing, and test scores, the candidates' talents, abilities, interests, and personal history are given careful consideration.  While admission is highly selective, it is also holistic; no one criterion or score determines acceptance. Each applicant is considered in terms of her personal qualities, her intellectual capacity, and the rigor of the curriculum she has pursued, as well as her curiosity, drive, and potential for achieving at Barnard. And, each applicant is reviewed in the context of her school, community, and individual story.
-What the School Says...
-Barnard's financial aid process is designed to foster quality, access, and diversity, as outlined by our institutional mission. As such, our policies are committed to making Barnard a realistic option, regardless of finances, and to ensuring qualified applicants will not be denied a Barnard education because they cannot afford it. To the extent possible, the Office of Financial Aid assists each family using grants, loans, and job opportunities to meet 100 percent of demonstrated need, and provides advice on financing a Barnard education. All Barnard aid is based on financial need. While every family's income and assets are evaluated uniformly to determine family contribution, special and individual circumstances are also taken into consideration. We welcome communication from families to help each make the best financial choices.
-What the School Says...
-As leading scholars and innovators in their fields, Barnard faculty members make headlines and have bylines in the media and prominent journals. But foremost, they are teachers. And mentoring students is one of the most gratifying parts of their work. Barnard's low student-faculty ratio gives faculty the time to challenge students to think about concepts and connection to the world around them in new ways.  Discussions are engaging and challenging in Barnard classes. Whether in lectures or seminar-style courses, students question, debate, and draw on ideas and connections from life experiences and other coursework. Insatiable curiosity makes Barnard students incisive critical thinkers, effective problem solvers, and creative individuals trained to follow their curiosity, question ambiguity, and broaden their thinking.
-What the School Says...
-Our adventurous students relax amid a close-knit community, while events strike a balance between city and campus. Barnard's location provides an oasis from the sometimes frenetic energy of a city that never sleeps. More than 90 percent of students live in one of 12 residence halls and have access to more than 80 clubs and organizations. Add to this list hundreds of dually recognized clubs Barnard women join and lead at Columbia, provided for through our longstanding partnership. Student groups include performance and service, academic and pre-professional, ethnic and cultural, 16 Division I varsity sports, club and intermural sports, and numerous publications. Groups sponsor lectures, concerts, recitals, and panels. Community events such as Midnight Breakfast, Spirit Day, and Founder's Day are annual traditions. All with easy access to all that New York City offers.
-What the School Says...
+What the School Says...
+A Barnard College education provides women with tools to think critically and act effectively in today's world. It fosters a respect for learning, an aptitude for analysis, and a competence in the demanding disciplines of the liberal arts and sciences. By virtue of the College's mission and location, a Barnard education encourages women to strengthen their insight and forge ahead with their ideas, well-prepared and unafraid. Barnard women do not develop in a vacuum of isolation, since they practice what they learn in a co-ed and global environment on a daily basis. Located on the West Side of Manhattan, across from Columbia University, Barnard's neighborhood is one of the city's most diverse. Students enjoy the comfort of a green campus oasis with the spirit of a vibrant city. 
+What the School Says...
+The Committee on Admissions selects young women of proven academic strength who exhibit intellectual voracity and strong potential for further scholarly growth. In addition to school records (including a rigorous curriculum and strong grades), recommendations, writing, and test scores, the candidates' talents, abilities, interests, and personal history are given careful consideration.  While admission is highly selective, it is also holistic; no one criterion or score determines acceptance. Each applicant is considered in terms of her personal qualities, her intellectual capacity, and the rigor of the curriculum she has pursued, as well as her curiosity, drive, and potential for achieving at Barnard. And, each applicant is reviewed in the context of her school, community, and individual story.
+What the School Says...
+Barnard's financial aid process is designed to foster quality, access, and diversity, as outlined by our institutional mission. As such, our policies are committed to making Barnard a realistic option, regardless of finances, and to ensuring qualified applicants will not be denied a Barnard education because they cannot afford it. To the extent possible, the Office of Financial Aid assists each family using grants, loans, and job opportunities to meet 100 percent of demonstrated need, and provides advice on financing a Barnard education. All Barnard aid is based on financial need. While every family's income and assets are evaluated uniformly to determine family contribution, special and individual circumstances are also taken into consideration. We welcome communication from families to help each make the best financial choices.
+What the School Says...
+As leading scholars and innovators in their fields, Barnard faculty members make headlines and have bylines in the media and prominent journals. But foremost, they are teachers. And mentoring students is one of the most gratifying parts of their work. Barnard's low student-faculty ratio gives faculty the time to challenge students to think about concepts and connection to the world around them in new ways.  Discussions are engaging and challenging in Barnard classes. Whether in lectures or seminar-style courses, students question, debate, and draw on ideas and connections from life experiences and other coursework. Insatiable curiosity makes Barnard students incisive critical thinkers, effective problem solvers, and creative individuals trained to follow their curiosity, question ambiguity, and broaden their thinking.
+What the School Says...
+Our adventurous students relax amid a close-knit community, while events strike a balance between city and campus. Barnard's location provides an oasis from the sometimes frenetic energy of a city that never sleeps. More than 90 percent of students live in one of 12 residence halls and have access to more than 80 clubs and organizations. Add to this list hundreds of dually recognized clubs Barnard women join and lead at Columbia, provided for through our longstanding partnership. Student groups include performance and service, academic and pre-professional, ethnic and cultural, 16 Division I varsity sports, club and intermural sports, and numerous publications. Groups sponsor lectures, concerts, recitals, and panels. Community events such as Midnight Breakfast, Spirit Day, and Founder's Day are annual traditions. All with easy access to all that New York City offers.
+What the School Says...
 Barnard is a diverse community of intellectual discovery where scholarship thrives, women shape their experiences, and boldness is encouraged. Barnard graduates overwhelmingly describe their college experience as transformative, inspiring, and empowering. New York City is a laboratory where students apply classroom theory. Theater majors head to Broadway and art historians to world-class museums. Our location also means practical learning with 2,500 internships in law, medicine, finance, publishing, journalism, and politics. Our alumnae light up every field and live with passion and purpose.
         Will You Get In? Find Out.
         Estimate your chances at
@@ -206,79 +206,79 @@ Barnard is a diverse community of intellectual discovery where scholarship thriv
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$63,212	
-		         Tuition and Fees	$46,040	
-		         Room and Board	$14,660	
-		         Books and Supplies	$1,146	
-		         Other Expenses	$1,366	
-		         Payment Plans	Installment plan	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	finaid@barnard.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Not reported
-	          Application Process
-	            Application Deadline	February 15	
-	            Award Notification	On or about March 31	
-	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 002708	Free	
-                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
-                    State Aid Form		
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	314 (54.1%) of freshmen	
-		        Found to Have Financial Need	254 (80.9%) of applicants	
-		        Received Financial Aid	254 (100.0%) of applicants with financial need	
-		        Need Fully Met	254 (100.0%) of aid recipients	
-		        Average Percent of Need Met	100%	
-		        Average Award	$44,737	
-		        Need-Based Gift	Received by 246 (96.9%) of aid recipients, average amount $41,580	
-		        Need-Based Self-Help	Received by 254 (100.0%) of aid recipients, average amount $4,466	
-		        Merit-Based Gift	Not reported	
-		        Merit-Based Gift	Not reported	
-	          All Undergraduates
-	            Financial Aid Applicants	1,120 (45.4%) of undergraduates	
-	            Found to Have Financial Need	976 (39.6%) of applicants	
-	            Received Financial Aid	976 (100.0%) of applicants with financial need	
-	            Need Fully Met	976 (100.0%) of aid recipients	
-	            Average Percent of Need Met	100%	
-	            Average Award	$42,579	
-	            Need-Based Gift	Received by 958 (98.2%) of aid recipients, average amount $37,136	
-	            Need-Based Self-Help	Received by 976 (100.0%) of aid recipients, average amount $6,128	
-	            Merit-Based Gift	Not reported	
-	            Merit-Based Gift	Not reported	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	45%	
-                  Average Indebtedness of2013 Graduates	 $18,815	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	5.0%	
-                  Parents of Students NotReceiving Aid	3.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans	Available	
-                  Other Loans	College/university loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	None	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$2,025	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$63,212	
+		         Tuition and Fees	$46,040	
+		         Room and Board	$14,660	
+		         Books and Supplies	$1,146	
+		         Other Expenses	$1,366	
+		         Payment Plans	Installment plan	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	finaid@barnard.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Not reported
+	          Application Process
+	            Application Deadline	February 15	
+	            Award Notification	On or about March 31	
+	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 002708	Free	
+                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
+                    State Aid Form		
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	314 (54.1%) of freshmen	
+		        Found to Have Financial Need	254 (80.9%) of applicants	
+		        Received Financial Aid	254 (100.0%) of applicants with financial need	
+		        Need Fully Met	254 (100.0%) of aid recipients	
+		        Average Percent of Need Met	100%	
+		        Average Award	$44,737	
+		        Need-Based Gift	Received by 246 (96.9%) of aid recipients, average amount $41,580	
+		        Need-Based Self-Help	Received by 254 (100.0%) of aid recipients, average amount $4,466	
+		        Merit-Based Gift	Not reported	
+		        Merit-Based Gift	Not reported	
+	          All Undergraduates
+	            Financial Aid Applicants	1,120 (45.4%) of undergraduates	
+	            Found to Have Financial Need	976 (39.6%) of applicants	
+	            Received Financial Aid	976 (100.0%) of applicants with financial need	
+	            Need Fully Met	976 (100.0%) of aid recipients	
+	            Average Percent of Need Met	100%	
+	            Average Award	$42,579	
+	            Need-Based Gift	Received by 958 (98.2%) of aid recipients, average amount $37,136	
+	            Need-Based Self-Help	Received by 976 (100.0%) of aid recipients, average amount $6,128	
+	            Merit-Based Gift	Not reported	
+	            Merit-Based Gift	Not reported	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	45%	
+                  Average Indebtedness of2013 Graduates	 $18,815	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	5.0%	
+                  Parents of Students NotReceiving Aid	3.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans	Available	
+                  Other Loans	College/university loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	None	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$2,025	

@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Bentley University, Northeastern University, University of Connecticut, Quinnipiac University, University of Massachusetts Amherst, Babson College
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	4		
-           Science	2	3	
-           Foreign Language	2		
-           Social Studies			
-           History	2	3	
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT			
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	1150 Douglas Pike	
-               City, State, Zip	Smithfield,RI02917	
-               Phone	(401) 232-6100	
-               Fax	(401) 232-6741	
-               E-mail	admission@bryant.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	February 3	
-               Application Fee	$50	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	March 23	
-               Accept Offer of Admission	May 1	
-               Waiting List Used	Yes	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	Yes	
-               Early Decision Deadline	November 15, January 15	
-               Early Decision Notification	December 16, February 17	
-               Early Action Offered	Yes	
-               Early Action Deadline	December 2	
-               Early Action Notification	January 15	
-       Application Form
-               Common Application	Accepted, supplemental forms required	
-               Universal College Application	Accepted, supplemental forms required	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	1 required for all freshmen	
-               Other	Senior year first-quarter grades; SAT Reasoning Test or ACT results required for freshmen	
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests		X			
-               Class Rank		X			
-               Recommendations		X			
-               Essay		X			
-               Interview			X		
-               Level of Applicant's Interest			X		
-               Extracurricular Activities			X		
-               Volunteer Work			X		
-               ParticularTalent/Ability			X		
-               Character/Personal Qualities			X		
-               First Generation to Attend College			X		
-               State Residency			X		
-               Geographic Residence			X		
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity			X		
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	77% of  6,013 applicants were admitted	
-                Women	77% of  2,541 applicants were admitted	
-                Men	76% of  3,472 applicants were admitted	
-               Students Enrolled	898 (20%) of 4,603 admitted students enrolled	
-                Women	383 (20%) of 1,954 admitted students enrolled	
-                Men	515 (19%) of 2,649 admitted students enrolled	
-               Early Decision Admission Rate	76% of 181 applicants were admitted	
-               Early Action Admission Rate	Not reported	
-               Students Offered Wait List	      97	
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.32	
-               3.75 and Above	18%	
-               3.50 - 3.74	15%	
-               3.25 - 3.49	22%	
-               3.00 - 3.24	22%	
-               2.50 - 2.99	20%	
-               2.00 - 2.49	3%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	589 average 540-630 range of middle 50%	
-               Score of 700 - 800	7%	
-               Score of 600 - 700	37%	
-               Score of 500 - 600	48%	
-               Score of 400 - 500	8%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	555 average 510-590 range of middle 50%	
-               Score of 700 - 800	3%	
-               Score of 600 - 700	20%	
-               Score of 500 - 600	59%	
-               Score of 400 - 500	17%	
-               Score of 300 - 400	1%	
-               Score of 200 - 300	0%	
-               SAT Writing	549 average 500-590 range of middle 50%	
-               Score of 700 - 800	2%	
-               Score of 600 - 700	23%	
-               Score of 500 - 600	53%	
-               Score of 400 - 500	21%	
-               Score of 300 - 400	1%	
-               Score of 200 - 300	0%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	25 average 23-27 range of middle 50%	
-               Score of 30 - 36	10%	
-               Score of 24 - 29	64%	
-               Score of 18 - 23	26%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 18%Top quarter: 50%Top half: 88%Bottom half: 12%	
-               National Merit Scholar	Not reported	
-               Valedictorian	0%	
-               Class President	0%	
-               Student Government Officer	9%	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	4		
+           Science	2	3	
+           Foreign Language	2		
+           Social Studies			
+           History	2	3	
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT			
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	1150 Douglas Pike	
+               City, State, Zip	Smithfield,RI02917	
+               Phone	(401) 232-6100	
+               Fax	(401) 232-6741	
+               E-mail	admission@bryant.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	February 3	
+               Application Fee	$50	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	March 23	
+               Accept Offer of Admission	May 1	
+               Waiting List Used	Yes	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	Yes	
+               Early Decision Deadline	November 15, January 15	
+               Early Decision Notification	December 16, February 17	
+               Early Action Offered	Yes	
+               Early Action Deadline	December 2	
+               Early Action Notification	January 15	
+       Application Form
+               Common Application	Accepted, supplemental forms required	
+               Universal College Application	Accepted, supplemental forms required	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	1 required for all freshmen	
+               Other	Senior year first-quarter grades; SAT Reasoning Test or ACT results required for freshmen	
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests		X			
+               Class Rank		X			
+               Recommendations		X			
+               Essay		X			
+               Interview			X		
+               Level of Applicant's Interest			X		
+               Extracurricular Activities			X		
+               Volunteer Work			X		
+               ParticularTalent/Ability			X		
+               Character/Personal Qualities			X		
+               First Generation to Attend College			X		
+               State Residency			X		
+               Geographic Residence			X		
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity			X		
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	77% of  6,013 applicants were admitted	
+                Women	77% of  2,541 applicants were admitted	
+                Men	76% of  3,472 applicants were admitted	
+               Students Enrolled	898 (20%) of 4,603 admitted students enrolled	
+                Women	383 (20%) of 1,954 admitted students enrolled	
+                Men	515 (19%) of 2,649 admitted students enrolled	
+               Early Decision Admission Rate	76% of 181 applicants were admitted	
+               Early Action Admission Rate	Not reported	
+               Students Offered Wait List	      97	
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.32	
+               3.75 and Above	18%	
+               3.50 - 3.74	15%	
+               3.25 - 3.49	22%	
+               3.00 - 3.24	22%	
+               2.50 - 2.99	20%	
+               2.00 - 2.49	3%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	589 average 540-630 range of middle 50%	
+               Score of 700 - 800	7%	
+               Score of 600 - 700	37%	
+               Score of 500 - 600	48%	
+               Score of 400 - 500	8%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	555 average 510-590 range of middle 50%	
+               Score of 700 - 800	3%	
+               Score of 600 - 700	20%	
+               Score of 500 - 600	59%	
+               Score of 400 - 500	17%	
+               Score of 300 - 400	1%	
+               Score of 200 - 300	0%	
+               SAT Writing	549 average 500-590 range of middle 50%	
+               Score of 700 - 800	2%	
+               Score of 600 - 700	23%	
+               Score of 500 - 600	53%	
+               Score of 400 - 500	21%	
+               Score of 300 - 400	1%	
+               Score of 200 - 300	0%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	25 average 23-27 range of middle 50%	
+               Score of 30 - 36	10%	
+               Score of 24 - 29	64%	
+               Score of 18 - 23	26%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 18%Top quarter: 50%Top half: 88%Bottom half: 12%	
+               National Merit Scholar	Not reported	
+               Valedictorian	0%	
+               Class President	0%	
+               Student Government Officer	9%	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -193,77 +193,77 @@ PROFILE OF FALL ADMISSION
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$55,376	
-		         Tuition and Fees	$38,574	
-		         Room and Board	$14,102	
-		         Books and Supplies	$1,300	
-		         Other Expenses	$1,400	
-		         Payment Plans	Credit card, installment plan, external finance company	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	finaid@bryant.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	February 15	
-	            Award Notification	On or about March 24	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 003402	Free	
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	698 (78.4%) of freshmen	
-		        Found to Have Financial Need	596 (85.4%) of applicants	
-		        Received Financial Aid	596 (100.0%) of applicants with financial need	
-		        Need Fully Met	298 (50.0%) of aid recipients	
-		        Average Percent of Need Met	52%	
-		        Average Award	$22,576	
-		        Need-Based Gift	Received by 455 (76.3%) of aid recipients, average amount $10,596	
-		        Need-Based Self-Help	Received by 496 (83.2%) of aid recipients, average amount $6,299	
-		        Merit-Based Gift	Received by 435 (73.0%) of aid recipients	
-		        Merit-Based Gift	193 (21.7%) of freshmen had no financial need and received merit aid, average amount $13,062	
-	          All Undergraduates
-	            Financial Aid Applicants	2,336 (73.0%) of undergraduates	
-	            Found to Have Financial Need	2,103 (65.7%) of applicants	
-	            Received Financial Aid	2,103 (100.0%) of applicants with financial need	
-	            Need Fully Met	1,051 (50.0%) of aid recipients	
-	            Average Percent of Need Met	53%	
-	            Average Award	$23,104	
-	            Need-Based Gift	Received by 1,722 (81.9%) of aid recipients, average amount $12,026	
-	            Need-Based Self-Help	Received by 1,806 (85.9%) of aid recipients, average amount $5,288	
-	            Merit-Based Gift	Received by 1,245 (59.2%) of aid recipients	
-	            Merit-Based Gift	550 (17.2%) of undergraduates had no financial need and received merit aid, average amount $13,010	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	81%	
-                  Average Indebtedness of2013 Graduates	 $41,613	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	11.0%	
-                  Parents of Students NotReceiving Aid	1.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans	Private loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Athletic scholarships, Minority scholarships, ROTC scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	International Students, Members of Minorities, Siblings of Current Students	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	International Students, Siblings of Current Students, Members of Minorities	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	Not reported	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$55,376	
+		         Tuition and Fees	$38,574	
+		         Room and Board	$14,102	
+		         Books and Supplies	$1,300	
+		         Other Expenses	$1,400	
+		         Payment Plans	Credit card, installment plan, external finance company	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	finaid@bryant.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	February 15	
+	            Award Notification	On or about March 24	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 003402	Free	
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	698 (78.4%) of freshmen	
+		        Found to Have Financial Need	596 (85.4%) of applicants	
+		        Received Financial Aid	596 (100.0%) of applicants with financial need	
+		        Need Fully Met	298 (50.0%) of aid recipients	
+		        Average Percent of Need Met	52%	
+		        Average Award	$22,576	
+		        Need-Based Gift	Received by 455 (76.3%) of aid recipients, average amount $10,596	
+		        Need-Based Self-Help	Received by 496 (83.2%) of aid recipients, average amount $6,299	
+		        Merit-Based Gift	Received by 435 (73.0%) of aid recipients	
+		        Merit-Based Gift	193 (21.7%) of freshmen had no financial need and received merit aid, average amount $13,062	
+	          All Undergraduates
+	            Financial Aid Applicants	2,336 (73.0%) of undergraduates	
+	            Found to Have Financial Need	2,103 (65.7%) of applicants	
+	            Received Financial Aid	2,103 (100.0%) of applicants with financial need	
+	            Need Fully Met	1,051 (50.0%) of aid recipients	
+	            Average Percent of Need Met	53%	
+	            Average Award	$23,104	
+	            Need-Based Gift	Received by 1,722 (81.9%) of aid recipients, average amount $12,026	
+	            Need-Based Self-Help	Received by 1,806 (85.9%) of aid recipients, average amount $5,288	
+	            Merit-Based Gift	Received by 1,245 (59.2%) of aid recipients	
+	            Merit-Based Gift	550 (17.2%) of undergraduates had no financial need and received merit aid, average amount $13,010	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	81%	
+                  Average Indebtedness of2013 Graduates	 $41,613	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	11.0%	
+                  Parents of Students NotReceiving Aid	1.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans	Private loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Athletic scholarships, Minority scholarships, ROTC scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	International Students, Members of Minorities, Siblings of Current Students	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	International Students, Siblings of Current Students, Members of Minorities	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	Not reported	

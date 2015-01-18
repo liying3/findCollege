@@ -5,153 +5,153 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	University of California, Los Angeles, University of Southern California, University of California, Berkeley, University of California, Santa Barbara, University of California, Davis, University of California, San Diego
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	3	4	
-           Science	2	3	
-           Foreign Language	2	3	
-           Social Studies	3		
-           History			
-           Academic Electives	1		
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	January  7	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	500 El Camino Real	
-               City, State, Zip	Santa Clara,CA95053	
-               Phone	(408) 554-4700	
-               Fax	(408) 554-5255	
-               E-mail	Admission@scu.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	January 7	
-               Application Fee	$55	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling, notification begins April 1	
-               Accept Offer of Admission	May 1	
-               Waiting List Used	Yes	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	Yes	
-               Early Decision Deadline	November 1	
-               Early Decision Notification	December 15	
-               Early Action Offered	Yes	
-               Early Action Deadline	November 1	
-               Early Action Notification	December 23	
-       Application Form
-               Common Application	Accepted, supplemental forms required	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	1 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests		X			
-               Class Rank		X			
-               Recommendations		X			
-               Essay	X				
-               Interview				X	
-               Level of Applicant's Interest			X		
-               Extracurricular Activities		X			
-               Volunteer Work		X			
-               ParticularTalent/Ability		X			
-               Character/Personal Qualities		X			
-               First Generation to Attend College			X		
-               State Residency			X		
-               Geographic Residence			X		
-               Relation with Alumnus		X			
-               Religious Affiliation/ Commitment			X		
-               Ethnicity		X			
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	50% of 14,980 applicants were admitted	
-                Women	51% of  8,023 applicants were admitted	
-                Men	48% of  6,957 applicants were admitted	
-               Students Enrolled	1,437 (19%) of 7,456 admitted students enrolled	
-                Women	752 (18%) of 4,098 admitted students enrolled	
-                Men	685 (20%) of 3,358 admitted students enrolled	
-               Early Decision Admission Rate	54% of 193 applicants were admitted	
-               Early Action Admission Rate	64% of 4443 applicants were admitted	
-               Students Offered Wait List	   2,436	
-               Students Accepting Wait List Position	   1,200	
-               Students Admitted From Wait List	     142	
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.66	
-               3.75 and Above	42%	
-               3.50 - 3.74	36%	
-               3.25 - 3.49	16%	
-               3.00 - 3.24	6%	
-               2.50 - 2.99		
-               2.00 - 2.49		
-             SAT Scores of Enrolled Freshmen
-               SAT Math	655 average 610-700 range of middle 50%	
-               Score of 700 - 800	29%	
-               Score of 600 - 700	50%	
-               Score of 500 - 600	18%	
-               Score of 400 - 500	3%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	630 average 580-680 range of middle 50%	
-               Score of 700 - 800	18%	
-               Score of 600 - 700	48%	
-               Score of 500 - 600	30%	
-               Score of 400 - 500	4%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	29 average 27-31 range of middle 50%	
-               Score of 30 - 36	45%	
-               Score of 24 - 29	50%	
-               Score of 18 - 23	5%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 50%Top quarter: 80%Top half: 97%Bottom half: 3%	
-               National Merit Scholar	0%	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	3	4	
+           Science	2	3	
+           Foreign Language	2	3	
+           Social Studies	3		
+           History			
+           Academic Electives	1		
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	January  7	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	500 El Camino Real	
+               City, State, Zip	Santa Clara,CA95053	
+               Phone	(408) 554-4700	
+               Fax	(408) 554-5255	
+               E-mail	Admission@scu.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	January 7	
+               Application Fee	$55	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling, notification begins April 1	
+               Accept Offer of Admission	May 1	
+               Waiting List Used	Yes	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	Yes	
+               Early Decision Deadline	November 1	
+               Early Decision Notification	December 15	
+               Early Action Offered	Yes	
+               Early Action Deadline	November 1	
+               Early Action Notification	December 23	
+       Application Form
+               Common Application	Accepted, supplemental forms required	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	1 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests		X			
+               Class Rank		X			
+               Recommendations		X			
+               Essay	X				
+               Interview				X	
+               Level of Applicant's Interest			X		
+               Extracurricular Activities		X			
+               Volunteer Work		X			
+               ParticularTalent/Ability		X			
+               Character/Personal Qualities		X			
+               First Generation to Attend College			X		
+               State Residency			X		
+               Geographic Residence			X		
+               Relation with Alumnus		X			
+               Religious Affiliation/ Commitment			X		
+               Ethnicity		X			
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	50% of 14,980 applicants were admitted	
+                Women	51% of  8,023 applicants were admitted	
+                Men	48% of  6,957 applicants were admitted	
+               Students Enrolled	1,437 (19%) of 7,456 admitted students enrolled	
+                Women	752 (18%) of 4,098 admitted students enrolled	
+                Men	685 (20%) of 3,358 admitted students enrolled	
+               Early Decision Admission Rate	54% of 193 applicants were admitted	
+               Early Action Admission Rate	64% of 4443 applicants were admitted	
+               Students Offered Wait List	   2,436	
+               Students Accepting Wait List Position	   1,200	
+               Students Admitted From Wait List	     142	
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.66	
+               3.75 and Above	42%	
+               3.50 - 3.74	36%	
+               3.25 - 3.49	16%	
+               3.00 - 3.24	6%	
+               2.50 - 2.99		
+               2.00 - 2.49		
+             SAT Scores of Enrolled Freshmen
+               SAT Math	655 average 610-700 range of middle 50%	
+               Score of 700 - 800	29%	
+               Score of 600 - 700	50%	
+               Score of 500 - 600	18%	
+               Score of 400 - 500	3%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	630 average 580-680 range of middle 50%	
+               Score of 700 - 800	18%	
+               Score of 600 - 700	48%	
+               Score of 500 - 600	30%	
+               Score of 400 - 500	4%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	29 average 27-31 range of middle 50%	
+               Score of 30 - 36	45%	
+               Score of 24 - 29	50%	
+               Score of 18 - 23	5%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 50%Top quarter: 80%Top half: 97%Bottom half: 3%	
+               National Merit Scholar	0%	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
 			1/13
-What the School Says...
-Santa Clara University, a comprehensive Jesuit, Catholic university located 40 miles south of San Francisco in California's Silicon Valley, offers its more than 8,800 students rigorous undergraduate curricula in arts and sciences, business, theology, and engineering, plus master's, and law degrees  and engineering Ph.Ds.  Distinguished nationally by one of the highest graduation rates among all U.S. master's universities, California's oldest operating higher-education institution demonstrates faith-inspired values of ethics and social justice.
-What the School Says...
-Admission to SCU is competitive, and applicants undergo a comprehensive and holistic application evaluation that considers academic achievement, accomplishments outside of the classroom, and the potential for advancing the University's mission. When we review your application we will consider several elements: the overall quality and rigor of your high school courses (ninth-12th grade), academic performance and grades, results of standardized testing, letters of recommendation, extracurricular involvement, and leadership experience. 
-What the School Says...
-Our financial aid packages can substantially decrease the cost of attendance. Eighty-one percent of our students receive some form of aid from scholarships, grants, loans, and campus employment. When compared to some public universities having an average time to graduation of 5-plus years, Santa Clara may actually be a more cost-effective education. The intrinsic value of a Santa Clara education goes beyond the initial investment in tuition and related costs. Santa Clara graduates make immediate, measurable contributions as they enter or advance in their professions, and are sought by business, industry, nonprofits, and government.
-What the School Says...
-With a Jesuit education, you'll learn to think critically, understand the needs of the world, and act for the good of society. You'll be challenged to experience life beyond the classroom and become a contributing member of the global community. At SCU, you will enjoy an inspiring academic environment and will have the opportunity to draw upon many tools for learning, including a state-of-the-art library and learning commons, and 21st-century classrooms. Through immersion trips, academic exchanges, and outreach programs, our students, faculty, staff, alumni, and friends gain perspective and enhance scholarship around the world.  Our faculty members are award-winning scientists, economists, theologians, artists, and writers who share their insights and expertise from their own real-world experience. A commitment to students and small classes enable the research experience and one-on-one access you need to succeed. 
-What the School Says...
-Day-to-day life for Santa Clara students is more than classes and homework. The university offers numerous activities for you to explore.  The campus features 12 student residences, extensive athletic facilities, a recreation and fitness center, a thriving performing arts facility, and an accredited museum of art and history. If you are a sports fan, we field 19 Division I athletic teams and are known for our successful soccer and volleyball programs. The Ruff Riders, the official student booster club of SCU athletics, is the largest of more than 100 student organizations on campus. Plus, we are 30 minutes from coastal beaches and less than an hour from San Francisco. Yosemite and Lake Tahoe are within four hours of campus.
-What the School Says...
+What the School Says...
+Santa Clara University, a comprehensive Jesuit, Catholic university located 40 miles south of San Francisco in California's Silicon Valley, offers its more than 8,800 students rigorous undergraduate curricula in arts and sciences, business, theology, and engineering, plus master's, and law degrees  and engineering Ph.Ds.  Distinguished nationally by one of the highest graduation rates among all U.S. master's universities, California's oldest operating higher-education institution demonstrates faith-inspired values of ethics and social justice.
+What the School Says...
+Admission to SCU is competitive, and applicants undergo a comprehensive and holistic application evaluation that considers academic achievement, accomplishments outside of the classroom, and the potential for advancing the University's mission. When we review your application we will consider several elements: the overall quality and rigor of your high school courses (ninth-12th grade), academic performance and grades, results of standardized testing, letters of recommendation, extracurricular involvement, and leadership experience. 
+What the School Says...
+Our financial aid packages can substantially decrease the cost of attendance. Eighty-one percent of our students receive some form of aid from scholarships, grants, loans, and campus employment. When compared to some public universities having an average time to graduation of 5-plus years, Santa Clara may actually be a more cost-effective education. The intrinsic value of a Santa Clara education goes beyond the initial investment in tuition and related costs. Santa Clara graduates make immediate, measurable contributions as they enter or advance in their professions, and are sought by business, industry, nonprofits, and government.
+What the School Says...
+With a Jesuit education, you'll learn to think critically, understand the needs of the world, and act for the good of society. You'll be challenged to experience life beyond the classroom and become a contributing member of the global community. At SCU, you will enjoy an inspiring academic environment and will have the opportunity to draw upon many tools for learning, including a state-of-the-art library and learning commons, and 21st-century classrooms. Through immersion trips, academic exchanges, and outreach programs, our students, faculty, staff, alumni, and friends gain perspective and enhance scholarship around the world.  Our faculty members are award-winning scientists, economists, theologians, artists, and writers who share their insights and expertise from their own real-world experience. A commitment to students and small classes enable the research experience and one-on-one access you need to succeed. 
+What the School Says...
+Day-to-day life for Santa Clara students is more than classes and homework. The university offers numerous activities for you to explore.  The campus features 12 student residences, extensive athletic facilities, a recreation and fitness center, a thriving performing arts facility, and an accredited museum of art and history. If you are a sports fan, we field 19 Division I athletic teams and are known for our successful soccer and volleyball programs. The Ruff Riders, the official student booster club of SCU athletics, is the largest of more than 100 student organizations on campus. Plus, we are 30 minutes from coastal beaches and less than an hour from San Francisco. Yosemite and Lake Tahoe are within four hours of campus.
+What the School Says...
 Santa Clara embraces the notion that we must be global educators, researchers, students, citizens, and partners. The University is committed to creating an enriching learning community with students, faculty, and staff of diverse backgrounds, respectful of difference, and enlivened by open dialogue. And wherever Santa Clara graduates find themselves after graduation, they are able to apply their education and skills to build a career, improve their workplace, and strengthen their community. Surveys consistently show that our graduates perform well whether they accept a full-time job, attend a graduate school program, or decide to participate in a service program such as the Jesuit Volunteer Corps. 
         Will You Get In? Find Out.
         Estimate your chances at
@@ -207,78 +207,78 @@ Santa Clara embraces the notion that we must be global educators, researchers, s
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$61,638	
-		         Tuition and Fees	$43,812	
-		         Room and Board	$12,921	
-		         Books and Supplies	$1,746	
-		         Other Expenses	$3,159	
-		         Payment Plans	Installment plan, external finance company	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	onestop@scu.edu 	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline February 1	
-	            Award Notification	On or about April 1	
-	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 001326	Free	
-                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	867 (67.2%) of freshmen	
-		        Found to Have Financial Need	616 (71.0%) of applicants	
-		        Received Financial Aid	603 (97.9%) of applicants with financial need	
-		        Need Fully Met	217 (36.0%) of aid recipients	
-		        Average Percent of Need Met	74%	
-		        Average Award	$28,699	
-		        Need-Based Gift	Received by 500 (82.9%) of aid recipients, average amount $23,527	
-		        Need-Based Self-Help	Received by 343 (56.9%) of aid recipients, average amount $3,897	
-		        Merit-Based Gift	Received by 240 (39.8%) of aid recipients	
-		        Merit-Based Gift	286 (22.2%) of freshmen had no financial need and received merit aid, average amount $10,919	
-	          All Undergraduates
-	            Financial Aid Applicants	3,580 (66.2%) of undergraduates	
-	            Found to Have Financial Need	2,794 (51.7%) of applicants	
-	            Received Financial Aid	2,347 (84.0%) of applicants with financial need	
-	            Need Fully Met	827 (35.2%) of aid recipients	
-	            Average Percent of Need Met	69%	
-	            Average Award	$27,559	
-	            Need-Based Gift	Received by 1,908 (81.3%) of aid recipients, average amount $20,979	
-	            Need-Based Self-Help	Received by 1,489 (63.4%) of aid recipients, average amount $5,422	
-	            Merit-Based Gift	Received by 971 (41.4%) of aid recipients	
-	            Merit-Based Gift	1,414 (26.2%) of undergraduates had no financial need and received merit aid, average amount $12,496	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	46%	
-                  Average Indebtedness of2013 Graduates	 $29,026	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	7.0%	
-                  Parents of Students NotReceiving Aid	1.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans	Private loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Athletic scholarships, ROTC scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Business, Engineering/Technologies, Military Science	
-                  Number of Awards	2,656	
-                  Top Areas (By MoneyAwarded)	Business, Military Science, Engineering/Technologies	
-                  Creative Arts/PerformanceAward Areas	Dance, Debating, Music, Theater/Drama	
-                  Number of Awards	46	
-                  Top Areas (By MoneyAwarded)	Dance, Theater/Drama, Music, Debating	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	Children and Siblings of Alumni, Children of Faculty/Staff, Children with a Deceased or Disabled Parent, Handicapped Students	
-                  Number of Awards	106	
-                  Top Areas (By MoneyAwarded)	Children of Faculty/Staff, Handicapped Students, Children with a Deceased or Disabled Parent, Children and Siblings of Alumni	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$2,873	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$61,638	
+		         Tuition and Fees	$43,812	
+		         Room and Board	$12,921	
+		         Books and Supplies	$1,746	
+		         Other Expenses	$3,159	
+		         Payment Plans	Installment plan, external finance company	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	onestop@scu.edu 	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline February 1	
+	            Award Notification	On or about April 1	
+	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 001326	Free	
+                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	867 (67.2%) of freshmen	
+		        Found to Have Financial Need	616 (71.0%) of applicants	
+		        Received Financial Aid	603 (97.9%) of applicants with financial need	
+		        Need Fully Met	217 (36.0%) of aid recipients	
+		        Average Percent of Need Met	74%	
+		        Average Award	$28,699	
+		        Need-Based Gift	Received by 500 (82.9%) of aid recipients, average amount $23,527	
+		        Need-Based Self-Help	Received by 343 (56.9%) of aid recipients, average amount $3,897	
+		        Merit-Based Gift	Received by 240 (39.8%) of aid recipients	
+		        Merit-Based Gift	286 (22.2%) of freshmen had no financial need and received merit aid, average amount $10,919	
+	          All Undergraduates
+	            Financial Aid Applicants	3,580 (66.2%) of undergraduates	
+	            Found to Have Financial Need	2,794 (51.7%) of applicants	
+	            Received Financial Aid	2,347 (84.0%) of applicants with financial need	
+	            Need Fully Met	827 (35.2%) of aid recipients	
+	            Average Percent of Need Met	69%	
+	            Average Award	$27,559	
+	            Need-Based Gift	Received by 1,908 (81.3%) of aid recipients, average amount $20,979	
+	            Need-Based Self-Help	Received by 1,489 (63.4%) of aid recipients, average amount $5,422	
+	            Merit-Based Gift	Received by 971 (41.4%) of aid recipients	
+	            Merit-Based Gift	1,414 (26.2%) of undergraduates had no financial need and received merit aid, average amount $12,496	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	46%	
+                  Average Indebtedness of2013 Graduates	 $29,026	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	7.0%	
+                  Parents of Students NotReceiving Aid	1.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans	Private loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Athletic scholarships, ROTC scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Business, Engineering/Technologies, Military Science	
+                  Number of Awards	2,656	
+                  Top Areas (By MoneyAwarded)	Business, Military Science, Engineering/Technologies	
+                  Creative Arts/PerformanceAward Areas	Dance, Debating, Music, Theater/Drama	
+                  Number of Awards	46	
+                  Top Areas (By MoneyAwarded)	Dance, Theater/Drama, Music, Debating	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	Children and Siblings of Alumni, Children of Faculty/Staff, Children with a Deceased or Disabled Parent, Handicapped Students	
+                  Number of Awards	106	
+                  Top Areas (By MoneyAwarded)	Children of Faculty/Staff, Handicapped Students, Children with a Deceased or Disabled Parent, Children and Siblings of Alumni	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$2,873	

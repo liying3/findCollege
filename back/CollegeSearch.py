@@ -44,7 +44,7 @@ def ReadCollegeFiles():
             satWriting = str(test.SAT_WritingAverage)[:3]
 
             finalSAT = GetScore(satMath, 600) + GetScore(satReading, 600) + GetScore(satWriting, 600)
-            finalCost = GetCost(test.CostOfAttendance, 10000)
+            finalCost = GetCost(str(test.CostOfAttendance), 10000)
             #print(finalSAT)
             #print(finalCost)
             pcolleges.append(PCollege(test.Name, test.State, int(finalCost), finalSAT, aGPA))
@@ -61,7 +61,7 @@ def GetScore(s, val):
         return int(s)
 
 def GetCost(s, val):
-    if 'N' in s:
+    if 'N' in s or '0' in s or 'n' in s:
         return val
     else:
         s1 = s[1:]
@@ -81,26 +81,25 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
     #print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
 
     for i in range(len(pcolleges)):
-    
         if pcolleges[i].loc in Locations:
-            print(pcolleges[i].name);
-            print(pcolleges[i].loc);
-            print(pcolleges[i].tuition);
-            print(pcolleges[i].aGPA);
-            print(pcolleges[i].aSAT);
-            chance = CalculateChance(SAT, GPA, TopPercentage, pcolleges[i].aSAT, pcolleges[i].aGPA)
-            print("Chance: ", chance ,"\n");
+            print(pcolleges[i].name)
+            print(pcolleges[i].loc)
+            print(pcolleges[i].tuition)
+            print(pcolleges[i].aGPA)
+            print(pcolleges[i].aSAT)
+            pcolleges[i].chance = CalculateChance(SAT, GPA, TopPercentage, pcolleges[i].aSAT, pcolleges[i].aGPA)
+            print(pcolleges[i].chance)
         
-    return;
+    return
 
 
 def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
     try:
         return ( 0.35 * int(SAT)/int(aSAT) + 0.35 * float(GPA)/float(aGPA) + 0.3 * (1-float(TopPercentage))/100) * 100
     except ValueError:
-        return 0.5;
+        return 50
     
-ReadCollegeFiles();
+ReadCollegeFiles()
 #SortCollege('chance','123','123')
 FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6]);
 

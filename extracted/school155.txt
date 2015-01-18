@@ -5,141 +5,141 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Brown University, Boston University, Cornell University, Boston College, University of Pennsylvania, Harvard College
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Most Difficult: More than 75% of  freshmen were in the top 10% of their high school class and scored over 1310 on the SAT I or over 29 on the ACT; about 30% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is required	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English		4	
-           Mathematics		4	
-           Science		4	
-           Foreign Language		4	
-           Social Studies		4	
-           History			
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT			
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT	Required	February 1	
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Writing component required	
-           Use of SAT/ACT Essay	Not reported	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address		
-               City, State, Zip	Medford,MA02155	
-               Phone	(617) 627-3170	
-               Fax	(617) 627-3860	
-               E-mail	admissions.inquiry@ase.tufts.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	January 1	
-               Application Fee	$70	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	April 1	
-               Accept Offer of Admission	May 1	
-               Waiting List Used	Yes	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	Yes	
-               Early Decision Deadline	November 1, January 1	
-               Early Decision Notification	December 15, February 15	
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Accepted, supplemental forms required	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	2 required for all freshmen	
-               Other	Common Application, the Tufts Supplement, and standardized testing required for freshmen	
-               Financial Need	Financial need is a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank	X				
-               Recommendations	X				
-               Essay	X				
-               Interview			X		
-               Level of Applicant's Interest			X		
-               Extracurricular Activities		X			
-               Volunteer Work		X			
-               ParticularTalent/Ability		X			
-               Character/Personal Qualities	X				
-               First Generation to Attend College			X		
-               State Residency				X	
-               Geographic Residence			X		
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity			X		
-               Work Experience		X			
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	19% of 18,406 applicants were admitted	
-                Women	17% of 10,611 applicants were admitted	
-                Men	21% of  7,795 applicants were admitted	
-               Students Enrolled	1,312 (38%) of 3,469 admitted students enrolled	
-                Women	659 (37%) of 1,803 admitted students enrolled	
-                Men	653 (39%) of 1,666 admitted students enrolled	
-               Early Decision Admission Rate	36% of 1572 applicants were admitted	
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	Not reported	
-               3.75 and Above	Not reported	
-               3.50 - 3.74	Not reported	
-               3.25 - 3.49	Not reported	
-               3.00 - 3.24	Not reported	
-               2.50 - 2.99	Not reported	
-               2.00 - 2.49	Not reported	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	726 average 690-770 range of middle 50%	
-               Score of 700 - 800	75%	
-               Score of 600 - 700	23%	
-               Score of 500 - 600	2%	
-               Score of 400 - 500	0%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	712 average 680-750 range of middle 50%	
-               Score of 700 - 800	65%	
-               Score of 600 - 700	31%	
-               Score of 500 - 600	4%	
-               Score of 400 - 500	0%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Writing	720 average 680-770 range of middle 50%	
-               Score of 700 - 800	68%	
-               Score of 600 - 700	30%	
-               Score of 500 - 600	2%	
-               Score of 400 - 500	0%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	31 average 30-33 range of middle 50%	
-               Score of 30 - 36	80%	
-               Score of 24 - 29	19%	
-               Score of 18 - 23	1%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 91%Top quarter: 99%Top half: 100%	
-               National Merit Scholar	6%	
-               Valedictorian	4%	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Most Difficult: More than 75% of  freshmen were in the top 10% of their high school class and scored over 1310 on the SAT I or over 29 on the ACT; about 30% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is required	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English		4	
+           Mathematics		4	
+           Science		4	
+           Foreign Language		4	
+           Social Studies		4	
+           History			
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT			
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT	Required	February 1	
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Writing component required	
+           Use of SAT/ACT Essay	Not reported	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address		
+               City, State, Zip	Medford,MA02155	
+               Phone	(617) 627-3170	
+               Fax	(617) 627-3860	
+               E-mail	admissions.inquiry@ase.tufts.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	January 1	
+               Application Fee	$70	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	April 1	
+               Accept Offer of Admission	May 1	
+               Waiting List Used	Yes	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	Yes	
+               Early Decision Deadline	November 1, January 1	
+               Early Decision Notification	December 15, February 15	
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Accepted, supplemental forms required	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	2 required for all freshmen	
+               Other	Common Application, the Tufts Supplement, and standardized testing required for freshmen	
+               Financial Need	Financial need is a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank	X				
+               Recommendations	X				
+               Essay	X				
+               Interview			X		
+               Level of Applicant's Interest			X		
+               Extracurricular Activities		X			
+               Volunteer Work		X			
+               ParticularTalent/Ability		X			
+               Character/Personal Qualities	X				
+               First Generation to Attend College			X		
+               State Residency				X	
+               Geographic Residence			X		
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity			X		
+               Work Experience		X			
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	19% of 18,406 applicants were admitted	
+                Women	17% of 10,611 applicants were admitted	
+                Men	21% of  7,795 applicants were admitted	
+               Students Enrolled	1,312 (38%) of 3,469 admitted students enrolled	
+                Women	659 (37%) of 1,803 admitted students enrolled	
+                Men	653 (39%) of 1,666 admitted students enrolled	
+               Early Decision Admission Rate	36% of 1572 applicants were admitted	
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	Not reported	
+               3.75 and Above	Not reported	
+               3.50 - 3.74	Not reported	
+               3.25 - 3.49	Not reported	
+               3.00 - 3.24	Not reported	
+               2.50 - 2.99	Not reported	
+               2.00 - 2.49	Not reported	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	726 average 690-770 range of middle 50%	
+               Score of 700 - 800	75%	
+               Score of 600 - 700	23%	
+               Score of 500 - 600	2%	
+               Score of 400 - 500	0%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	712 average 680-750 range of middle 50%	
+               Score of 700 - 800	65%	
+               Score of 600 - 700	31%	
+               Score of 500 - 600	4%	
+               Score of 400 - 500	0%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Writing	720 average 680-770 range of middle 50%	
+               Score of 700 - 800	68%	
+               Score of 600 - 700	30%	
+               Score of 500 - 600	2%	
+               Score of 400 - 500	0%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	31 average 30-33 range of middle 50%	
+               Score of 30 - 36	80%	
+               Score of 24 - 29	19%	
+               Score of 18 - 23	1%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 91%Top quarter: 99%Top half: 100%	
+               National Merit Scholar	6%	
+               Valedictorian	4%	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
         Will You Get In? Find Out.
         Estimate your chances at
          and see how to improve your odds.
@@ -199,78 +199,78 @@ PROFILE OF FALL ADMISSION
 							I highly encourage applicants not to skip applying to colleges they really...
 							Read Story
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$63,400	
-		         Tuition and Fees	$48,643	
-		         Room and Board	$12,634	
-		         Books and Supplies	$800	
-		         Other Expenses	$1,323	
-		         Payment Plans	Installment plan	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	studentservices@ase.tufts.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	February 15	
-	            Award Notification	On or about April 1	
-	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 002219	Free	
-                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
-	PROFILE OF 
-              2013-14
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	663 (50.5%) of freshmen	
-		        Found to Have Financial Need	503 (75.9%) of applicants	
-		        Received Financial Aid	503 (100.0%) of applicants with financial need	
-		        Need Fully Met	503 (100.0%) of aid recipients	
-		        Average Percent of Need Met	100%	
-		        Average Award	$35,839	
-		        Need-Based Gift	Received by 469 (93.2%) of aid recipients, average amount $34,098	
-		        Need-Based Self-Help	Received by 443 (88.1%) of aid recipients, average amount $3,909	
-		        Merit-Based Gift	Received by 35 (7.0%) of aid recipients	
-		        Merit-Based Gift	35 (2.7%) of freshmen had no financial need and received merit aid, average amount $500	
-	          All Undergraduates
-	            Financial Aid Applicants	2,306 (44.8%) of undergraduates	
-	            Found to Have Financial Need	1,995 (38.7%) of applicants	
-	            Received Financial Aid	1,970 (98.7%) of applicants with financial need	
-	            Need Fully Met	1,970 (100.0%) of aid recipients	
-	            Average Percent of Need Met	100%	
-	            Average Award	$38,008	
-	            Need-Based Gift	Received by 1,863 (94.6%) of aid recipients, average amount $34,853	
-	            Need-Based Self-Help	Received by 1,828 (92.8%) of aid recipients, average amount $5,440	
-	            Merit-Based Gift	Received by 72 (3.7%) of aid recipients	
-	            Merit-Based Gift	72 (1.4%) of undergraduates had no financial need and received merit aid, average amount $500	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	41%	
-                  Average Indebtedness of2013 Graduates	 $24,266	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	9.0%	
-                  Parents of Students NotReceiving Aid	1.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans	College/university loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	None	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Not reported	
-                  Number of Awards	72	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Creative Arts/PerformanceAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special Achievements/ActivitiesAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                  Special CharacteristicsAward Areas	Not reported	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Not reported	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$1,821	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$63,400	
+		         Tuition and Fees	$48,643	
+		         Room and Board	$12,634	
+		         Books and Supplies	$800	
+		         Other Expenses	$1,323	
+		         Payment Plans	Installment plan	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	studentservices@ase.tufts.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	February 15	
+	            Award Notification	On or about April 1	
+	            Methodology for AwardingInstitutional Aid	Federal and Institutional Methodologies	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 002219	Free	
+                    CSS/Financial Aid Profile	$25 for first college, $16 each additional	
+	PROFILE OF 
+              2013-14
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	663 (50.5%) of freshmen	
+		        Found to Have Financial Need	503 (75.9%) of applicants	
+		        Received Financial Aid	503 (100.0%) of applicants with financial need	
+		        Need Fully Met	503 (100.0%) of aid recipients	
+		        Average Percent of Need Met	100%	
+		        Average Award	$35,839	
+		        Need-Based Gift	Received by 469 (93.2%) of aid recipients, average amount $34,098	
+		        Need-Based Self-Help	Received by 443 (88.1%) of aid recipients, average amount $3,909	
+		        Merit-Based Gift	Received by 35 (7.0%) of aid recipients	
+		        Merit-Based Gift	35 (2.7%) of freshmen had no financial need and received merit aid, average amount $500	
+	          All Undergraduates
+	            Financial Aid Applicants	2,306 (44.8%) of undergraduates	
+	            Found to Have Financial Need	1,995 (38.7%) of applicants	
+	            Received Financial Aid	1,970 (98.7%) of applicants with financial need	
+	            Need Fully Met	1,970 (100.0%) of aid recipients	
+	            Average Percent of Need Met	100%	
+	            Average Award	$38,008	
+	            Need-Based Gift	Received by 1,863 (94.6%) of aid recipients, average amount $34,853	
+	            Need-Based Self-Help	Received by 1,828 (92.8%) of aid recipients, average amount $5,440	
+	            Merit-Based Gift	Received by 72 (3.7%) of aid recipients	
+	            Merit-Based Gift	72 (1.4%) of undergraduates had no financial need and received merit aid, average amount $500	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	41%	
+                  Average Indebtedness of2013 Graduates	 $24,266	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	9.0%	
+                  Parents of Students NotReceiving Aid	1.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans	College/university loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	None	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Not reported	
+                  Number of Awards	72	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Creative Arts/PerformanceAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special Achievements/ActivitiesAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                  Special CharacteristicsAward Areas	Not reported	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Not reported	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$1,821	

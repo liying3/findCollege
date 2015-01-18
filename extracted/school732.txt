@@ -5,153 +5,153 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	University of Washington, University of Portland, Santa Clara University, Seattle University, Washington State University, University of San Diego
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is not accepted	
-	    High School Program	College preparatory program is recommended	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English	4		
-           Mathematics	3	4	
-           Science	3	4	
-           Foreign Language	3	4	
-           Social Studies	2	3	
-           History	2	3	
-           Academic Electives	3		
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	February  15	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	Not reported	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	502 East Boone Avenue	
-               City, State, Zip	Spokane,WA99258	
-               Phone	(509) 313-6572	
-               Fax	(509) 324-5780	
-               E-mail	admissions@gonzaga.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	February 1	
-               Application Fee	$50	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	March 15	
-               Accept Offer of Admission	May 1	
-               Waiting List Used	Yes	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	Yes	
-               Early Action Deadline	November 15	
-               Early Action Notification	January 15	
-       Application Form
-               Common Application	Accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	1 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests		X			
-               Class Rank			X		
-               Recommendations		X			
-               Essay		X			
-               Interview			X		
-               Level of Applicant's Interest			X		
-               Extracurricular Activities		X			
-               Volunteer Work			X		
-               ParticularTalent/Ability		X			
-               Character/Personal Qualities	X				
-               First Generation to Attend College	X				
-               State Residency				X	
-               Geographic Residence				X	
-               Relation with Alumnus			X		
-               Religious Affiliation/ Commitment				X	
-               Ethnicity			X		
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	68% of  7,031 applicants were admitted	
-                Women	69% of  3,856 applicants were admitted	
-                Men	68% of  3,175 applicants were admitted	
-               Students Enrolled	1,393 (29%) of 4,790 admitted students enrolled	
-                Women	746 (28%) of 2,644 admitted students enrolled	
-                Men	647 (30%) of 2,146 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate	71% of 3666 applicants were admitted	
-               Students Offered Wait List	     536	
-               Students Accepting Wait List Position	     160	
-               Students Admitted From Wait List	      55	
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	3.73	
-               3.75 and Above	51%	
-               3.50 - 3.74	25%	
-               3.25 - 3.49	18%	
-               3.00 - 3.24	5%	
-               2.50 - 2.99	1%	
-               2.00 - 2.49		
-             SAT Scores of Enrolled Freshmen
-               SAT Math	605 average 560-650 range of middle 50%	
-               Score of 700 - 800	11%	
-               Score of 600 - 700	46%	
-               Score of 500 - 600	40%	
-               Score of 400 - 500	3%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	596 average 540-640 range of middle 50%	
-               Score of 700 - 800	10%	
-               Score of 600 - 700	40%	
-               Score of 500 - 600	44%	
-               Score of 400 - 500	6%	
-               Score of 300 - 400	0%	
-               Score of 200 - 300	0%	
-               SAT Writing	Not reported	
-               Score of 700 - 800	Not reported	
-               Score of 600 - 700	Not reported	
-               Score of 500 - 600	Not reported	
-               Score of 400 - 500	Not reported	
-               Score of 300 - 400	Not reported	
-               Score of 200 - 300	Not reported	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	27 average 25-29 range of middle 50%	
-               Score of 30 - 36	21%	
-               Score of 24 - 29	67%	
-               Score of 18 - 23	12%	
-               Score of 12 - 17	0%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank	Top tenth: 39%Top quarter: 68%Top half: 95%Bottom half: 5%	
-               National Merit Scholar	0%	
-               Valedictorian	Not reported	
-               Class President	10%	
-               Student Government Officer	35%	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is not accepted	
+	    High School Program	College preparatory program is recommended	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English	4		
+           Mathematics	3	4	
+           Science	3	4	
+           Foreign Language	3	4	
+           Social Studies	2	3	
+           History	2	3	
+           Academic Electives	3		
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	February  15	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	Not reported	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	502 East Boone Avenue	
+               City, State, Zip	Spokane,WA99258	
+               Phone	(509) 313-6572	
+               Fax	(509) 324-5780	
+               E-mail	admissions@gonzaga.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	February 1	
+               Application Fee	$50	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	March 15	
+               Accept Offer of Admission	May 1	
+               Waiting List Used	Yes	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	Yes	
+               Early Action Deadline	November 15	
+               Early Action Notification	January 15	
+       Application Form
+               Common Application	Accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	1 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests		X			
+               Class Rank			X		
+               Recommendations		X			
+               Essay		X			
+               Interview			X		
+               Level of Applicant's Interest			X		
+               Extracurricular Activities		X			
+               Volunteer Work			X		
+               ParticularTalent/Ability		X			
+               Character/Personal Qualities	X				
+               First Generation to Attend College	X				
+               State Residency				X	
+               Geographic Residence				X	
+               Relation with Alumnus			X		
+               Religious Affiliation/ Commitment				X	
+               Ethnicity			X		
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	68% of  7,031 applicants were admitted	
+                Women	69% of  3,856 applicants were admitted	
+                Men	68% of  3,175 applicants were admitted	
+               Students Enrolled	1,393 (29%) of 4,790 admitted students enrolled	
+                Women	746 (28%) of 2,644 admitted students enrolled	
+                Men	647 (30%) of 2,146 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate	71% of 3666 applicants were admitted	
+               Students Offered Wait List	     536	
+               Students Accepting Wait List Position	     160	
+               Students Admitted From Wait List	      55	
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	3.73	
+               3.75 and Above	51%	
+               3.50 - 3.74	25%	
+               3.25 - 3.49	18%	
+               3.00 - 3.24	5%	
+               2.50 - 2.99	1%	
+               2.00 - 2.49		
+             SAT Scores of Enrolled Freshmen
+               SAT Math	605 average 560-650 range of middle 50%	
+               Score of 700 - 800	11%	
+               Score of 600 - 700	46%	
+               Score of 500 - 600	40%	
+               Score of 400 - 500	3%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	596 average 540-640 range of middle 50%	
+               Score of 700 - 800	10%	
+               Score of 600 - 700	40%	
+               Score of 500 - 600	44%	
+               Score of 400 - 500	6%	
+               Score of 300 - 400	0%	
+               Score of 200 - 300	0%	
+               SAT Writing	Not reported	
+               Score of 700 - 800	Not reported	
+               Score of 600 - 700	Not reported	
+               Score of 500 - 600	Not reported	
+               Score of 400 - 500	Not reported	
+               Score of 300 - 400	Not reported	
+               Score of 200 - 300	Not reported	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	27 average 25-29 range of middle 50%	
+               Score of 30 - 36	21%	
+               Score of 24 - 29	67%	
+               Score of 18 - 23	12%	
+               Score of 12 - 17	0%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank	Top tenth: 39%Top quarter: 68%Top half: 95%Bottom half: 5%	
+               National Merit Scholar	0%	
+               Valedictorian	Not reported	
+               Class President	10%	
+               Student Government Officer	35%	
 			1/20
-What the School Says...
-Gonzaga University is in Spokane, Washington, a city of 208,000 people (609,000 in the metropolitan area) that serves as the financial, medical, and cultural center of the Inland Northwest. Gonzaga's grass-covered, 131-acre campus has 105 buildings on the north bank of the beautiful Spokane River. The city offers vast opportunities for students to pursue their interests, such as internships with local businesses or any of the multitude of outdoor activities characteristic of the magnificent Pacific Northwest. Gonzaga's educational philosophy is based on the centuries-old Ignatian model of educating the whole person: mind, body, and spirit. At Gonzaga, students discover how to integrate science and art, faith and reason, action and contemplation. "Cura personalis," or care for the whole person, guides the University curriculum and environment.
-What the School Says...
-Gonzaga takes a holistic approach to admission by reviewing academic measures, student involvement, and citizenship. Gonzaga looks for motivated students who will benefit from the University's challenging academic programs and will positively contribute to the campus with extracurricular achievement, community involvement, and diverse personal interests. Apply by submitting the Common Application by February 1, including the Application Supplement. Gonzaga also offers a non-binding Early Action deadline of November 15.
-What the School Says...
-To apply for merit-based financial aid, submit the Application for Admission by February 1. Based on this information, the Admission Office will determine eligibility for merit-based scholarships that can range from $3,500 to $15,500 per year. To apply for need-based financial aid, submit the Free Application for Federal Student Aid (FAFSA) by February 1. Gonzaga also has numerous scholarships for incoming students that require a separate application. The University guarantees your Gonzaga-funded scholarships, and grants will not decrease if you maintain satisfactory academic standing during your continuous, full-time, four-year undergraduate enrollment.
-What the School Says...
-The academic heart of Gonzaga's liberal arts tradition lies in its core curriculum, which integrates philosophy, theology, history, mathematics, literature, and the natural and social sciences. A common thread throughout all of these disciplines is the value of the written word; students at Gonzaga carry out extensive writing projects throughout all of their courses of study. Gonzaga offers seven undergraduate degrees in over 45 majors. The average undergraduate class size is 23 and the student-to-faculty ratio is 11:1. Gonzaga also offers study abroad programs in over 35 countries, including its longest-running and most popular program, Gonzaga-in-Florence.
-What the School Says...
-When asked about the "best" part of being a Zag, many current students will talk about the community. Much of that community begins in the residence halls. Due to Gonzaga's residency requirement, 97.5 percent of first-year students and 88 percent of second-year students live on campus. While housing is not guaranteed for upper division students, some of them continue living on campus in apartments or Gonzaga-owned houses. Together, this represents almost 3,000 residents living in over 25 unique residential communities. Students will find their experiences with GU exciting and inclusive. Gonzaga currently has over 100 active and recognized student clubs that cover a wide range of interests.
-What the School Says...
+What the School Says...
+Gonzaga University is in Spokane, Washington, a city of 208,000 people (609,000 in the metropolitan area) that serves as the financial, medical, and cultural center of the Inland Northwest. Gonzaga's grass-covered, 131-acre campus has 105 buildings on the north bank of the beautiful Spokane River. The city offers vast opportunities for students to pursue their interests, such as internships with local businesses or any of the multitude of outdoor activities characteristic of the magnificent Pacific Northwest. Gonzaga's educational philosophy is based on the centuries-old Ignatian model of educating the whole person: mind, body, and spirit. At Gonzaga, students discover how to integrate science and art, faith and reason, action and contemplation. "Cura personalis," or care for the whole person, guides the University curriculum and environment.
+What the School Says...
+Gonzaga takes a holistic approach to admission by reviewing academic measures, student involvement, and citizenship. Gonzaga looks for motivated students who will benefit from the University's challenging academic programs and will positively contribute to the campus with extracurricular achievement, community involvement, and diverse personal interests. Apply by submitting the Common Application by February 1, including the Application Supplement. Gonzaga also offers a non-binding Early Action deadline of November 15.
+What the School Says...
+To apply for merit-based financial aid, submit the Application for Admission by February 1. Based on this information, the Admission Office will determine eligibility for merit-based scholarships that can range from $3,500 to $15,500 per year. To apply for need-based financial aid, submit the Free Application for Federal Student Aid (FAFSA) by February 1. Gonzaga also has numerous scholarships for incoming students that require a separate application. The University guarantees your Gonzaga-funded scholarships, and grants will not decrease if you maintain satisfactory academic standing during your continuous, full-time, four-year undergraduate enrollment.
+What the School Says...
+The academic heart of Gonzaga's liberal arts tradition lies in its core curriculum, which integrates philosophy, theology, history, mathematics, literature, and the natural and social sciences. A common thread throughout all of these disciplines is the value of the written word; students at Gonzaga carry out extensive writing projects throughout all of their courses of study. Gonzaga offers seven undergraduate degrees in over 45 majors. The average undergraduate class size is 23 and the student-to-faculty ratio is 11:1. Gonzaga also offers study abroad programs in over 35 countries, including its longest-running and most popular program, Gonzaga-in-Florence.
+What the School Says...
+When asked about the "best" part of being a Zag, many current students will talk about the community. Much of that community begins in the residence halls. Due to Gonzaga's residency requirement, 97.5 percent of first-year students and 88 percent of second-year students live on campus. While housing is not guaranteed for upper division students, some of them continue living on campus in apartments or Gonzaga-owned houses. Together, this represents almost 3,000 residents living in over 25 unique residential communities. Students will find their experiences with GU exciting and inclusive. Gonzaga currently has over 100 active and recognized student clubs that cover a wide range of interests.
+What the School Says...
 Gonzaga enjoys a strong retention rate of over 90 percent (93.4 percent in 2011) and a 73 percent four-year graduation rate for the 2008 cohort (an 80.9 percent five-year graduation rate for the 2007 cohort).  Gonzaga offers extracurricular and co-curricular opportunities that invite students to take an active role in shaping their own college experience. In taking responsibility for their journey, and contributing to their environment at Gonzaga, students learn leadership, critical thinking, and other skills that will make them valuable resources in their future communities and professional roles. To support career development, the ZagTrax.net website offers information about jobs, internships, networking and recruiting events, and mentors. The Gonzaga Alumni Mentor Program (GAMP) matches students with GU alumni and friends of the University.  Students connect one-on-one with their mentors, and GAMP provides larger networking opportunities in Spokane and a number of other cities.
         Will You Get In? Find Out.
         Estimate your chances at
@@ -207,77 +207,77 @@ Gonzaga enjoys a strong retention rate of over 90 percent (93.4 percent in 2011)
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$50,520	
-		         Tuition and Fees	$36,600	
-		         Room and Board	$9,580	
-		         Books and Supplies	$1,074	
-		         Other Expenses	$3,266	
-		         Payment Plans	Credit card, installment plan, deferred payment	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail		
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline February 1 Final deadline June 30	
-	            Award Notification	On a rolling basis beginning March 1	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 003778	Free	
-	PROFILE OF 
-              2012-13
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	956 (87.2%) of freshmen	
-		        Found to Have Financial Need	681 (71.2%) of applicants	
-		        Received Financial Aid	681 (100.0%) of applicants with financial need	
-		        Need Fully Met	192 (28.2%) of aid recipients	
-		        Average Percent of Need Met	81%	
-		        Average Award	$23,576	
-		        Need-Based Gift	Received by 679 (99.7%) of aid recipients, average amount $18,469	
-		        Need-Based Self-Help	Received by 504 (74.0%) of aid recipients, average amount $5,496	
-		        Merit-Based Gift	Received by 153 (22.5%) of aid recipients	
-		        Merit-Based Gift	385 (35.1%) of freshmen had no financial need and received merit aid, average amount $10,109	
-	          All Undergraduates
-	            Financial Aid Applicants	3,557 (75.9%) of undergraduates	
-	            Found to Have Financial Need	2,798 (59.7%) of applicants	
-	            Received Financial Aid	2,794 (99.9%) of applicants with financial need	
-	            Need Fully Met	658 (23.6%) of aid recipients	
-	            Average Percent of Need Met	78%	
-	            Average Award	$24,721	
-	            Need-Based Gift	Received by 2,781 (99.5%) of aid recipients, average amount $18,575	
-	            Need-Based Self-Help	Received by 1,978 (70.8%) of aid recipients, average amount $6,899	
-	            Merit-Based Gift	Received by 509 (18.2%) of aid recipients	
-	            Merit-Based Gift	1,755 (37.4%) of undergraduates had no financial need and received merit aid, average amount $11,727	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	63%	
-                  Average Indebtedness of2013 Graduates	 $32,347	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	7.0%	
-                  Parents of Students NotReceiving Aid	1.0%	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans, Federal Nursing loans	
-                  State Loans	Available	
-                  Other Loans	College/university loans	
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Athletic scholarships, Minority scholarships, ROTC scholarships, Alumni affiliation scholarships, Leadership scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Business, Engineering/Technologies, Military Science	
-                  Number of Awards	138	
-                  Top Areas (By MoneyAwarded)	Business, Military Science, Engineering/Technologies	
-                  Creative Arts/PerformanceAward Areas	Debating, Music	
-                  Number of Awards	91	
-                  Top Areas (By MoneyAwarded)	Music, Debating	
-                  Special Achievements/ActivitiesAward Areas	Leadership, Memberships	
-                  Number of Awards	210	
-                  Top Areas (By MoneyAwarded)	Memberships, Leadership	
-                  Special CharacteristicsAward Areas	Children and Siblings of Alumni, Children of Faculty/Staff, International Students, Members of Minorities, Siblings of Current Students	
-                  Number of Awards	378	
-                  Top Areas (By MoneyAwarded)	Children of Faculty/Staff, Children and Siblings of Alumni, Siblings of Current Students, Members of Minorities, International Students	
-                Employment
-                  Work-Study Programs	Federal work study available, other work study available	
-                  Average Earnings fromOn-Campus Employment	$2,648	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$50,520	
+		         Tuition and Fees	$36,600	
+		         Room and Board	$9,580	
+		         Books and Supplies	$1,074	
+		         Other Expenses	$3,266	
+		         Payment Plans	Credit card, installment plan, deferred payment	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail		
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline February 1 Final deadline June 30	
+	            Award Notification	On a rolling basis beginning March 1	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 003778	Free	
+	PROFILE OF 
+              2012-13
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	956 (87.2%) of freshmen	
+		        Found to Have Financial Need	681 (71.2%) of applicants	
+		        Received Financial Aid	681 (100.0%) of applicants with financial need	
+		        Need Fully Met	192 (28.2%) of aid recipients	
+		        Average Percent of Need Met	81%	
+		        Average Award	$23,576	
+		        Need-Based Gift	Received by 679 (99.7%) of aid recipients, average amount $18,469	
+		        Need-Based Self-Help	Received by 504 (74.0%) of aid recipients, average amount $5,496	
+		        Merit-Based Gift	Received by 153 (22.5%) of aid recipients	
+		        Merit-Based Gift	385 (35.1%) of freshmen had no financial need and received merit aid, average amount $10,109	
+	          All Undergraduates
+	            Financial Aid Applicants	3,557 (75.9%) of undergraduates	
+	            Found to Have Financial Need	2,798 (59.7%) of applicants	
+	            Received Financial Aid	2,794 (99.9%) of applicants with financial need	
+	            Need Fully Met	658 (23.6%) of aid recipients	
+	            Average Percent of Need Met	78%	
+	            Average Award	$24,721	
+	            Need-Based Gift	Received by 2,781 (99.5%) of aid recipients, average amount $18,575	
+	            Need-Based Self-Help	Received by 1,978 (70.8%) of aid recipients, average amount $6,899	
+	            Merit-Based Gift	Received by 509 (18.2%) of aid recipients	
+	            Merit-Based Gift	1,755 (37.4%) of undergraduates had no financial need and received merit aid, average amount $11,727	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	63%	
+                  Average Indebtedness of2013 Graduates	 $32,347	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	7.0%	
+                  Parents of Students NotReceiving Aid	1.0%	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans, Federal Nursing loans	
+                  State Loans	Available	
+                  Other Loans	College/university loans	
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Music/Drama scholarships, Athletic scholarships, Minority scholarships, ROTC scholarships, Alumni affiliation scholarships, Leadership scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Business, Engineering/Technologies, Military Science	
+                  Number of Awards	138	
+                  Top Areas (By MoneyAwarded)	Business, Military Science, Engineering/Technologies	
+                  Creative Arts/PerformanceAward Areas	Debating, Music	
+                  Number of Awards	91	
+                  Top Areas (By MoneyAwarded)	Music, Debating	
+                  Special Achievements/ActivitiesAward Areas	Leadership, Memberships	
+                  Number of Awards	210	
+                  Top Areas (By MoneyAwarded)	Memberships, Leadership	
+                  Special CharacteristicsAward Areas	Children and Siblings of Alumni, Children of Faculty/Staff, International Students, Members of Minorities, Siblings of Current Students	
+                  Number of Awards	378	
+                  Top Areas (By MoneyAwarded)	Children of Faculty/Staff, Children and Siblings of Alumni, Siblings of Current Students, Members of Minorities, International Students	
+                Employment
+                  Work-Study Programs	Federal work study available, other work study available	
+                  Average Earnings fromOn-Campus Employment	$2,648	

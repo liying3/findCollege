@@ -5,153 +5,153 @@
     College Overlaps
 		Students interested in this college are also interested in:
 	    	Hofstra University, Adelphi University, St. John's University, Stony Brook University, Pace University, Hunter College
-	FRESHMAN ADMISSION REQUIREMENTS
-        	Entrance Difficulty
-            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
-			High School Preparation
-	    High School Graduation	High school diploma required and GED is accepted	
-	    High School Program	College preparatory program is recommended	
-       High School Units Required or Recommended
-           Subject	Required Units	Recommended Units	
-           English		4	
-           Mathematics		3	
-           Science		3	
-           Foreign Language		2	
-           Social Studies			
-           History		2	
-           Academic Electives			
-       Examinations
-           Exam		Scores Due in Admissions Office	
-           SAT or ACT	Required	Not reported	
-           SAT Only			
-           ACT Only			
-           SAT and SAT Subject Tests, or ACT			
-           SAT Subject Tests Only			
-           ACT Writing Test Policy	Accepted with or without writing component	
-           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
-   APPLYING FOR ADMISSION 
-       Admissions Office
-               Address	720 Northern Boulevard	
-               City, State, Zip	Brookville,NY11548-1300	
-               Phone	(516) 299-2900	
-               Fax		
-               E-mail	post-enroll@liu.edu	
-       Application Dates and Fees
-               Regular Admission Deadline	Rolling	
-               Application Fee	$50	
-               Application Fee Waiver	Available	
-               Regular Admission Notification	Rolling	
-               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
-               Waiting List Used	No	
-               Defer Admission	Student can defer admission	
-               Transfer Admission	Transfer applications accepted	
-       Early Admission
-               Early Decision Offered	No	
-               Early Decision Deadline		
-               Early Decision Notification		
-               Early Action Offered	No	
-               Early Action Deadline		
-               Early Action Notification		
-       Application Form
-               Common Application	Accepted	
-               Universal College Application	Not accepted	
-               Electronic Application	
-               Available
-       Other Application Requirements
-               Interview	Not required	
-               Essay or PersonalStatement	Required for all freshmen	
-               Letters ofRecommendation	1 required for all freshmen	
-               Other		
-               Financial Need	Financial need is not a consideration in the admissions process	
-       SELECTION OF STUDENTS
-               Factor	Very Important	Important	Considered	Not Considered	
-               Rigor of Secondary School Record	X				
-               Academic GPA	X				
-               Standardized Tests	X				
-               Class Rank				X	
-               Recommendations		X			
-               Essay		X			
-               Interview			X		
-               Level of Applicant's Interest			X		
-               Extracurricular Activities			X		
-               Volunteer Work			X		
-               ParticularTalent/Ability			X		
-               Character/Personal Qualities				X	
-               First Generation to Attend College				X	
-               State Residency				X	
-               Geographic Residence				X	
-               Relation with Alumnus				X	
-               Religious Affiliation/ Commitment				X	
-               Ethnicity				X	
-               Work Experience			X		
-PROFILE OF FALL ADMISSION
-               Overall Admission Rate	81% of  6,006 applicants were admitted	
-                Women	81% of  3,710 applicants were admitted	
-                Men	80% of  2,296 applicants were admitted	
-               Students Enrolled	1,096 (23%) of 4,844 admitted students enrolled	
-                Women	666 (22%) of 3,016 admitted students enrolled	
-                Men	430 (24%) of 1,828 admitted students enrolled	
-               Early Decision Admission Rate		
-               Early Action Admission Rate		
-               Students Offered Wait List		
-               Students Accepting Wait List Position		
-               Students Admitted From Wait List		
-             Grade Point Average of Enrolled Freshmen (4.0 scale)
-               Average GPA	2.9	
-               3.75 and Above	10%	
-               3.50 - 3.74	13%	
-               3.25 - 3.49	12%	
-               3.00 - 3.24	22%	
-               2.50 - 2.99	27%	
-               2.00 - 2.49	14%	
-             SAT Scores of Enrolled Freshmen
-               SAT Math	492 average 440-540 range of middle 50%	
-               Score of 700 - 800	1%	
-               Score of 600 - 700	8%	
-               Score of 500 - 600	40%	
-               Score of 400 - 500	41%	
-               Score of 300 - 400	10%	
-               Score of 200 - 300	0%	
-               SAT Critical Reading	481 average 440-520 range of middle 50%	
-               Score of 700 - 800	0%	
-               Score of 600 - 700	5%	
-               Score of 500 - 600	33%	
-               Score of 400 - 500	54%	
-               Score of 300 - 400	7%	
-               Score of 200 - 300	1%	
-               SAT Writing	478 average 430-530 range of middle 50%	
-               Score of 700 - 800	1%	
-               Score of 600 - 700	6%	
-               Score of 500 - 600	33%	
-               Score of 400 - 500	48%	
-               Score of 300 - 400	11%	
-               Score of 200 - 300	1%	
-             ACT Scores of Enrolled Freshmen
-               ACT Composite	22 average 19-24 range of middle 50%	
-               Score of 30 - 36	3%	
-               Score of 24 - 29	22%	
-               Score of 18 - 23	65%	
-               Score of 12 - 17	10%	
-               Score of 6 - 11	0%	
-               Score of 5 or Below	0%	
-             Other Qualifications of Enrolled Freshmen
-               High School Class Rank		
-               National Merit Scholar	Not reported	
-               Valedictorian	Not reported	
-               Class President	Not reported	
-               Student Government Officer	Not reported	
+	FRESHMAN ADMISSION REQUIREMENTS
+        	Entrance Difficulty
+            		Moderately Difficult: More than 75% of freshmen were in the top 50% of their high school class and scored over 1010 on the SAT I or over 18 on the ACT; about 85% or fewer of all applicants accepted.	
+			High School Preparation
+	    High School Graduation	High school diploma required and GED is accepted	
+	    High School Program	College preparatory program is recommended	
+       High School Units Required or Recommended
+           Subject	Required Units	Recommended Units	
+           English		4	
+           Mathematics		3	
+           Science		3	
+           Foreign Language		2	
+           Social Studies			
+           History		2	
+           Academic Electives			
+       Examinations
+           Exam		Scores Due in Admissions Office	
+           SAT or ACT	Required	Not reported	
+           SAT Only			
+           ACT Only			
+           SAT and SAT Subject Tests, or ACT			
+           SAT Subject Tests Only			
+           ACT Writing Test Policy	Accepted with or without writing component	
+           Use of SAT/ACT Essay	SAT: Not used ACT: Not used 	
+   APPLYING FOR ADMISSION 
+       Admissions Office
+               Address	720 Northern Boulevard	
+               City, State, Zip	Brookville,NY11548-1300	
+               Phone	(516) 299-2900	
+               Fax		
+               E-mail	post-enroll@liu.edu	
+       Application Dates and Fees
+               Regular Admission Deadline	Rolling	
+               Application Fee	$50	
+               Application Fee Waiver	Available	
+               Regular Admission Notification	Rolling	
+               Accept Offer of Admission	By May 1 or within 2 weeks if notified after May 1 	
+               Waiting List Used	No	
+               Defer Admission	Student can defer admission	
+               Transfer Admission	Transfer applications accepted	
+       Early Admission
+               Early Decision Offered	No	
+               Early Decision Deadline		
+               Early Decision Notification		
+               Early Action Offered	No	
+               Early Action Deadline		
+               Early Action Notification		
+       Application Form
+               Common Application	Accepted	
+               Universal College Application	Not accepted	
+               Electronic Application	
+               Available
+       Other Application Requirements
+               Interview	Not required	
+               Essay or PersonalStatement	Required for all freshmen	
+               Letters ofRecommendation	1 required for all freshmen	
+               Other		
+               Financial Need	Financial need is not a consideration in the admissions process	
+       SELECTION OF STUDENTS
+               Factor	Very Important	Important	Considered	Not Considered	
+               Rigor of Secondary School Record	X				
+               Academic GPA	X				
+               Standardized Tests	X				
+               Class Rank				X	
+               Recommendations		X			
+               Essay		X			
+               Interview			X		
+               Level of Applicant's Interest			X		
+               Extracurricular Activities			X		
+               Volunteer Work			X		
+               ParticularTalent/Ability			X		
+               Character/Personal Qualities				X	
+               First Generation to Attend College				X	
+               State Residency				X	
+               Geographic Residence				X	
+               Relation with Alumnus				X	
+               Religious Affiliation/ Commitment				X	
+               Ethnicity				X	
+               Work Experience			X		
+PROFILE OF FALL ADMISSION
+               Overall Admission Rate	81% of  6,006 applicants were admitted	
+                Women	81% of  3,710 applicants were admitted	
+                Men	80% of  2,296 applicants were admitted	
+               Students Enrolled	1,096 (23%) of 4,844 admitted students enrolled	
+                Women	666 (22%) of 3,016 admitted students enrolled	
+                Men	430 (24%) of 1,828 admitted students enrolled	
+               Early Decision Admission Rate		
+               Early Action Admission Rate		
+               Students Offered Wait List		
+               Students Accepting Wait List Position		
+               Students Admitted From Wait List		
+             Grade Point Average of Enrolled Freshmen (4.0 scale)
+               Average GPA	2.9	
+               3.75 and Above	10%	
+               3.50 - 3.74	13%	
+               3.25 - 3.49	12%	
+               3.00 - 3.24	22%	
+               2.50 - 2.99	27%	
+               2.00 - 2.49	14%	
+             SAT Scores of Enrolled Freshmen
+               SAT Math	492 average 440-540 range of middle 50%	
+               Score of 700 - 800	1%	
+               Score of 600 - 700	8%	
+               Score of 500 - 600	40%	
+               Score of 400 - 500	41%	
+               Score of 300 - 400	10%	
+               Score of 200 - 300	0%	
+               SAT Critical Reading	481 average 440-520 range of middle 50%	
+               Score of 700 - 800	0%	
+               Score of 600 - 700	5%	
+               Score of 500 - 600	33%	
+               Score of 400 - 500	54%	
+               Score of 300 - 400	7%	
+               Score of 200 - 300	1%	
+               SAT Writing	478 average 430-530 range of middle 50%	
+               Score of 700 - 800	1%	
+               Score of 600 - 700	6%	
+               Score of 500 - 600	33%	
+               Score of 400 - 500	48%	
+               Score of 300 - 400	11%	
+               Score of 200 - 300	1%	
+             ACT Scores of Enrolled Freshmen
+               ACT Composite	22 average 19-24 range of middle 50%	
+               Score of 30 - 36	3%	
+               Score of 24 - 29	22%	
+               Score of 18 - 23	65%	
+               Score of 12 - 17	10%	
+               Score of 6 - 11	0%	
+               Score of 5 or Below	0%	
+             Other Qualifications of Enrolled Freshmen
+               High School Class Rank		
+               National Merit Scholar	Not reported	
+               Valedictorian	Not reported	
+               Class President	Not reported	
+               Student Government Officer	Not reported	
 			1/10
-What the School Says...
-When you enroll at LIU Post, you become part of a close-knit community that is dedicated to helping you realize your full potential through a well-rounded liberal arts education. We are located just 27 miles west of the heart of NYC's Times Square, in Brookville, New York, a city ranked as one of the top places to live in America by Business Week. We enroll 8,700 undergraduate and graduate students from 42 states and 50 countries. Our 300-acre campus includes practice fields, tennis courts, and Long Island's only collegiate equestrian center. Students enjoy free access to the Pratt Recreation Center, an $18.5 million facility featuring basketball and volleyball courts, a heated swimming pool, 200-meter indoor running track, racquetball courses, and an exercise and fitness room. 
-What the School Says...
-The Admissions Committee evaluates your academic achievements and the curricular rigor of your academic history, your leadership potential, the depth of your participation in community service, extracurricular activities, and your overall interest in attending LIU Post. Freshmen applications for fall admission are accepted beginning December 1. 
-What the School Says...
-LIU Post is committed to making a quality, private education affordable. Eighty-five percent of our students receive financial assistance to help meet college expenses. LIU Post's experienced financial aid counselors will work closely with you and your family to make sure you receive the highest amount of aid possible. Financial aid is available in the form of scholarships, grants, and loans. Our free College Affordability and FAFSA Workshops are a great starting point. Held each winter, they are the ideal venues to help you determine the best way to plan the financing of your education.
-What the School Says...
-LIU Post is a doctoral-level institution of higher learning comprising five schools and colleges, nationally accredited degree programs, distinguished centers and institutes, a renowned research library, and a full-time faculty of over 300 scholars, researchers, scientists, artists, and humanitarians. LIU Post offers a full range of undergraduate and graduate programs in business, education, liberal arts and sciences, health professions and nursing, information and computer science, and visual and performing arts. Academic programs are accredited by the Commission of Higher Education of the Middle States Association of Colleges and Secondary Schools. Various other academic programs are accredited by professional organizations, signifying they meet the highest standards of educational quality. 
-What the School Says...
-Whether you live on campus or commute, LIU Post offers a variety of resources to help you get involved, meet academic and personal goals, excel academically, and start your career, all in a safe, comfortable and inclusive environment. With nearly 100 student clubs and organizations, an active Greek Life, and a bustling recreation center, you won't run out of things to do! Meeting new people and friends will come easy. LIU Post has 15 varsity teams that compete in NCAA athletics and is ranked one of the best Division II athletic programs in the country. In fall 2012 we broke ground on a new stadium.
-What the School Says...
+What the School Says...
+When you enroll at LIU Post, you become part of a close-knit community that is dedicated to helping you realize your full potential through a well-rounded liberal arts education. We are located just 27 miles west of the heart of NYC's Times Square, in Brookville, New York, a city ranked as one of the top places to live in America by Business Week. We enroll 8,700 undergraduate and graduate students from 42 states and 50 countries. Our 300-acre campus includes practice fields, tennis courts, and Long Island's only collegiate equestrian center. Students enjoy free access to the Pratt Recreation Center, an $18.5 million facility featuring basketball and volleyball courts, a heated swimming pool, 200-meter indoor running track, racquetball courses, and an exercise and fitness room. 
+What the School Says...
+The Admissions Committee evaluates your academic achievements and the curricular rigor of your academic history, your leadership potential, the depth of your participation in community service, extracurricular activities, and your overall interest in attending LIU Post. Freshmen applications for fall admission are accepted beginning December 1. 
+What the School Says...
+LIU Post is committed to making a quality, private education affordable. Eighty-five percent of our students receive financial assistance to help meet college expenses. LIU Post's experienced financial aid counselors will work closely with you and your family to make sure you receive the highest amount of aid possible. Financial aid is available in the form of scholarships, grants, and loans. Our free College Affordability and FAFSA Workshops are a great starting point. Held each winter, they are the ideal venues to help you determine the best way to plan the financing of your education.
+What the School Says...
+LIU Post is a doctoral-level institution of higher learning comprising five schools and colleges, nationally accredited degree programs, distinguished centers and institutes, a renowned research library, and a full-time faculty of over 300 scholars, researchers, scientists, artists, and humanitarians. LIU Post offers a full range of undergraduate and graduate programs in business, education, liberal arts and sciences, health professions and nursing, information and computer science, and visual and performing arts. Academic programs are accredited by the Commission of Higher Education of the Middle States Association of Colleges and Secondary Schools. Various other academic programs are accredited by professional organizations, signifying they meet the highest standards of educational quality. 
+What the School Says...
+Whether you live on campus or commute, LIU Post offers a variety of resources to help you get involved, meet academic and personal goals, excel academically, and start your career, all in a safe, comfortable and inclusive environment. With nearly 100 student clubs and organizations, an active Greek Life, and a bustling recreation center, you won't run out of things to do! Meeting new people and friends will come easy. LIU Post has 15 varsity teams that compete in NCAA athletics and is ranked one of the best Division II athletic programs in the country. In fall 2012 we broke ground on a new stadium.
+What the School Says...
 LIU Post students have a world of opportunities at their fingertips. Study abroad, honors education, undergraduate research, career services, sports, clubs, and social causes combine with a supportive community dedicated to seeing you succeed and stay on track toward graduation. Our student body consists of a wide range of personalities, cultures, talents, and interests. Together, our community creates an atmosphere that is diverse, challenging, and full of cultural experiences. Our students have a history of being leaders in the classroom and beyond. There are thousands of LIU Post graduates in important positions all over the world, doing exciting work in many fields such as medicine, teaching, business, health care, arts management, and much more!
         Will You Get In? Find Out.
         Estimate your chances at
@@ -207,78 +207,78 @@ LIU Post students have a world of opportunities at their fingertips. Study abroa
 	              Peterson's Undergraduate and Undergraduate Financial Aid Databases,
 	              copyright  2014 Peterson's, a Nelnet company. All rights reserved.
 	        	Videos
-	TUITION AND EXPENSES
-		         Cost of Attendance	$52,160	
-		         Tuition and Fees	$34,852	
-		         Room and Board	$12,808	
-		         Books and Supplies	$2,000	
-		         Other Expenses	$2,500	
-		         Payment Plans	Credit card, installment plan, deferred payment	
-	APPLYING FOR FINANCIAL AID
-			  Financial Aid Office
-	              E-mail	finaid@cwpost.liu.edu	
-	              Web Site	Financial Aid Web Site	
-                  Net Price Calculator URL	
-                                Net Price Calculator URL
-	          Application Process
-	            Application Deadline	Priority deadline March 15	
-	            Award Notification	On a rolling basis beginning March 15	
-	            Methodology for AwardingInstitutional Aid	Federal Methodology	
-	            Forms Required	Cost to File	
-                    FAFSA Code is 002751	Free	
-                    State Aid Form		
-	PROFILE OF 
-              2012-13
-             FINANCIAL AID 
-		      Freshmen
-		        Financial Aid Applicants	866 (90.3%) of freshmen	
-		        Found to Have Financial Need	749 (86.5%) of applicants	
-		        Received Financial Aid	742 (99.1%) of applicants with financial need	
-		        Need Fully Met	121 (16.3%) of aid recipients	
-		        Average Percent of Need Met	58%	
-		        Average Award	$20,680	
-		        Need-Based Gift	Received by 510 (68.7%) of aid recipients, average amount $8,469	
-		        Need-Based Self-Help	Received by 443 (59.7%) of aid recipients, average amount $3,252	
-		        Merit-Based Gift	Received by 550 (74.1%) of aid recipients	
-		        Merit-Based Gift	146 (15.2%) of freshmen had no financial need and received merit aid, average amount $14,286	
-	          All Undergraduates
-	            Financial Aid Applicants	3,292 (83.7%) of undergraduates	
-	            Found to Have Financial Need	2,858 (72.7%) of applicants	
-	            Received Financial Aid	2,825 (98.8%) of applicants with financial need	
-	            Need Fully Met	358 (12.7%) of aid recipients	
-	            Average Percent of Need Met	56%	
-	            Average Award	$19,034	
-	            Need-Based Gift	Received by 2,063 (73.0%) of aid recipients, average amount $8,006	
-	            Need-Based Self-Help	Received by 1,949 (69.0%) of aid recipients, average amount $4,254	
-	            Merit-Based Gift	Received by 1,862 (65.9%) of aid recipients	
-	            Merit-Based Gift	490 (12.5%) of undergraduates had no financial need and received merit aid, average amount $12,206	
-              	Borrowing
-                  2013 Graduates WhoTook Out Loans	Not reported	
-                  Average Indebtedness of2013 Graduates	Not reported	
-                  Parents Borrowing PLUS Loans		
-                  Parents of StudentsReceiving Aid	Not reported	
-                  Parents of Students NotReceiving Aid	Not reported	
-    FINANCIAL AID PROGRAMS
-                Loans
-                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
-                  State Loans		
-                  Other Loans		
-                Scholarships and Grants
-                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
-                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, Alumni affiliation scholarships, Leadership scholarships	
-                Non-Need Awards
-                  Academic Interest/AchievementAward Areas	Biological Sciences, Business, Computer Science, Education, Health Fields, International Studies, Mathematics	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Biological Sciences, Business, Computer Science, Mathematics, Health Fields, International Studies, Education	
-                  Creative Arts/PerformanceAward Areas	Art/Fine Arts, Cinema/Film/Broadcasting, Dance, Journalism/Publications, Music, Performing Arts, Theater/Drama	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Art/Fine Arts, Cinema/Film/Broadcasting, Dance, Theater/Drama, Music, Performing Arts, Journalism/Publications	
-                  Special Achievements/ActivitiesAward Areas	Leadership	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Leadership	
-                  Special CharacteristicsAward Areas	Adult Students, Children and Siblings of Alumni, Children of Faculty/Staff, International Students, Siblings of Current Students, Veterans, Veterans' Children	
-                  Number of Awards	Not reported	
-                  Top Areas (By MoneyAwarded)	Adult Students, Children of Faculty/Staff, Children and Siblings of Alumni, Veterans' Children, Siblings of Current Students, Veterans, International Students	
-                Employment
-                  Work-Study Programs	Federal work study available	
-                  Average Earnings fromOn-Campus Employment	$1,824	
+	TUITION AND EXPENSES
+		         Cost of Attendance	$52,160	
+		         Tuition and Fees	$34,852	
+		         Room and Board	$12,808	
+		         Books and Supplies	$2,000	
+		         Other Expenses	$2,500	
+		         Payment Plans	Credit card, installment plan, deferred payment	
+	APPLYING FOR FINANCIAL AID
+			  Financial Aid Office
+	              E-mail	finaid@cwpost.liu.edu	
+	              Web Site	Financial Aid Web Site	
+                  Net Price Calculator URL	
+                                Net Price Calculator URL
+	          Application Process
+	            Application Deadline	Priority deadline March 15	
+	            Award Notification	On a rolling basis beginning March 15	
+	            Methodology for AwardingInstitutional Aid	Federal Methodology	
+	            Forms Required	Cost to File	
+                    FAFSA Code is 002751	Free	
+                    State Aid Form		
+	PROFILE OF 
+              2012-13
+             FINANCIAL AID 
+		      Freshmen
+		        Financial Aid Applicants	866 (90.3%) of freshmen	
+		        Found to Have Financial Need	749 (86.5%) of applicants	
+		        Received Financial Aid	742 (99.1%) of applicants with financial need	
+		        Need Fully Met	121 (16.3%) of aid recipients	
+		        Average Percent of Need Met	58%	
+		        Average Award	$20,680	
+		        Need-Based Gift	Received by 510 (68.7%) of aid recipients, average amount $8,469	
+		        Need-Based Self-Help	Received by 443 (59.7%) of aid recipients, average amount $3,252	
+		        Merit-Based Gift	Received by 550 (74.1%) of aid recipients	
+		        Merit-Based Gift	146 (15.2%) of freshmen had no financial need and received merit aid, average amount $14,286	
+	          All Undergraduates
+	            Financial Aid Applicants	3,292 (83.7%) of undergraduates	
+	            Found to Have Financial Need	2,858 (72.7%) of applicants	
+	            Received Financial Aid	2,825 (98.8%) of applicants with financial need	
+	            Need Fully Met	358 (12.7%) of aid recipients	
+	            Average Percent of Need Met	56%	
+	            Average Award	$19,034	
+	            Need-Based Gift	Received by 2,063 (73.0%) of aid recipients, average amount $8,006	
+	            Need-Based Self-Help	Received by 1,949 (69.0%) of aid recipients, average amount $4,254	
+	            Merit-Based Gift	Received by 1,862 (65.9%) of aid recipients	
+	            Merit-Based Gift	490 (12.5%) of undergraduates had no financial need and received merit aid, average amount $12,206	
+              	Borrowing
+                  2013 Graduates WhoTook Out Loans	Not reported	
+                  Average Indebtedness of2013 Graduates	Not reported	
+                  Parents Borrowing PLUS Loans		
+                  Parents of StudentsReceiving Aid	Not reported	
+                  Parents of Students NotReceiving Aid	Not reported	
+    FINANCIAL AID PROGRAMS
+                Loans
+                  Federal Loans	Direct subsidized Stafford loans, direct unsubsidized Stafford loans, direct PLUS loans, Federal Perkins loans	
+                  State Loans		
+                  Other Loans		
+                Scholarships and Grants
+                  Need-Based Available	Federal Pell grants, SEOG, State scholarships, Institutional scholarships, Private scholarships	
+                  Non-NeedBased Available	Academic scholarships, Creative arts/performance scholarships, Music/Drama scholarships, Athletic scholarships, Alumni affiliation scholarships, Leadership scholarships	
+                Non-Need Awards
+                  Academic Interest/AchievementAward Areas	Biological Sciences, Business, Computer Science, Education, Health Fields, International Studies, Mathematics	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Biological Sciences, Business, Computer Science, Mathematics, Health Fields, International Studies, Education	
+                  Creative Arts/PerformanceAward Areas	Art/Fine Arts, Cinema/Film/Broadcasting, Dance, Journalism/Publications, Music, Performing Arts, Theater/Drama	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Art/Fine Arts, Cinema/Film/Broadcasting, Dance, Theater/Drama, Music, Performing Arts, Journalism/Publications	
+                  Special Achievements/ActivitiesAward Areas	Leadership	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Leadership	
+                  Special CharacteristicsAward Areas	Adult Students, Children and Siblings of Alumni, Children of Faculty/Staff, International Students, Siblings of Current Students, Veterans, Veterans' Children	
+                  Number of Awards	Not reported	
+                  Top Areas (By MoneyAwarded)	Adult Students, Children of Faculty/Staff, Children and Siblings of Alumni, Veterans' Children, Siblings of Current Students, Veterans, International Students	
+                Employment
+                  Work-Study Programs	Federal work study available	
+                  Average Earnings fromOn-Campus Employment	$1,824	
