@@ -3,6 +3,7 @@ import re
 class College():
 	def __init__(self):
 		self.Name=' '
+		self.ID=' '
 		
 		self.EntranceDifficulty_val=-1
 		self.EntranceDifficulty_Des=' '
@@ -118,6 +119,13 @@ class College():
 		self.RoomAndBoard=0
 		self.BooksAndSupplies=0
 		self.OtherExpenses=0
+		
+		self.BusinessRank=500
+		self.EducationRank=500
+		self.EngineeringRank=500
+		self.HealthRank=500
+		
+		
 		#print self
 		
 	def Extract(self, fileName,outfile):
@@ -132,6 +140,18 @@ class College():
 					if ff[0]=='Address':
 						self.Address= ' '.join(ff[1:])
 						#print self.Address
+					elif len(ff)>2 and ff[0]=='Education' and ff[1]=='Rank:':
+						self.EducationRank=int(ff[2].split(';')[0])
+						#print self.Name+' '.join(ff)
+					elif len(ff)>2 and ff[0]=='Business' and ff[1]=='Rank:':
+						self.BusinessRank=int(ff[2].split(';')[0])
+						#print self.Name+' '.join(ff)
+					elif len(ff)>2 and ff[0]=='Engineering' and ff[1]=='Rank:':
+						self.EngineeringRank=int(ff[2].split(';')[0])
+						#print self.Name+' '.join(ff)
+					elif len(ff)>2 and ff[0]=='Health' and ff[1]=='Rank:':
+						self.HealthRank=int(ff[2].split(';')[0])
+						#print self.Name+' '.join(ff)
 					elif self.Name=='NEXT_LINE':
 						self.Name=' '.join(ff)
 						#print(self.Name)
@@ -186,6 +206,68 @@ class College():
 				#output.write(line)
 		
 		
+#
+#
+#ff=open('RankHealth\Business.txt','r')
+#rank=1
+#for line in ff:
+#	if line[0]!='#':
+#		continue;
+#	ss=line.split(';')
+#	if ss[1] in colleges.keys():
+#		#colleges[ss[1]].Business=rank
+#		fl=open('extracted\school'+colleges[ss[1]].ID+'.txt','a')
+#		fl.write('Business Rank: '+str(rank)+';\n')
+#		fl.close()
+#		print 'extracted\school'+colleges[ss[1]].ID+'.txt'+'Business Rank: '+str(rank)
+#	rank+=1
+#ff.close()
+#
+#ff=open('RankHealth\EducationRank.txt','r')
+#rank=1
+#for line in ff:
+#	if line[0]!='#':
+#		continue;
+#	ss=line.split(';')
+#	if ss[1] in colleges.keys():
+#		#colleges[ss[1]].Business=rank
+#		fl=open('extracted\school'+colleges[ss[1]].ID+'.txt','a')
+#		fl.write('Education Rank: '+str(rank)+';\n')
+#		fl.close()
+#		print 'extracted\school'+colleges[ss[1]].ID+'.txt'+'Education Rank: '+str(rank)
+#	rank+=1
+#ff.close()
+#
+#ff=open('RankHealth\EngineeringRank.txt','r')
+#rank=1
+#for line in ff:
+#	if line[0]!='#':
+#		continue;
+#	ss=line.split(';')
+#	if ss[1] in colleges.keys():
+#		#colleges[ss[1]].Business=rank
+#		fl=open('extracted\school'+colleges[ss[1]].ID+'.txt','a')
+#		fl.write('Engineering Rank: '+str(rank)+';\n')
+#		fl.close()
+#		print 'extracted\school'+colleges[ss[1]].ID+'.txt'+'Engineering Rank: '+str(rank)
+#	rank+=1
+#ff.close()
+#
+#ff=open('RankHealth\HealthRank.txt','r')
+#rank=1
+#for line in ff:
+#	if line[0]!='#':
+#		continue;
+#	ss=line.split(';')
+#	if ss[1] in colleges.keys():
+#		#colleges[ss[1]].Business=rank
+#		fl=open('extracted\school'+colleges[ss[1]].ID+'.txt','a')
+#		fl.write('Health Rank: '+str(rank)+';\n')
+#		fl.close()
+#		print 'extracted\school'+colleges[ss[1]].ID+'.txt'+'Health Rank: '+str(rank)
+#	rank+=1
+#ff.close()
+#
 
 
 #for i in range (0, 3335):	
