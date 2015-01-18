@@ -52,7 +52,7 @@ $( document ).ready(function() {
 			for (var i = 0; i < cols.length-1; i++)
 			{
 			    var t = cols[i].split('&');
-			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5], img:t[6]};
+			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5], img:t[6], webURL:t[7]};
 				colleges[i] = col;
 				codeAddress(i, colleges[i]['name']);
 			}
@@ -77,7 +77,26 @@ $( document ).ready(function() {
 		$('#cGPA').text(colleges[i]['aGPA']);
 	}
 
+    //sort table
+	function addTableColId() {
+	    var colI = -2;
+	    $('#result-table th').each(function () {
+	        $(this).attr('id', 'col'+colI);
+	        colI++;
+	    });
+	}
+	addTableColId();
+	$('#result-table th').click(function () {
+	    console.log($(this).attr('id'));
+	    //colleges.sort(function (a, b) {
+	    //    var alc = a.name.toLowerCase(), blc = b.name.toLowerCase();
+	    //    return alc > blc ? 1 : alc < blc ? -1 : 0;
+	    //});
+	    var sorting = [];
 
+	    removeAllRows(); //todo
+
+	});
 
 
 	function fillTable() {

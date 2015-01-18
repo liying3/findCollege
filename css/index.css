@@ -44,9 +44,6 @@ h2 {
 
     margin: 0 10px 0 30px;
 }
-#result-table tr th{
-  padding:15px 10px 15px 10px;  
-}
 #panel {     
     position: absolute;     
     top: 5px;     
