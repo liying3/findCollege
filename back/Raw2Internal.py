@@ -63,7 +63,7 @@ class College():
 		self.StudentAdFromWaitList=0
 		
 		#self.GradePointAverageofEnrolledFreshmen#4.0 scale
-		self.AverageGPA=0
+		self.AverageGPA=2.0
 		self.AverageGPAAB375=0
 		self.AverageGPAAB350=0
 		self.AverageGPAAB325=0
@@ -72,7 +72,7 @@ class College():
 		self.AverageGPAAB200=0
 		self.AverageGPABL200=0
 		
-		self.SAT_MATHAverage=0
+		self.SAT_MATHAverage=600
 		self.SAT_MATHMID50=''
 		self.SAT_MATHAB700=0
 		self.SAT_MATHAB600=0
@@ -81,7 +81,7 @@ class College():
 		self.SAT_MATHAB300=0
 		self.SAT_MATHAB200=0
 		
-		self.SAT_ReadingAverage=0
+		self.SAT_ReadingAverage=600
 		self.SAT_ReadingMID50=''
 		self.SAT_ReadingAB700=0
 		self.SAT_ReadingAB600=0
@@ -90,7 +90,7 @@ class College():
 		self.SAT_ReadingAB300=0
 		self.SAT_ReadingAB200=0
 		
-		self.SAT_WritingAverage=0
+		self.SAT_WritingAverage=600
 		self.SAT_WritingMID50=''
 		self.SAT_WritingAB700=0
 		self.SAT_WritingAB600=0
