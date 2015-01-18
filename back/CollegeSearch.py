@@ -100,13 +100,9 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
                 print(pcolleges[i].aSAT)
                 print(pcolleges[i].chance)
                 print(pcolleges[i].filename)
-<<<<<<< HEAD
-
-=======
->>>>>>> 52a49895f5e9ff612da33ba9006e9ac06f372098
 
         elif len(str(Locations))==3:
-            if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000:
+            if pcolleges[i].tuition>=int(Tuition) and pcolleges[i].tuition<=int(Tuition)+10000:
                 print(pcolleges[i].name)
                 print(pcolleges[i].loc)
                 print(pcolleges[i].tuition)
@@ -114,11 +110,6 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
                 print(pcolleges[i].aSAT)
                 print(pcolleges[i].chance)
                 print(pcolleges[i].filename)
-<<<<<<< HEAD
-
-=======
->>>>>>> 52a49895f5e9ff612da33ba9006e9ac06f372098
-
     return
 
 def CalculateOverall(chance, tuition, rank):

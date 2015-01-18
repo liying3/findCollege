@@ -7,13 +7,6 @@
 	$Locations = $_POST['loc'];
 	$Tuition = $_POST['tuition'];
 	$Concentration = $_POST['major'];
-  
-  $SAT = 1200;
-	$GPA = 3.5;
-	$TopPercentage = 10;
-	$Locations = "PA";
-	$Tuition = 10000;
-	$Concentration = "Engineering";
  
   $GLOBALS['colleges'] = ["The University of Pennsylvania", "Pennsylvania", 60000, 2100, 3.66,5.0,2,"Stanford University", "California", 70000, 2300, 3.80,4.0,2,"Drexel University", "Pennsylvania", 50000, 1800, 3.00,3.0,2];
 
