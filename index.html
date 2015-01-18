@@ -8,6 +8,8 @@
   <script src="js/index.js"></script>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/index.css">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+
   </head>
   <body>
    <input type="checkbox" name="toggle" id="toggle" />
@@ -87,76 +89,18 @@
     </div-->
       <div class="clear">
         <div id="map-canvas"></div>
-        <div id="sch-content">
-            <table class="table table-condensed table-hover table-striped" id="result-table">
+          <table class="table table-condensed table-hover table-striped" id="result-table">
                 <tr>
                     <th>#</th><th>Name</th><th>Location</th><th>Tuition</th><th>GPA</th><th>SAT</th><th>Chance</th>
                 </tr>
             </table>
-          <h1>haha</h1>
-          <p>
-             <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "200px", height = "200px"><br>
-            Name of school: <span id="cName"></span><br>
-            Location: <span id="cLoc"></span><br>
-            Tuition: <span id="cTuition"></span><br>
-		    SAT: <span id="cSAT"></span><br>
-		    GPA: <span id="cGPA"></span><br>
-          </p>
-        </div>
     </div>
-     <div class = "the-table" style = "position:absolute;left:850px;top:150px;padding:15px">
-        <table>
-        <tr class = "row1">
-          <td>Jill</td>
-          <td>Smith</td> 
-          <td>50</td>
-        </tr>
-        <tr class = "row2">
-          <td>Eve</td>
-          <td>Jackson</td> 
-          <td>94</td>
-        </tr>
-        <tr class = "row3">
-          <td>haha</td>
-          <td>du</td> 
-          <td>100</td>
-        </tr>
-        <tr class = "row4">
-          <td>tutu</td>
-          <td>du</td> 
-          <td>0</td>
-        </tr>
-      </table>
+    <div id="accordion" style = "position:absolute; left:650px; top:140px;width:700px">
     </div>
-        <div id = "hidden" class = "message2" style = "position:absolute;left:850px;top:150px;display:none">
-          <p>
-          Name of school: <br>
-          Location: <br>
-          Tuition: <br>
-          SAT: <br>
-          GPA: <br>
-        </p>
-      </div>
-    <div id="sch-content">
-        <table class="table" id="result-table" >
-            <tr>
-                <th>Name</th><th>Location</th><th>Tuition</th><th>GPA</th><th>SAT</th><th>Chance</th>
-            </tr>
-
-        </table>
-      <h1>haha</h1>
-        <p>
-           <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "200px", height = "200px"><br>
-          Name of school: <span id="cName"></span><br>
-          Location: <span id="cLoc"></span><br>
-          Tuition: <span id="cTuition"></span><br>
-      		SAT: <span id="cSAT"></span><br>
-      		GPA: <span id="cGPA"></span><br>
-        </p>
 
     <div id="img-preview">
         <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "100px", height = "100px">
-        text
+        <span id = "name-preview"></span>
     </div>
   </div>
   </body>
