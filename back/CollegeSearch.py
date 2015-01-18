@@ -1,7 +1,9 @@
 import sys
 import os.path
+import operator
+import Raw2Internal
 
-class College:
+class PCollege:
     Count = 0
     
     def __init__(self, name="N/A", loc="N/A", tuition=0, aSAT=1, aGPA=1):
@@ -11,43 +13,95 @@ class College:
         self.aSAT = aSAT
         self.aGPA = aGPA
         self.chance = 0
-        College.Count += 1
+        PCollege.Count += 1
         
-college1 = College("The University of Pennsylvania", "Pennsylvania", 60000, 2100, 3.66)
-college2 = College("Stanford University", "California", 70000, 2300, 3.80)
-college3 = College("Drexel University", "Pennsylvania", 50000, 1800, 3.00)
+college1 = PCollege("The University of Pennsylvania", "Pennsylvania", 60000, 2100, 3.66)
+college2 = PCollege("Stanford University", "California", 70000, 2300, 3.80)
+college3 = PCollege("Drexel University", "Pennsylvania", 50000, 1800, 3.00)
 
-colleges = [college1, college2, college3];
+pcolleges = [college1, college2, college3];
 
 def ReadCollegeFiles():
-    for i in range(6,3340):
-        filename = "../infoRaw/school" + str(i) + ".txt"
-        if os.path.isfile(filename):
-            colleges.append(College(str(i+10000), "Pennsylvania", 50000, i, 3.00))
+    #test=College()		
+    for i in range(6,3341):
+        test=Raw2Internal.College()
+        try:
+            test.Extract('../infoRaw/school'+str(i)+'.txt',  '../extracted/school'+str(i)+'.txt')
+            aGPA = 2.0
+            if 'N' in str(test.AverageGPA):
+                aGPA = 2.0
+            else:
+                aGPA = float(test.AverageGPA)
+            #print(test.Name)
+            #print(test.State)
+            #print("Phone: ",test.Phone)
+            #print("Tuition: ", test.TuitionFee)
+            #print("Cost: ",test.CostOfAttendance)
+            
+            #print(aGPA)  
+            satMath = str(test.SAT_MATHAverage)[:3]
+            satReading = str(test.SAT_ReadingAverage)[:3]
+            satWriting = str(test.SAT_WritingAverage)[:3]
+
+            finalSAT = GetScore(satMath, 600) + GetScore(satReading, 600) + GetScore(satWriting, 600)
+            finalCost = GetCost(test.CostOfAttendance, 10000)
+            #print(finalSAT)
+            #print(finalCost)
+            pcolleges.append(PCollege(test.Name, test.State, int(finalCost), finalSAT, aGPA))
+        except ValueError:
+            #print("Error: Readfile")
+            pass
 
     return
 
+def GetScore(s, val):
+    if 'N' in s:
+        return val
+    else:
+        return int(s)
+
+def GetCost(s, val):
+    if 'N' in s:
+        return val
+    else:
+        s1 = s[1:]
+        s2 = s1.split(',',1)
+        s3 = s2[0] + s2[1]
+        return int(s3)
+
+
 def SortCollege(pref1, pref2, pref3):
+    try:
+        pcolleges.sort(key=operator.attrgetter(pref1))
+    except ValueError:
+        print("Error: SortCollege")
     return
 
 def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration ):
     #print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
 
-    for i in range(len(colleges)):
-        print( colleges[i].name);
-        print( colleges[i].loc);
-        print( colleges[i].tuition);
-        print( colleges[i].aGPA);
-        print( colleges[i].aSAT);
-        chance = CalculateChance(SAT, GPA, TopPercentage, colleges[i].aSAT, colleges[i].aGPA)
-        print( chance);
+    for i in range(len(pcolleges)):
+    
+        if pcolleges[i].loc in Locations:
+            print(pcolleges[i].name);
+            print(pcolleges[i].loc);
+            print(pcolleges[i].tuition);
+            print(pcolleges[i].aGPA);
+            print(pcolleges[i].aSAT);
+            chance = CalculateChance(SAT, GPA, TopPercentage, pcolleges[i].aSAT, pcolleges[i].aGPA)
+            print("Chance: ", chance ,"\n");
         
     return;
 
+
 def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
-    return ( 0.35 * int(SAT)/int(aSAT) + 0.35 * float(GPA)/float(aGPA) + 0.3 * (1-float(TopPercentage))/100) * 100;
+    try:
+        return ( 0.35 * int(SAT)/int(aSAT) + 0.35 * float(GPA)/float(aGPA) + 0.3 * (1-float(TopPercentage))/100) * 100
+    except ValueError:
+        return 0.5;
     
 ReadCollegeFiles();
+#SortCollege('chance','123','123')
 FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6]);
 
     
