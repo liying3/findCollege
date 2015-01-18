@@ -46,6 +46,7 @@ $( document ).ready(function() {
 		  },
         });   
 	});
+
 	function showDetailInfo(i)
 	{
 		$('#cName').text(colleges[i]['name']);
@@ -60,11 +61,32 @@ $( document ).ready(function() {
 	    //$('#myTable').append('<tr><td>my data</td><td>more data</td></tr>');
 	}
 
+   function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+
     //drag and drop
 	$("#sortable").sortable();
 	$("#sortable").disableSelection();
 	
     //google map
+
+    $(".row1").click(function(){
+      $(".row2").slideToggle(500);
+      toggle_visibility("hidden");
+    });
+
+     $(".row2").click(function(){
+      $(".row3").slideToggle(500);
+    });
+
+    $(".row3").click(function(){
+      $(".row4").slideToggle(500);
+    });
 
 	  var markers = [];
        var map;      
