@@ -13,10 +13,10 @@
 	echo FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration);
 	
 	function FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration) {
-    exec("C:\Python34\python CollegeSearch.py" ." " .$SAT . " ". $GPA. " ".  $TopPercentage. " ".  $Locations. " ".  $Tuition. " ".  $Concentration, $output);
+    //exec("C:\Python34\python CollegeSearch.py" ." " .$SAT . " ". $GPA. " ".  $TopPercentage. " ".  $Locations. " ".  $Tuition. " ".  $Concentration, $output);
     //var_dump($output);
-    return getString($output);
-    //return getString($GLOBALS['colleges']);
+    //return getString($output);
+    return getString($GLOBALS['colleges']);
 	}
 	
 	function getString($out)
