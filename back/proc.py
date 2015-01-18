@@ -1,3 +1,5 @@
+import sys
+
 class College:
     Count = 0
     
@@ -26,11 +28,12 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
             print("Location: ", colleges[i].loc);
             print("Chance: ", CalculateChance(SAT, GPA, TopPercentage, colleges[i].aSAT, colleges[i].aGPA),"\n");
         
-    return;
+    return 1;
 
 def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
-    return ( 0.35 * SAT/aSAT + 0.35 * GPA/aGPA + 0.3 * (1-TopPercentage)/100) * 100;
+    return ( 0.35 * int(SAT)/int(aSAT) + 0.35 * float(GPA)/float(aGPA) + 0.3 * (1-float(TopPercentage))/100) * 100;
     
 
-FindBestColleges(SAT=1900, GPA=4.0, TopPercentage=20, Locations="Pennsylvania", Tuition=100000, Concentration="Engineering");
+FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6]);
+
     
