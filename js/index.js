@@ -42,10 +42,11 @@ $( document ).ready(function() {
 				colleges[i] = col;
 				codeAddress(i, colleges[i]['name']);
 			}
+			fillTable();
 		  },
         });   
 	});
-	function showColInfo(i)
+	function showDetailInfo(i)
 	{
 		$('#cName').text(colleges[i]['name']);
 		$('#cLoc').text(colleges[i]['loc']);
@@ -54,11 +55,14 @@ $( document ).ready(function() {
 		$('#cGPA').text(colleges[i]['aGPA']);
 	}
 
+	function fillTable() {
+	    //$('#result-table').
+	    //$('#myTable').append('<tr><td>my data</td><td>more data</td></tr>');
+	}
+
     //drag and drop
-	$(function () {
-	    $("#sortable").sortable();
-	    $("#sortable").disableSelection();
-	});
+	$("#sortable").sortable();
+	$("#sortable").disableSelection();
 	
     //google map
 
@@ -91,7 +95,7 @@ $( document ).ready(function() {
              google.maps.event.addListener(markers[i], 'click', function(key) {
                 return function() {
                 $("#sch-content").css("display", "block");
-                showColInfo(key);
+                showDetailInfo(key);
               }
             }(i));
 

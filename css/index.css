@@ -123,3 +123,7 @@ body{
     background-color: #181818;
     text-align: left;
 }
+.ui-state-default > .input-group > .input-group-addon
+{
+    cursor:pointer;
+}
