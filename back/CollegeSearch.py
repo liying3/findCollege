@@ -7,7 +7,7 @@ import time
 class PCollege:
     Count = 0
     
-    def __init__(self, name=" ", loc=" ", tuition=0, aSAT=1, aGPA=1, fn=" ", chance=0, overall=0, website = ' '):
+    def __init__(self, name=" ", loc=" ", tuition=0, aSAT=1, aGPA=1, fn=" ", chance=0, overall=0):
         self.name = name
         self.loc = loc
         self.tuition = tuition
@@ -16,7 +16,6 @@ class PCollege:
         self.chance = chance
         self.filename = fn
         self.overall = overall
-        self.website = website
         PCollege.Count += 1
         
 pcolleges = [];
@@ -101,7 +100,7 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
                 print(pcolleges[i].aSAT)
                 print(pcolleges[i].chance)
                 print(pcolleges[i].filename)
-                print(pcolleges[i].website)
+
 
         elif len(Locations)==3:
             if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000:
@@ -112,7 +111,7 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
                 print(pcolleges[i].aSAT)
                 print(pcolleges[i].chance)
                 print(pcolleges[i].filename)
-                print(pcolleges[i].website)
+
 
     return
 

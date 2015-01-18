@@ -45,14 +45,12 @@ $( document ).ready(function() {
           url: "back/proc.php",
 		  data: { sat: sat, gpa: gpa, percentage: percentage, loc:loc, tuition:tuition, major:major},
 		  success: function (data, status) {
-              
 		      console.log(data);
 		      var cols = data.split(';');
-		      console.log(cols.length);
 			for (var i = 0; i < cols.length-1; i++)
 			{
 			    var t = cols[i].split('&');
-			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5], img:t[6], webURL:t[7]};
+			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5], img:t[6]};
 				colleges[i] = col;
 				codeAddress(i, colleges[i]['name']);
 			}
@@ -87,15 +85,45 @@ $( document ).ready(function() {
 	}
 	addTableColId();
 	$('#result-table th').click(function () {
-	    console.log($(this).attr('id'));
-	    //colleges.sort(function (a, b) {
-	    //    var alc = a.name.toLowerCase(), blc = b.name.toLowerCase();
-	    //    return alc > blc ? 1 : alc < blc ? -1 : 0;
-	    //});
-	    var sorting = [];
+	    var colI = $(this).attr('id').substring(3, 4);
+	    var newColleges = [];
+	    for (var i = 0; i < colleges.length; i++)
+	        newColleges[i] = colleges[i];
+	    switch (colI) {
+	        case 0:
+	            newColleges.sort(function (a, b) {
+	                var alc = a['name'].toLowerCase(), blc = b['name'].toLowerCase();
+	                return alc > blc ? 1 : alc < blc ? -1 : 0;
+	            });
+	            break;
+	        case 1:
+	            break;
+	        case 2:
+	            break;
+	        case 3:
+	            break;
+	        case 4:
+	            break;
+	        case 5:
+	            break;
+	        default:
+	            break;
+	    }
 
-	    removeAllRows(); //todo
 
+	    $('#accordion').html('');
+	    for (var i = 0; i < newColleges.length; i++) {5
+	        var newTable = '<table><tr><td width="5%">' + String(i + 1) + '</td><td width="230px">' + confineLength(newColleges[i]['name'], 28) + '</td><td width="60px">' + newColleges[i]['loc'] + '</td><td width="60px">' + newColleges[i]['tuition'] + '</td><td width="9%">' + newColleges[i]['aGPA'] + '</td><td width="80px">' + newColleges[i]['aSAT'] + '</td><td width="auto">' + parseFloat(newColleges[i]['chance']).toFixed(2) + '%</td></tr></table>';
+	        var newDetail = '<p><img src = "pics/' + newColleges[i]['img'] + '.jpg" width = "200px", height = "200px"><br>Name of school: ' + newColleges[i]['name'] + '<br>Location: ' + newColleges[i]['loc'] + '<br>Tuition: ' + newColleges[i]['tuition'] + '<br>SAT: ' + newColleges[i]['aSAT'] + '<br>GPA: ' + newColleges[i]['aGPA'] + '<br></p>';
+	        var newItem = '<div id = c' + i + '> ' + newTable + '</div><div>' + newDetail + '</div>';
+	        $('#accordion').append(newItem).accordion('destroy').accordion();
+	        //var newRow = '<tr id=c' + i + ' ><td >' + String(i+1) + '</td><td>' + colleges[i]['name'] + '</td><td>' + colleges[i]['loc'] + '</td><td>' + colleges[i]['tuition'] + '</td><td>' + colleges[i]['aGPA'] + '</td><td>' + colleges[i]['aSAT'] + '</td><td>' + colleges[i]['chance'] + '</td></tr>';
+	        //$('#result-table').append(newRow);
+	    }
+	    $("#accordion").accordion("refresh");
+	    $("#accordion").accordion({
+	        collapsible: true
+	    });
 	});
 
 
