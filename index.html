@@ -25,14 +25,14 @@
   			<label class="sr-only">SAT</label>
   			<div class="input-group">
   				<div class="input-group-addon">SAT</div>
-  				<input class="form-control input-sm" id="sat" name="sat" placeholder="600-2400">
+  				<input class="form-control input-sm" id="sat" name="sat" placeholder="< 2400">
   			</div>
   		  </div>
   		  <div class="form-group col-md-2">
   			<label class="sr-only">GPA</label>
   			<div class="input-group">
   				<div class="input-group-addon">GPA</div>
-  				<input class="form-control input-sm" id="gpa" name="gpa" placeholder="<4.00">
+  				<input class="form-control input-sm" id="gpa" name="gpa" placeholder="< 4.00">
   			</div>
   		  </div>
   		  <div class="form-group col-md-3">
@@ -47,7 +47,7 @@
   			<div class="input-group">
   			<div class="input-group-addon">location</div>
   			 <select class="form-control input-sm" id="location" name="location">
-                   <option></option>
+                   <option>All</option>
                    <option>AL</option><option>AK</option><option>AZ</option><option>AR</option><option>CA</option><option>CO</option><option>CT</option><option>DE</option><option>FL</option>
   				   <option>GA</option><option>HI</option><option>ID</option><option>IL</option><option>IN</option><option>IA</option><option>KS</option><option>KY</option><option>LA</option>
                    <option>ME</option><option>MD</option><option>MA</option><option>MI</option><option>MN</option><option>MS</option><option>MO</option><option>MT</option><option>NE</option>
@@ -63,9 +63,9 @@
         <ul id="sortable" class="row">
             <li class="form-group col-md-2 ui-state-default" id="tuition-pri">
   			<div class="input-group">
-  			    <div class="input-group-addon">tuition $</div>
+  			    <div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Tuition $</div>
                   <select class="form-control input-sm" id="tuition" name="tuition">
-                    <option></option>
+                    <option>All</option>
   					<option>5000-4000</option>
   					<option>40000-30000</option>
   					<option>30000-20000</option>
@@ -76,8 +76,14 @@
           </li>
           <li class="form-group col-md-3 ui-state-default" id="major-pri">
               <div class="input-group">
-  				<div class="input-group-addon">Concentration</div>
-  				<input class="form-control input-sm" id="major" name="major">
+  				<div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Concentration</div>
+                <select class="form-control input-sm" id="major" name="major">
+                    <option>All</option>
+  					<option>Engineering</option>
+  					<option>Education</option>
+  					<option>Business</option>
+  					<option>Health</option>
+                </select>
   			</div>
           </li>
         </ul>

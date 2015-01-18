@@ -2,17 +2,19 @@ import sys
 import os.path
 import operator
 import Raw2Internal
+import time
 
 class PCollege:
     Count = 0
     
-    def __init__(self, name="N/A", loc="N/A", tuition=0, aSAT=1, aGPA=1):
+    def __init__(self, name="N/A", loc="N/A", tuition=0, aSAT=1, aGPA=1, fn="N/A"):
         self.name = name
         self.loc = loc
         self.tuition = tuition
         self.aSAT = aSAT
         self.aGPA = aGPA
         self.chance = 0
+        self.filename = fn
         PCollege.Count += 1
         
 college1 = PCollege("The University of Pennsylvania", "Pennsylvania", 60000, 2100, 3.66)
@@ -24,9 +26,12 @@ pcolleges = [college1, college2, college3];
 def ReadCollegeFiles():
     #test=College()		
     for i in range(6,3341):
-        test=Raw2Internal.College()
         try:
-            test.Extract('../infoRaw/school'+str(i)+'.txt',  '../extracted/school'+str(i)+'.txt')
+            test=Raw2Internal.College()
+            fn = 'school'+str(i)
+            test.Extract('../extracted/school'+str(i)+'.txt',  '../extracted/school'+str(i)+'.txt')
+            #if test.Name=='':
+            #    break
             aGPA = 2.0
             if 'N' in str(test.AverageGPA):
                 aGPA = 2.0
@@ -47,7 +52,7 @@ def ReadCollegeFiles():
             finalCost = GetCost(str(test.CostOfAttendance), 10000)
             #print(finalSAT)
             #print(finalCost)
-            pcolleges.append(PCollege(test.Name, test.State, int(finalCost), finalSAT, aGPA))
+            pcolleges.append(PCollege(test.Name, test.State, int(finalCost), finalSAT, aGPA, fn))
         except ValueError:
             #print("Error: Readfile")
             pass
@@ -74,14 +79,14 @@ def SortCollege(pref1, pref2, pref3):
     try:
         pcolleges.sort(key=operator.attrgetter(pref1))
     except ValueError:
-        print("Error: SortCollege")
+        pass
     return
 
 def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration ):
     #print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
 
     for i in range(len(pcolleges)):
-        if pcolleges[i].loc in Locations:
+        if  len(pcolleges[i].loc)==2:
             print(pcolleges[i].name)
             print(pcolleges[i].loc)
             print(pcolleges[i].tuition)
@@ -89,6 +94,7 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
             print(pcolleges[i].aSAT)
             pcolleges[i].chance = CalculateChance(SAT, GPA, TopPercentage, pcolleges[i].aSAT, pcolleges[i].aGPA)
             print(pcolleges[i].chance)
+            print(pcolleges[i].filename)
         
     return
 
@@ -101,6 +107,9 @@ def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
     
 ReadCollegeFiles()
 #SortCollege('chance','123','123')
-FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6]);
+
+
+FindBestColleges(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6])
+
 
     

@@ -2,18 +2,18 @@ import re
 
 class College():
 	def __init__(self):
-		self.Name=''
+		self.Name=' '
 		
 		self.EntranceDifficulty_val=-1
-		self.EntranceDifficulty_Des=''
+		self.EntranceDifficulty_Des=' '
 		
-		self.Address=''
-		self.City=''
-		self.State=''
-		self.Zip=''
-		self.Phone=''
-		self.Fax=''
-		self.Email=''
+		self.Address=' '
+		self.City=' '
+		self.State=' '
+		self.Zip=' '
+		self.Phone=' '
+		self.Fax=' '
+		self.Email=' '
 		
 		#-1 for not initialized
 		#0 for Not Considered, 3 for very important
@@ -63,7 +63,7 @@ class College():
 		self.StudentAdFromWaitList=0
 		
 		#self.GradePointAverageofEnrolledFreshmen#4.0 scale
-		self.AverageGPA=0
+		self.AverageGPA=2.0
 		self.AverageGPAAB375=0
 		self.AverageGPAAB350=0
 		self.AverageGPAAB325=0
@@ -72,7 +72,7 @@ class College():
 		self.AverageGPAAB200=0
 		self.AverageGPABL200=0
 		
-		self.SAT_MATHAverage=0
+		self.SAT_MATHAverage=600
 		self.SAT_MATHMID50=''
 		self.SAT_MATHAB700=0
 		self.SAT_MATHAB600=0
@@ -81,7 +81,7 @@ class College():
 		self.SAT_MATHAB300=0
 		self.SAT_MATHAB200=0
 		
-		self.SAT_ReadingAverage=0
+		self.SAT_ReadingAverage=600
 		self.SAT_ReadingMID50=''
 		self.SAT_ReadingAB700=0
 		self.SAT_ReadingAB600=0
@@ -90,7 +90,7 @@ class College():
 		self.SAT_ReadingAB300=0
 		self.SAT_ReadingAB200=0
 		
-		self.SAT_WritingAverage=0
+		self.SAT_WritingAverage=600
 		self.SAT_WritingMID50=''
 		self.SAT_WritingAB700=0
 		self.SAT_WritingAB600=0
@@ -122,10 +122,11 @@ class College():
 		
 	def Extract(self, fileName,outfile):
 		f=open(fileName,'r')
-		output=open(outfile,'w')
+		#output=open(outfile,'w')
 		for line in f:
-			if len(line)>0 and re.match(r"\s*\S\s*",line)!=None:
+			if len(line)>0: #and re.match(r"\s*\S\s*",line)!=None:
 				ff=line.split()
+				#print(ff)
 
 				if len(ff)>0:
 					if ff[0]=='Address':
@@ -133,7 +134,7 @@ class College():
 						#print self.Address
 					elif self.Name=='NEXT_LINE':
 						self.Name=' '.join(ff)
-						#print self.Name
+						#print(self.Name)
 					elif ff[0]=='Save':
 						self.Name='NEXT_LINE';
 					elif ff[0]=='Phone':
@@ -161,8 +162,7 @@ class College():
 						self.ACT_CompositeAvr=ff[2]
 						#print self.ACT_CompositeAvr
 					elif len(ff)>3 and ff[0]=='Cost' and ff[2]=='Attendance':
-						self.CostOfAttendance=' '.join(ff[3:])
-						
+						self.CostOfAttendance=' '.join(ff[3:])						
 					elif len(ff)>3 and ff[0]=='Tuition' and ff[2]=='Fees':
 						self.TuitionFee=' '.join(ff[3:])
 						#print("self###", self.TuitionFee)
@@ -183,7 +183,7 @@ class College():
 						if mm!=None:
 							#print mm.group(0)
 							self.State=mm.group(0)
-				output.write(line)
+				#output.write(line)
 		
 		
 
