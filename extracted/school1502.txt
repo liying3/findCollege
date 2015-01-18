@@ -316,3 +316,6 @@ Georgia Southern.
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$1,628	
+Business Rank: 440;
+Education Rank: 308;
+Health Rank: 362;

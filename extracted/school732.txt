@@ -281,3 +281,7 @@ Gonzaga enjoys a strong retention rate of over 90 percent (93.4 percent in 2011)
                 Employment
                   Work-Study Programs	Federal work study available, other work study available	
                   Average Earnings fromOn-Campus Employment	$2,648	
+Business Rank: 60;
+Education Rank: 62;
+Engineering Rank: 141;
+Health Rank: 123;

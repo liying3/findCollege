@@ -1,0 +1,2181 @@
+school6;	Bryn Athyn College
+school7;	Adelphi University
+school8;	Albany College of Pharmacy and Health Sciences
+school9;	Albertus Magnus College
+school10;	Albright College
+school11;	Alfred University
+school12;	Allegheny College
+school13;	DeSales University
+school14;	Alvernia University
+school15;	American International College
+school16;	Sacred Heart University
+school17;	St. Joseph's College - Long Island Campus
+school18;	Amherst College
+school19;	Saint Anselm College
+school20;	St. Bonaventure University
+school21;	Anna Maria College
+school22;	College of St. Elizabeth
+school23;	Assumption College
+school24;	St. Francis College
+school25;	Saint Francis University
+school26;	College of the Atlantic
+school27;	St. John Fisher College
+school29;	St. John's University
+school30;	University of Saint Joseph
+school31;	St. Joseph's College of Maine
+school32;	Babson College
+school33;	St. Joseph's College - Brooklyn Campus
+school34;	Saint Joseph's University
+school35;	Baptist Bible College and Seminary
+school36;	St. Lawrence University
+school37;	Saint Michael's College
+school38;	Ramapo College of New Jersey
+school39;	Saint Peter's University
+school40;	College of St. Rose
+school41;	St. Thomas Aquinas College
+school42;	Saint Vincent College
+school43;	Regis College
+school44;	Salem State University
+school45;	Salve Regina University
+school46;	Sarah Lawrence College
+school47;	University of Scranton
+school48;	Seton Hall University
+school49;	Rensselaer Polytechnic Institute
+school50;	Pace University
+school51;	Seton Hill University
+school52;	Bard College at Simon's Rock
+school53;	Shippensburg University of Pennsylvania
+school54;	Rhode Island College
+school55;	Siena College
+school56;	Simmons College
+school57;	Skidmore College
+school58;	Parsons The New School for Design
+school59;	Penn State University Park
+school60;	Slippery Rock University of Pennsylvania
+school61;	Smith College
+school62;	Penn State Erie, The Behrend College
+school63;	University of Massachusetts Dartmouth
+school64;	Southern Connecticut State University
+school65;	Penn State Harrisburg
+school66;	University of Southern Maine
+school67;	University of Pennsylvania
+school68;	Southern Vermont College
+school69;	Springfield College
+school70;	Rhode Island School of Design
+school71;	Stevens Institute of Technology
+school72;	University of Rhode Island
+school73;	Richard Stockton College of New Jersey
+school74;	University of the Arts
+school75;	Stonehill College
+school76;	Cairn University
+school77;	University of the Sciences
+school78;	Suffolk University
+school79;	Philadelphia University
+school80;	University at Albany
+school81;	Pine Manor College
+school82;	Rider University
+school83;	Binghamton University
+school84;	University at Buffalo
+school85;	University of Pittsburgh
+school86;	Stony Brook University
+school87;	College at Brockport
+school88;	Rivier University
+school89;	University of Pittsburgh at Bradford
+school90;	Buffalo State College
+school91;	University of Pittsburgh at Johnstown
+school92;	State University of New York College at Cortland
+school93;	Robert Morris University
+school94;	State University of New York College of Environmental Science and Forestry
+school95;	State University of New York at Fredonia
+school96;	Plymouth State University
+school97;	Roberts Wesleyan College
+school98;	State University of New York College at Geneseo
+school99;	Point Park University
+school100;	State University of New York at New Paltz
+school101;	College at Old Westbury
+school103;	State University of New York College at Oneonta
+school104;	Maine College of Art
+school105;	State University of New York at Oswego
+school106;	Post University
+school107;	State University of New York Plattsburgh
+school108;	Rochester Institute of Technology
+school109;	Pratt Institute
+school110;	State University of New York College at Potsdam
+school111;	Princeton University
+school112;	Purchase College
+school113;	Providence College
+school114;	State University of New York Institute of Technology
+school115;	Quinnipiac University
+school116;	Bard College
+school117;	University of Rochester
+school118;	State University of New York Maritime College
+school119;	Barnard College
+school120;	State University of New York Upstate Medical University
+school121;	Maine Maritime Academy
+school122;	University of Maine
+school123;	Roger Williams University
+school124;	Susquehanna University
+school125;	Bates College
+school126;	Arcadia University
+school127;	Swarthmore College
+school128;	Bennington College
+school129;	University of Maine at Farmington
+school130;	Syracuse University
+school131;	University of Maine at Fort Kent
+school132;	Bentley University
+school133;	Thomas College
+school134;	Berklee College of Music
+school135;	Bloomfield College
+school136;	Bloomsburg University of Pennsylvania
+school137;	Temple University
+school138;	Bowdoin College
+school139;	University of Maine at Machias
+school140;	Boricua College
+school141;	University of Maine at Presque Isle
+school142;	Thiel College
+school143;	Boston Architectural College
+school144;	Boston College
+school145;	Thomas Jefferson University
+school146;	Boston University
+school147;	Touro College
+school148;	The College of New Jersey
+school149;	Manhattan College
+school150;	Rosemont College
+school151;	Trinity College
+school152;	Manhattan School of Music
+school153;	Manhattanville College
+school155;	Tufts University
+school156;	University of Bridgeport
+school157;	Union College
+school158;	Bridgewater State University
+school159;	United States Coast Guard Academy
+school160;	Mannes College The New School for Music
+school161;	Mansfield University of Pennsylvania
+school163;	Brown University
+school164;	United States Merchant Marine Academy
+school165;	United States Military Academy
+school166;	Marist College
+school168;	Unity College
+school169;	Marlboro College
+school172;	Ursinus College
+school173;	Utica College
+school174;	Marymount Manhattan College
+school175;	Vassar College
+school176;	Marywood University
+school177;	Bryant University
+school178;	Bryn Mawr College
+school179;	Bucknell University
+school180;	Cabrini College
+school181;	California University of Pennsylvania
+school182;	Massachusetts College of Art and Design
+school183;	University of Vermont
+school184;	Massachusetts College of Pharmacy and Health Sciences
+school185;	Villanova University
+school186;	Massachusetts Institute of Technology
+school187;	Carlow University
+school188;	School of Visual Arts
+school189;	Wagner College
+school190;	Washington & Jefferson College
+school191;	Massachusetts Maritime Academy
+school192;	Waynesburg University
+school193;	University of Massachusetts Amherst
+school194;	Webb Institute
+school195;	Wellesley College
+school197;	University of Massachusetts Boston
+school198;	Medaille College
+school199;	Wells College
+school200;	Mercy College
+school201;	Mercyhurst University
+school202;	Wentworth Institute of Technology
+school204;	Carnegie Mellon University
+school205;	Wesleyan University
+school206;	Merrimack College
+school207;	West Chester University of Pennsylvania
+school208;	Messiah College
+school209;	Castleton State College
+school211;	Western Connecticut State University
+school212;	Western New England University
+school213;	Middlebury College
+school214;	Westfield State University
+school215;	Millersville University of Pennsylvania
+school216;	Cedar Crest College
+school217;	Westminster College
+school218;	Centenary College
+school219;	Wheelock College
+school220;	Central Connecticut State University
+school221;	Wheaton College
+school222;	Widener University
+school223;	Chatham University
+school224;	Wilkes University
+school225;	Chestnut Hill College
+school226;	William Paterson University
+school227;	Cheyney University of Pennsylvania
+school228;	Clarion University of Pennsylvania
+school229;	Williams College
+school230;	Wilson College
+school231;	Clark University
+school232;	Clarkson University
+school233;	Colby College
+school234;	Worcester Polytechnic Institute
+school235;	Colgate University
+school236;	Molloy College
+school237;	Monmouth University
+school238;	Cooper Union for the Advancement of Science and Art
+school239;	Daniel Webster College
+school240;	Worcester State University
+school241;	Drew University
+school242;	Montclair State University
+school243;	Moore College of Art and Design
+school244;	Yale University
+school245;	Yeshiva University
+school246;	Gannon University
+school247;	York College of Pennsylvania
+school248;	Colby-Sawyer College
+school249;	Fitchburg State University
+school250;	Green Mountain College
+school252;	LIM College
+school254;	Moravian College
+school255;	Mount Holyoke College
+school256;	Johnson & Wales University
+school258;	Mount St. Mary College
+school259;	California State University Long Beach
+school260;	College of Mount St. Vincent
+school261;	Ohio State Universitiy at Lima
+school262;	Ohio State University at Mansfield
+school263;	Ohio State Universitity at Marion
+school264;	Ohio State University at Newark
+school266;	Clarkson College
+school267;	University of Puerto Rico at Rio Piedras
+school268;	Paul Quinn College
+school269;	Wiley College
+school270;	Ursuline College
+school271;	University of Maine at Augusta
+school273;	University of Texas at Dallas
+school274;	Williams Baptist College
+school276;	American University of Puerto Rico
+school277;	Inter American University of Puerto Rico - San German Campus
+school278;	University of Puerto Rico at Humacao
+school279;	Polytechnic University of Puerto Rico
+school281;	Lindsey Wilson College
+school282;	Mount Olive College
+school283;	Schreiner University
+school284;	Heritage University
+school286;	Bayamon Central University
+school287;	College of St. Joseph
+school288;	Christendom College
+school289;	University of Phoenix
+school290;	Pacific Oaks College
+school291;	East-West University
+school292;	Farmingdale State College
+school294;	Mount Ida College
+school295;	Warner Pacific College
+school296;	Cazenovia College
+school297;	University of Akron
+school298;	Albion College
+school299;	Baptist Bible College
+school301;	Beloit College
+school302;	Bemidji State University
+school303;	Bethel College
+school304;	Bethel University
+school305;	Blackburn College
+school306;	Bluffton University
+school307;	Bowling Green State University
+school308;	Bradley University
+school309;	Briar Cliff University
+school310;	Buena Vista University
+school311;	Butler University
+school312;	Calumet College of St. Joseph
+school313;	Calvin College
+school314;	Capital University
+school315;	Cardinal Stritch University
+school316;	Carleton College
+school317;	Carroll University
+school318;	Carthage College
+school319;	Cedarville University
+school321;	Central College
+school322;	Central Methodist University
+school323;	Central Michigan University
+school324;	University of Central Missouri
+school325;	Central State University
+school326;	Chicago State University
+school327;	University of Chicago
+school328;	Cincinnati Christian University
+school329;	University of Cincinnati
+school330;	Clarke University
+school331;	Cleary University
+school332;	Cleveland Institute of Art
+school333;	Cleveland Institute of Music
+school334;	Cleveland State University
+school335;	Coe College
+school336;	Columbia College Chicago
+school337;	Columbia College
+school338;	Columbus College of Art and Design
+school339;	Conception Seminary College
+school340;	Concordia University Chicago
+school341;	Concordia University Ann Arbor
+school342;	Concordia College
+school343;	Concordia University St. Paul
+school344;	Concordia University Wisconsin
+school345;	Cornell College
+school346;	Culver-Stockton College
+school347;	University of Dayton
+school348;	Defiance College
+school349;	Denison University
+school350;	DePaul University
+school351;	DePauw University
+school353;	University of Detroit Mercy
+school354;	DeVry University - Chicago
+school357;	DeVry University - Columbus
+school358;	Martin Luther College
+school359;	Drake University
+school360;	Drury University
+school361;	University of Dubuque
+school364;	Kettering University
+school365;	Grace College
+school366;	Hanover College
+school367;	Benedictine University
+school368;	Indiana Institute of Technology
+school369;	Indiana University Kokomo
+school370;	Kendall College
+school371;	Lake Erie College
+school372;	Lakeland College
+school373;	Lindenwood University
+school374;	Manchester University
+school375;	Marietta College
+school376;	McKendree University
+school377;	Metropolitan State University
+school378;	Rochester College
+school379;	University of Michigan
+school380;	Millikin University
+school381;	Milwaukee Institute of Art & Design
+school382;	Missouri Southern State University
+school383;	Mount Mercy University
+school384;	North Central College
+school385;	University of Northern Iowa
+school386;	Northwestern College
+school387;	University of Northwestern St. Paul
+school388;	Northwood University
+school389;	Notre Dame College
+school390;	Oakland City University
+school391;	Ohio University
+school392;	Ohio Wesleyan University
+school393;	Rockford University
+school394;	University of St. Francis
+school395;	St. Joseph's College
+school396;	Saint Mary's College
+school397;	College of St. Scholastica
+school398;	Saint Xavier University
+school399;	Columbia University
+school400;	Connecticut College
+school401;	University of Connecticut
+school402;	John Jay College of Criminal Justice
+school403;	Dartmouth College
+school404;	College of Staten Island (City University of New York)
+school405;	City College of New York
+school406;	Daemen College
+school407;	Drexel University
+school408;	Duquesne University
+school409;	Edinboro University of Pennsylvania
+school410;	Elmira College
+school411;	Elms College
+school412;	Framingham State University
+school413;	Franklin Pierce University
+school414;	Hamilton College
+school415;	Hampshire College
+school416;	University of Hartford
+school417;	Hobart and William Smith Colleges
+school418;	Hofstra University
+school419;	Holy Family University
+school420;	Immaculata University
+school421;	Grand Valley State University
+school422;	Indiana University - Purdue University Fort Wayne
+school423;	Indiana University of Pennsylvania
+school424;	Kutztown University of Pennsylvania
+school425;	La Roche College
+school426;	La Salle University
+school427;	Lebanon Valley College
+school428;	Le Moyne College
+school429;	Lesley University
+school430;	Lock Haven University of Pennsylvania
+school431;	Lycoming College
+school432;	New England Conservatory of Music
+school433;	University of New Hampshire
+school434;	University of New Haven
+school435;	College of New Rochelle
+school436;	New York University
+school437;	Massachusetts College of Liberal Arts
+school438;	Norwich University
+school439;	Iona College
+school440;	LIU Post
+school441;	Juniata College
+school442;	Houghton College
+school443;	Husson University
+school444;	Harvard College
+school445;	Grove City College
+school446;	Gordon College
+school447;	Geneva College
+school448;	Medgar Evers College (City University of New York)
+school449;	Emmanuel College
+school450;	Emerson College
+school451;	Eastern Nazarene College
+school452;	Fairfield University
+school453;	Brandeis University
+school454;	College of Saint Benedict
+school455;	Eastern Connecticut State University
+school456;	Northeastern University
+school457;	Alma College
+school458;	Avila University
+school459;	Augustana College
+school460;	School of the Art Institute of Chicago
+school461;	Anderson University
+school462;	Andrews University
+school463;	Aurora University
+school464;	Art Academy of Cincinnati
+school465;	Alabama State University
+school466;	Alabama A University
+school467;	University of Alabama at Birmingham
+school468;	University of Alabama in Huntsville
+school469;	University of Alabama
+school470;	Albany State University
+school471;	Alice Lloyd College
+school472;	Alcorn State University
+school473;	Alderson-Broaddus College
+school474;	Lyon College
+school475;	American University
+school476;	Appalachian State University
+school477;	Arkansas State University
+school478;	Arkansas Tech University
+school479;	University of Arkansas
+school480;	University of Arkansas at Little Rock
+school481;	University of Arkansas at Monticello
+school482;	University of Arkansas at Pine Bluff
+school483;	Armstrong Atlantic State University
+school484;	Asbury University
+school486;	Barton College
+school487;	Baptist College of Florida
+school488;	Auburn University
+school489;	Auburn University at Montgomery
+school491;	Austin Peay State University
+school492;	Averett University
+school493;	University of Baltimore
+school494;	Charleston Southern University
+school495;	Barry University
+school496;	Belhaven University
+school497;	Bellarmine University
+school498;	Belmont Abbey College
+school499;	Belmont University
+school500;	Benedict College
+school501;	Bennett College
+school502;	Berea College
+school503;	Berry College
+school504;	Bethany College
+school505;	Bethel University
+school506;	Bethune-Cookman University
+school507;	Birmingham-Southern College
+school508;	Blue Mountain College
+school509;	Bluefield College
+school510;	Bluefield State College
+school511;	Lynn University
+school512;	Bowie State University
+school513;	Brenau University
+school514;	Brescia University
+school515;	Bryan College
+school516;	New York School of Interior Design
+school517;	University of New Hampshire at Manchester
+school518;	Southeastern Baptist Theological Seminary
+school520;	Mt. Sierra College
+school521;	Everest University - Melbourne
+school522;	Culinary Institute of America
+school523;	Jones College
+school524;	Paier College of Art
+school525;	Schiller International University
+school526;	Brevard College
+school527;	Florida College
+school528;	South University - Savannah
+school531;	Charles R. Drew University of Medicine and Science
+school534;	Florida Gulf Coast University
+school537;	Fairleigh Dickinson University - College at Florham
+school538;	Northwood University
+school539;	Coleman University
+school540;	University of Advancing Technology
+school541;	University of the Potomac
+school542;	Platt College
+school543;	Art Institute of California - San Diego
+school545;	Laguna College of Art + Design
+school546;	Columbia College Hollywood
+school548;	Art Institute of California - San Francisco
+school550;	NewSchool of Architecture & Design
+school551;	Pacific States University
+school553;	Rocky Mountain College of Art & Design
+school554;	Colorado Heights University
+school556;	Everest University - Pompano Beach
+school558;	Hodges University
+school559;	Trinity College of Florida
+school560;	Illinois Institute of Art - Chicago
+school561;	St. John's College
+school563;	Waldorf College
+school565;	Cambridge College
+school566;	Newbury College
+school567;	Finlandia University
+school568;	Missouri Tech
+school569;	Morrison University
+school570;	Thomas More College of Liberal Arts
+school571;	St. Gregory's University
+school572;	Utah Valley University
+school573;	Vermont Technical College
+school575;	Northwest College of Art and Design
+school576;	Northwestern Polytechnic University
+school577;	Fisher More College
+school578;	DeVry University - New York
+school580;	Sterling College
+school581;	Penn State Abington
+school582;	International Fine Arts College
+school583;	Illinois Institute of Art - Schaumburg
+school584;	Shasta Bible College
+school586;	Beulah Heights University
+school588;	Everest University - Tampa
+school591;	DeVry University - North Brunswick
+school592;	Art Institute of Pittsburgh
+school593;	Dixie State College
+school594;	Johnson & Wales University
+school596;	Penn State Schuylkill
+school597;	Penn State Lehigh Valley
+school598;	Penn State Berks
+school600;	DeVry University - Orlando
+school601;	Penn State Altoona
+school602;	Peirce College
+school604;	Art Institute of California - Orange County
+school605;	Art Institute of Washington
+school606;	Mitchell College
+school610;	Stevens-Henager College
+school613;	Bethany Lutheran College
+school614;	Paul Smith's College
+school615;	University of Arkansas at Fort Smith
+school617;	DeVry University - Crystal City
+school618;	DeVry University - Seattle
+school619;	DeVry University - Colorado Springs
+school621;	Cabarrus College of Health Sciences
+school623;	Muhlenberg College
+school625;	California State University Sacramento
+school626;	School of the Museum of Fine Arts
+school627;	Nazareth College
+school628;	Neumann University
+school629;	Bellevue University
+school630;	Misericordia University
+school631;	New England College
+school632;	Art Center College of Design
+school633;	Augustana College
+school634;	Colorado School of Mines
+school635;	University of California, Santa Barbara
+school636;	Chaminade University of Honolulu
+school637;	University of Alaska Anchorage
+school638;	Concordia University Nebraska
+school639;	East Central University
+school640;	Alaska Pacific University
+school641;	Montana State University - Billings
+school642;	Eastern New Mexico University
+school643;	University of Great Falls
+school644;	Eastern Oregon University
+school645;	Fort Lewis College
+school646;	Jamestown College
+school647;	University of Colorado Colorado Springs
+school648;	Embry-Riddle Aeronautical University - Prescott
+school649;	Brooks Institute
+school650;	University of California, Davis
+school651;	Montana State University
+school652;	Hawaii Pacific University
+school653;	Midland University
+school654;	California State University East Bay
+school655;	University of Mary Hardin-Baylor
+school656;	California Maritime Academy
+school657;	Grand Canyon University
+school658;	Caldwell University
+school659;	Abilene Christian University
+school660;	Creighton University
+school661;	Chapman University
+school662;	Azusa Pacific University
+school663;	Humboldt State University
+school664;	Bethany College
+school665;	Texas A International University
+school666;	California Polytechnic State University, San Luis Obispo
+school667;	Newman University
+school668;	College of Idaho
+school669;	Colorado College
+school670;	Colorado Technical University
+school671;	Dakota Wesleyan University
+school672;	Marylhurst University
+school673;	University of Nevada, Reno
+school674;	Mount Marty College
+school675;	McMurry University
+school676;	Willamette University
+school677;	Austin College
+school678;	Northwood University
+school679;	University of Texas of the Permian Basin
+school680;	Biola University
+school681;	Texas A University - Corpus Christi
+school682;	Chadron State College
+school683;	Western Oregon University
+school684;	Montana Tech of the University of Montana
+school685;	Union College
+school686;	University of Idaho
+school687;	Menlo College
+school688;	Texas Christian University
+school689;	Northwest Christian University
+school690;	Concordia University Portland
+school691;	Whitworth University
+school692;	Evergreen State College
+school693;	University of Denver
+school694;	Regis University
+school695;	Rocky Mountain College
+school696;	Southeastern Oklahoma State University
+school697;	DeVry University - Phoenix
+school698;	DeVry University - Pomona
+school699;	Westmont College
+school700;	United States Air Force Academy
+school701;	DeVry University - Irving
+school702;	Oklahoma Christian University
+school703;	Houston Baptist University
+school704;	Texas A University - Kingsville
+school705;	University of Alaska Fairbanks
+school706;	California Institute of Technology
+school707;	University of Utah
+school708;	University of North Texas
+school709;	San Francisco Conservatory of Music
+school710;	University of Hawaii - West Oahu
+school711;	Valley City State University
+school712;	Academy of Art University
+school713;	Holy Names University
+school714;	University of Wyoming
+school715;	Washington State University
+school716;	Claremont McKenna College
+school717;	Oregon Institute of Technology
+school718;	Prescott College
+school719;	Weber State University
+school720;	Alliant International University
+school721;	University of Sioux Falls
+school722;	Fort Hays State University
+school723;	Bethel College
+school724;	St. Edward's University
+school725;	Simpson University
+school726;	Linfield College
+school727;	Otis College of Art and Design
+school728;	National American University - Rapid City
+school729;	Western State Colorado University
+school730;	University of California, Irvine
+school731;	Rice University
+school732;	Gonzaga University
+school733;	University of Nevada, Las Vegas
+school734;	Cogswell Polytechnical College
+school735;	University of North Dakota
+school736;	Thomas Aquinas College
+school737;	American Jewish University
+school738;	University of Science and Arts of Oklahoma
+school739;	University of Texas at Arlington
+school740;	Texas Lutheran University
+school741;	Whitman College
+school742;	University of Arizona
+school743;	Southern California Institute of Architecture
+school744;	Kansas State University
+school745;	University of St. Mary
+school746;	University of La Verne
+school747;	Colorado State University
+school748;	University of Oklahoma
+school749;	University of Tulsa
+school750;	North Dakota State University
+school751;	Oklahoma City University
+school752;	Point Loma Nazarene University
+school753;	Loyola Marymount University
+school754;	Trinity University
+school755;	University of Oregon
+school756;	Pacific University
+school757;	Walla Walla University
+school758;	University of Houston
+school759;	Texas A University
+school760;	Patten University
+school761;	New Mexico Highlands University
+school762;	University of Portland
+school763;	Pittsburg State University
+school764;	University of Washington
+school765;	Reed College
+school766;	Southwestern Adventist University
+school767;	St. Mary's University
+school768;	San Jose State University
+school769;	Sierra Nevada College
+school770;	Scripps College
+school771;	University of Montana
+school772;	Seattle University
+school773;	Southwestern Oklahoma State University
+school774;	South Dakota State University
+school775;	San Francisco State University
+school776;	Santa Clara University
+school777;	Wayland Baptist University
+school778;	Southern Nazarene University
+school779;	Sul Ross State University
+school780;	Southern Oregon University
+school781;	Stanford University
+school782;	Stephen F. Austin State University
+school783;	University of the Southwest
+school784;	Texas State University
+school785;	Southwestern University
+school786;	Fashion Institute of Technology
+school787;	Cornell University
+school788;	University of Texas at Austin
+school789;	Brooklyn College (City University of New York)
+school790;	College of Saint Mary
+school791;	York College
+school792;	East Stroudsburg University of Pennsylvania
+school793;	Gettysburg College
+school794;	Lehigh University
+school795;	Hartwick College
+school796;	Gwynedd-Mercy College
+school797;	College of the Holy Cross
+school798;	King's College
+school799;	Lafayette College
+school800;	Elizabethtown College
+school801;	Lancaster Bible College
+school802;	Sonoma State University
+school803;	Dominican University
+school804;	Governors State University
+school805;	Indiana Wesleyan University
+school806;	Illinois State University
+school807;	Erskine College
+school808;	Iowa Wesleyan College
+school809;	Loyola University Chicago
+school810;	Kenyon College
+school811;	Roosevelt University
+school812;	John Carroll University
+school813;	Crown College
+school814;	Knox College
+school815;	Indiana University Bloomington
+school816;	Ripon College
+school817;	Florida State University
+school818;	University of Michigan - Dearborn
+school819;	Missouri University of Science and Technology
+school820;	Northern Illinois University
+school821;	University of the Pacific
+school822;	Colorado Christian University
+school823;	Florida International University
+school824;	Cameron University
+school825;	William Carey University
+school826;	McDaniel College
+school827;	Fontbonne University
+school828;	Wheeling Jesuit University
+school829;	University of Missouri - Kansas City
+school830;	Saint Mary-of-the-Woods College
+school831;	Cornerstone University
+school832;	Eastern University
+school833;	Georgian Court University
+school834;	New York City College of Technology
+school835;	Hunter College
+school836;	Monmouth College
+school837;	Northern Michigan University
+school838;	Greensboro College
+school839;	Manhattan Christian College
+school840;	Loyola University Maryland
+school841;	Santa Fe University of Art and Design
+school842;	California State University Fresno
+school843;	Oklahoma Baptist University
+school844;	Metropolitan State University of Denver
+school845;	Marian University
+school846;	Mount Mary University
+school847;	Davis and Elkins College
+school848;	Kent State University
+school849;	Lawrence Technological University
+school850;	Harvey Mudd College
+school851;	Dordt College
+school852;	Texas Tech University
+school853;	University of Nebraska - Omaha
+school854;	Oklahoma Panhandle State University
+school855;	Mount Vernon Nazarene University
+school856;	Southern Arkansas University
+school857;	Southwestern Assemblies of God University
+school858;	Memphis College of Art
+school859;	University of Puget Sound
+school860;	Dowling College
+school861;	Xavier University of Louisiana
+school862;	Master's College
+school864;	Washburn University
+school865;	New Jersey City University
+school866;	University of San Diego
+school867;	Black Hills State University
+school868;	California State University Bakersfield
+school869;	University of Texas at Tyler
+school870;	Pacific Northwest College of Art
+school871;	University of Houston - Downtown
+school872;	University of Minnesota, Morris
+school873;	Dickinson State University
+school874;	University of Texas at San Antonio
+school875;	Dominican University of California
+school876;	Indiana University South Bend
+school877;	Adams State University
+school878;	Georgetown College
+school879;	University of Texas Health Science Center at Houston
+school880;	University of Louisville
+school881;	University of the Incarnate Word
+school882;	Florida Institute of Technology
+school883;	Rose-Hulman Institute of Technology
+school884;	Minneapolis College of Art and Design
+school885;	Marshall University
+school886;	Dominican College
+school887;	College for Creative Studies
+school888;	University of Central Oklahoma
+school889;	La Sierra University
+school890;	Fairmont State University
+school891;	Franklin University
+school892;	Wofford College
+school893;	Newberry College
+school895;	Davidson College
+school896;	Shepherd University
+school897;	Lewis-Clark State College
+school898;	Mary Baldwin College
+school899;	Marian University
+school900;	Northwest University
+school901;	Gardner-Webb University
+school902;	University of Maryland Eastern Shore
+school903;	California State University Northridge
+school904;	Western Washington University
+school905;	St. Cloud State University
+school906;	Oklahoma Wesleyan University
+school907;	Luther College
+school908;	Cornish College of the Arts
+school909;	Angelo State University
+school910;	University of California, Riverside
+school911;	University of Montana Western
+school912;	Texas Wesleyan University
+school913;	Texas A University - Galveston
+school914;	University of Mobile
+school915;	East Tennessee State University
+school916;	University of California, Santa Cruz
+school917;	Notre Dame de Namur University
+school918;	Sterling College
+school919;	Our Lady of the Lake University
+school920;	Flagler College
+school921;	New Mexico Institute of Mining and Technology
+school922;	Southern Utah University
+school923;	San Diego Christian College
+school924;	Mayville State University
+school925;	Ottawa University
+school926;	Oregon State University
+school927;	South Dakota School of Mines and Technology
+school928;	University of Alaska Southeast
+school929;	Central Washington University
+school930;	Wayne State College
+school931;	George Fox University
+school932;	California Lutheran University
+school933;	Portland State University
+school934;	Dakota State University
+school935;	Earlham College
+school936;	Kansas Wesleyan University
+school937;	Prairie View A University
+school938;	LeTourneau University
+school939;	Corban University
+school940;	University of Kansas
+school941;	Illinois Wesleyan University
+school942;	Grand View University
+school943;	University of Florida
+school944;	Eastern Kentucky University
+school945;	Muskingum University
+school946;	Stillman College
+school947;	D'Youville College
+school948;	Maryville University of Saint Louis
+school949;	West Texas A University
+school950;	College of Mount St. Joseph
+school951;	Marygrove College
+school952;	Sam Houston State University
+school953;	Hannibal-LaGrange University
+school954;	East Texas Baptist University
+school955;	Northeastern Illinois University
+school956;	San Diego State University
+school957;	University of Mary
+school958;	Eastern Michigan University
+school959;	Judson University
+school960;	Principia College
+school961;	Minnesota State University Moorhead
+school962;	Heidelberg University
+school963;	University of Evansville
+school964;	National Louis University
+school965;	Eureka College
+school966;	Case Western Reserve University
+school967;	Calvary Bible College and Theological Seminary
+school968;	University of Michigan - Flint
+school969;	California State University Dominguez Hills
+school970;	Johnson C. Smith University
+school971;	Rollins College
+school972;	Mississippi University for Women
+school973;	Delaware Valley College
+school974;	Georgia College and State University
+school975;	University of Georgia
+school976;	St. Norbert College
+school977;	Lewis University
+school978;	St. Ambrose University
+school979;	Pfeiffer University
+school980;	University of Illinois at Chicago
+school981;	Missouri Western State University
+school982;	University of Illinois at Urbana-Champaign
+school983;	Brigham Young University - Hawaii
+school984;	California College of the Arts
+school985;	North Park University
+school986;	Missouri Baptist University
+school987;	University of Mount Union
+school988;	Missouri Valley College
+school989;	Miami University
+school990;	University of Minnesota, Duluth
+school991;	University of Minnesota, Twin Cities
+school992;	Ashford University
+school993;	MacMurray College
+school994;	Minnesota State University Mankato
+school995;	Malone University
+school996;	Maharishi University of Management
+school997;	Grinnell College
+school998;	Greenville College
+school999;	Indiana University Northwest
+school1000;	Illinois College
+school1001;	Indiana University Southeast
+school1002;	Hamline University
+school1003;	Lincoln University
+school1004;	Illinois Institute of Technology
+school1005;	Edgewood College
+school1006;	Indiana University - Purdue University Indianapolis
+school1007;	Harris-Stowe State University
+school1008;	Ohio Dominican University
+school1009;	Loras College
+school1010;	Juilliard School
+school1011;	Nichols College
+school1012;	Kean University
+school1013;	Ithaca College
+school1014;	Eugene Lang College The New School for Liberal Arts
+school1015;	Lyndon State College
+school1016;	Keene State College
+school1017;	Graceland University
+school1018;	Keuka College
+school1019;	Ferris State University
+school1020;	Evangel University
+school1021;	Elizabeth City State University
+school1022;	Haverford College
+school1023;	Johnson State College
+school1024;	Howard University
+school1025;	Western New Mexico University
+school1026;	Duke University
+school1027;	Fort Valley State University
+school1028;	East Carolina University
+school1029;	Eastern Mennonite University
+school1030;	Hampton University
+school1031;	Faulkner University
+school1032;	Grambling State University
+school1033;	Florida Memorial University
+school1034;	Goldey-Beacom College
+school1035;	Harding University
+school1036;	Fayetteville State University
+school1037;	Florida Agricultural and Mechanical University
+school1038;	George Mason University
+school1039;	Emory University
+school1040;	Florida Southern College
+school1041;	Guilford College
+school1042;	New York Institute of Technology
+school1043;	Freed-Hardeman University
+school1044;	Gallaudet University
+school1045;	University of New Mexico
+school1046;	Louisiana State University
+school1047;	University of Miami
+school1048;	Jackson State University
+school1050;	Kentucky State University
+school1051;	Lane College
+school1052;	University of Maryland Baltimore County
+school1053;	Livingstone College
+school1054;	Morris College
+school1055;	Maryland Institute College of Art
+school1056;	Milligan College
+school1057;	Mississippi Valley State University
+school1058;	Millsaps College
+school1059;	Mount St. Mary's University
+school1060;	Maryville College
+school1061;	Rowan University
+school1062;	Mississippi College
+school1063;	University of Montevallo
+school1065;	Oral Roberts University
+school1066;	Goddard College
+school1067;	University of Nebraska - Kearney
+school1068;	California Institute of the Arts
+school1069;	Brigham Young University
+school1071;	Mercer University
+school1073;	California State University Stanislaus
+school1074;	Baylor University
+school1075;	Southern University at New Orleans
+school1076;	California State University San Bernardino
+school1077;	Spalding University
+school1078;	California State Polytechnic University, Pomona
+school1079;	Norfolk State University
+school1080;	California State University Los Angeles
+school1081;	Felician College
+school1082;	Boise State University
+school1083;	California State University Chico
+school1084;	Benedictine College
+school1085;	Nicholls State University
+school1086;	University of Louisiana at Lafayette
+school1087;	Southern University and Agricultural and Mechanical College
+school1088;	Meredith College
+school1089;	Fairleigh Dickinson University - Metropolitan Campus
+school1090;	University of California, Berkeley
+school1091;	University of California, San Diego
+school1092;	North Carolina Central University
+school1093;	University of California, Los Angeles
+school1094;	New Mexico State University
+school1095;	Curry College
+school1096;	Arizona State University
+school1097;	Lubbock Christian University
+school1098;	Dallas Baptist University
+school1099;	Idaho State University
+school1100;	University of Hawaii at Manoa
+school1101;	Hastings College
+school1102;	University of Houston - Clear Lake
+school1103;	Huston-Tillotson University
+school1104;	University of Hawaii at Hilo
+school1105;	Howard Payne University
+school1106;	Lamar University
+school1107;	John F. Kennedy University
+school1108;	Colorado Mesa University
+school1110;	MidAmerica Nazarene University
+school1111;	University of Nebraska - Lincoln
+school1112;	Langston University
+school1113;	Hope International University
+school1114;	Northern Arizona University
+school1115;	Mills College
+school1116;	Minot State University
+school1117;	Mount St. Mary's College
+school1118;	Nebraska Wesleyan University
+school1119;	National University
+school1120;	Northern State University
+school1121;	Pepperdine University
+school1122;	University of Northern Colorado
+school1123;	Montana State University - Northern
+school1124;	Peru State College
+school1125;	University of Redlands
+school1126;	Northwest Nazarene University
+school1127;	Pacific Union College
+school1128;	Pitzer College
+school1129;	Occidental College
+school1130;	San Francisco Art Institute
+school1131;	St. John's College
+school1132;	Seattle Pacific University
+school1133;	Samuel Merritt University
+school1134;	University of San Francisco
+school1135;	Tarleton State University
+school1136;	University of South Dakota
+school1137;	Vanguard University of Southern California
+school1138;	University of Southern California
+school1139;	Texas Southern University
+school1140;	Woodbury University
+school1141;	Texas Woman's University
+school1142;	Whittier College
+school1143;	Southwestern College
+school1144;	Colorado State University - Pueblo
+school1145;	Utah State University
+school1146;	Westminster College
+school1147;	Southern Methodist University
+school1148;	Fordham University
+school1149;	Baruch College (City University of New York)
+school1150;	Concordia College New York
+school1151;	Lehman College (City University of New York)
+school1152;	Wichita State University
+school1153;	Covenant College
+school1154;	Kentucky Christian University
+school1155;	Dickinson College
+school1156;	Tabor College
+school1157;	Golden Gate University
+school1158;	McPherson College
+school1159;	Texas A University - Commerce
+school1160;	Concordia University Irvine
+school1161;	Eastern Washington University
+school1162;	Fresno Pacific University
+school1163;	Queens College (City University of New York)
+school1164;	Doane College
+school1165;	Southern New Hampshire University
+school1166;	University of the Sacred Heart
+school1167;	Saint Mary's College of California
+school1168;	Pontifical Catholic University of Puerto Rico
+school1169;	University of Texas at El Paso
+school1170;	University of Puerto Rico at Bayamon
+school1171;	Franklin & Marshall College
+school1172;	Universidad Adventista de las Antillas
+school1173;	University of Puerto Rico at Cayey
+school1174;	Lincoln University
+school1176;	University of Puerto Rico at Ponce
+school1177;	Jacksonville University
+school1178;	University of Puerto Rico at Arecibo
+school1179;	California Baptist University
+school1180;	University of Puerto Rico at Mayaguez
+school1181;	University of Texas - Pan American
+school1182;	Georgetown University
+school1183;	Ball State University
+school1185;	Aquinas College
+school1186;	Ashland University
+school1187;	Alverno College
+school1188;	Augsburg College
+school1189;	Baldwin Wallace University
+school1190;	Adrian College
+school1191;	Boston Conservatory
+school1192;	Canisius College
+school1193;	Lewis & Clark College
+school1194;	Murray State University
+school1195;	Carroll College
+school1196;	Burlington College
+school1197;	Curtis Institute of Music
+school1198;	New Jersey Institute of Technology
+school1199;	Niagara University
+school1200;	Nyack College
+school1202;	Elon University
+school1203;	Emory & Henry College
+school1204;	Ferrum College
+school1205;	Fisk University
+school1206;	Georgia State University
+school1207;	University of Colorado Boulder
+school1208;	University of Dallas
+school1209;	Friends University
+school1210;	Five Towns College
+school1212;	Clearwater Christian College
+school1213;	Edward Waters College
+school1214;	Hellenic College
+school1215;	Judson College
+school1216;	Kansas City Art Institute
+school1218;	Philander Smith College
+school1219;	Empire State College
+school1220;	Western International University
+school1221;	Cumberland University
+school1222;	Lourdes University
+school1223;	Thomas Edison State College
+school1224;	Union Institute & University
+school1225;	University of Pittsburgh at Greensburg
+school1226;	Loma Linda University
+school1229;	Concordia University Texas
+school1230;	Athens State University
+school1233;	Brewton-Parker College
+school1234;	Life University
+school1235;	International Academy of Design & Technology
+school1236;	Rush University
+school1237;	Indiana University East
+school1238;	Louisiana State University Health Sciences Center
+school1240;	Bay Path College
+school1241;	Endicott College
+school1242;	Baker College of Flint
+school1243;	University of Nebraska Medical Center
+school1244;	Granite State College
+school1245;	Beth Medrash Govoha
+school1246;	Vaughn College of Aeronautics and Technology
+school1247;	Metropolitan College of New York
+school1248;	SUNY Downstate Medical Center
+school1249;	Chowan University
+school1250;	Lees-McRae College
+school1251;	Oregon Health & Science University
+school1252;	Anderson University
+school1253;	Medical University of South Carolina
+school1254;	Oglala Lakota College
+school1255;	Tennessee Temple University
+school1257;	Texas A University - Texarkana
+school1258;	University of Houston - Victoria
+school1259;	University of Texas Medical Branch
+school1260;	City University of Seattle
+school1261;	Midway College
+school1262;	Baker College of Muskegon
+school1263;	Baker College of Owosso
+school1264;	Clayton State University
+school1265;	Shawnee State University
+school1266;	Wisconsin Lutheran College
+school1267;	Humphreys College
+school1268;	Purdue University North Central
+school1269;	Hilbert College
+school1270;	Champlain College
+school1271;	Art Institute of Portland
+school1272;	Lasell College
+school1273;	Mount Aloysius College
+school1274;	Alfred State College
+school1275;	Charter Oak State College
+school1276;	Martin University
+school1277;	Sojourner-Douglass College
+school1278;	Montserrat College of Art
+school1279;	Chamberlain College of Nursing
+school1280;	Montreat College
+school1281;	Valley Forge Christian College
+school1282;	Presentation College
+school1283;	Sinte Gleska University
+school1285;	Criswell College
+school1286;	Southwestern Christian College
+school1287;	Arkansas Baptist College
+school1288;	Central Baptist College
+school1289;	Life Pacific College
+school1290;	Lincoln University
+school1291;	Emmanuel College
+school1292;	Lincoln Christian University
+school1293;	Great Lakes Christian College
+school1294;	Research College of Nursing
+school1295;	Grace University
+school1296;	Piedmont International University
+school1297;	Trinity Bible College
+school1298;	Mid-America Christian University
+school1300;	Allen University
+school1301;	University of Minnesota, Crookston
+school1302;	State University of New York College of Agriculture and Technology at Cobleskill
+school1303;	Art Institute of Fort Lauderdale
+school1304;	Thomas University
+school1305;	University of Maryland University College
+school1306;	University of Mississippi Medical Center
+school1308;	California State University San Marcos
+school1310;	University of Texas at Brownsville
+school1311;	O'More College of Design
+school1312;	Concordia College Alabama
+school1313;	York College
+school1314;	Baker College of Auburn Hills
+school1315;	Baker College of Cadillac
+school1316;	Baker College of Jackson
+school1317;	Baker College of Port Huron
+school1318;	Baker College of Clinton Township
+school1319;	Design Institute of San Diego
+school1320;	Holy Apostles College and Seminary
+school1324;	Rabbinical College of America
+school1325;	Talmudical Academy of New Jersey
+school1326;	The Jewish Theological Seminary
+school1327;	Excelsior College
+school1328;	Heritage Christian University
+school1329;	Amridge University
+school1330;	Johnson University Florida
+school1331;	St. John Vianney College Seminary
+school1332;	Talmudic University
+school1333;	Point University
+school1334;	Reinhardt University
+school1335;	Clear Creek Baptist Bible College
+school1336;	Kentucky Mountain Bible College
+school1337;	Sullivan University
+school1339;	Ner Israel Rabbinical College
+school1341;	Southeastern Baptist College
+school1343;	Laurel University
+school1344;	Mid-Atlantic Christian University
+school1345;	North Greenville University
+school1346;	American Baptist College
+school1347;	Martin Methodist College
+school1348;	Appalachian Bible College
+school1349;	Ohio Valley University
+school1352;	Blessing-Reiman College of Nursing
+school1354;	Saint Anthony College of Nursing
+school1355;	Saint Francis Medical Center College of Nursing
+school1356;	Shimer College
+school1357;	Resurrection University
+school1358;	Divine Word College
+school1359;	Emmaus Bible College
+school1360;	Grace Bible College
+school1361;	Kuyper College
+school1362;	Sacred Heart Major Seminary
+school1363;	Crossroads College
+school1364;	Oak Hills Christian College
+school1365;	Central Christian College of the Bible
+school1366;	St. Louis Christian College
+school1367;	Saint Luke's College of Health Sciences
+school1369;	Ohio Christian University
+school1371;	God's Bible School and College
+school1372;	Mount Carmel College of Nursing
+school1373;	Ozark Christian College
+school1374;	Alaska Bible College
+school1376;	Arizona Christian University
+school1379;	William Jessup University
+school1380;	Yeshiva Ohr Elchonon Chabad/West Coast Talmudical Seminary
+school1381;	Naropa University
+school1382;	Nazarene Bible College
+school1383;	Sanford College of Nursing
+school1384;	Southwestern Christian University
+school1385;	New Hope Christian College
+school1386;	Arlington Baptist College
+school1387;	Baptist Missionary Association Theological Seminary
+school1388;	Dallas Christian College
+school1390;	Bastyr University
+school1391;	Trinity Lutheran College
+school1393;	American Indian College of the Assemblies of God
+school1395;	Boise Bible College
+school1396;	Barclay College
+school1397;	Central Christian College of Kansas
+school1398;	Salish Kootenai College
+school1399;	Nebraska Christian College
+school1400;	Nebraska Methodist College
+school1401;	Becker College
+school1403;	Johnson & Wales University
+school1404;	William Peace University
+school1406;	Robert Morris University
+school1408;	Maranatha Baptist Bible College
+school1409;	Goldfarb School of Nursing at Barnes-Jewish College
+school1412;	Bellin College
+school1414;	Davis College
+school1415;	Allen College
+school1416;	Lakeview College of Nursing
+school1417;	Yehiva Gedolah of Greater Detroit
+school1419;	Pennsylvania College of Technology
+school1420;	Art Institute of Atlanta
+school1421;	Caribbean University
+school1422;	Universidad del Este
+school1423;	University of Puerto Rico, Medical Sciences Campus
+school1425;	Inter American University of Puerto Rico - Aguadilla Campus
+school1426;	Inter American University of Puerto Rico - Arecibo Campus
+school1427;	Inter American University of Puerto Rico - Barranquitas Campus
+school1428;	Inter American University of Puerto Rico - Bayamon Campus
+school1429;	Inter American University of Puerto Rico - Fajardo Campus
+school1430;	Inter American University of Puerto Rico - Guayama Campus
+school1432;	Inter American University of Puerto Rico - Ponce Campus
+school1433;	Universidad del Turabo
+school1434;	Universidad Metropolitana
+school1436;	Columbia University, School of General Studies
+school1438;	Aquinas College
+school1439;	Interior Designers Institute
+school1440;	Rutgers, The State University of New Jersey - Camden
+school1441;	Rutgers, The State University of New Jersey
+school1442;	Rutgers, The State University of New Jersey - Newark
+school1443;	Harrington College of Design
+school1444;	Bridgewater College
+school1445;	Campbell University
+school1446;	Campbellsville University
+school1447;	Capitol College
+school1448;	Carson-Newman University
+school1449;	Catawba College
+school1450;	Claflin University
+school1451;	Catholic University of America
+school1452;	Centenary College of Louisiana
+school1453;	University of Central Arkansas
+school1454;	Southern Wesleyan University
+school1455;	University of Central Florida
+school1456;	Centre College
+school1457;	College of Charleston
+school1458;	University of Charleston
+school1459;	Christian Brothers University
+school1460;	Christopher Newport University
+school1461;	The Citadel
+school1462;	Clark Atlanta University
+school1463;	Clemson University
+school1464;	Coker College
+school1465;	Columbia College
+school1466;	Columbia International University
+school1467;	Washington Adventist University
+school1468;	Columbus State University
+school1469;	Concord University
+school1470;	Converse College
+school1471;	Coppin State University
+school1472;	University of the Cumberlands
+school1473;	Lipscomb University
+school1474;	Agnes Scott College
+school1475;	Eckerd College
+school1476;	Francis Marion University
+school1477;	Furman University
+school1478;	Georgia Institute of Technology
+school1479;	Glenville State College
+school1480;	Hampden-Sydney College
+school1481;	High Point University
+school1482;	Hollins University
+school1483;	Huntingdon College
+school1484;	Kentucky Wesleyan College
+school1485;	King College
+school1486;	LaGrange College
+school1487;	Lee University
+school1488;	LeMoyne-Owen College
+school1489;	Limestone College
+school1490;	Longwood University
+school1491;	Louisiana College
+school1492;	Mars Hill University
+school1493;	McNeese State University
+school1494;	Methodist University
+school1495;	DeVry University - Atlanta
+school1496;	Florida Atlantic University
+school1497;	Welch College
+school1498;	Frostburg State University
+school1499;	Johnson University
+school1500;	Georgia Southwestern State University
+school1501;	Miles College
+school1502;	Georgia Southern University
+school1503;	Kennesaw State University
+school1504;	Georgia Regents University
+school1505;	Louisiana State University Shreveport
+school1507;	Hendrix College
+school1508;	Hood College
+school1509;	Johns Hopkins University
+school1510;	University of Mary Washington
+school1511;	University of West Alabama
+school1513;	University of North Carolina School of the Arts
+school1514;	Tennessee Wesleyan College
+school1516;	University of North Alabama
+school1517;	Morehouse College
+school1518;	Lenoir-Rhyne University
+school1519;	Lander University
+school1520;	North Carolina A State University
+school1521;	Louisiana Tech University
+school1522;	New College of Florida
+school1523;	University of New Orleans
+school1524;	Morgan State University
+school1525;	Marymount University
+school1526;	University of Maryland
+school1527;	Loyola University New Orleans
+school1528;	Lincoln Memorial University
+school1529;	University of Memphis
+school1530;	Morehead State University
+school1531;	Liberty University
+school1532;	University of Kentucky
+school1533;	Middle Tennessee State University
+school1534;	Mississippi State University
+school1535;	Lynchburg College
+school1536;	University of Mississippi
+school1537;	George Washington University
+school1538;	Embry-Riddle Aeronautical University - Daytona Beach
+school1539;	Talladega College
+school1540;	University of Tampa
+school1541;	Tennessee State University
+school1542;	Tennessee Technological University
+school1544;	University of Tennessee at Chattanooga
+school1545;	University of Tennessee
+school1546;	University of Tennessee at Martin
+school1547;	Thomas More College
+school1548;	Toccoa Falls College
+school1549;	Tougaloo College
+school1550;	Towson University
+school1551;	Transylvania University
+school1552;	Trevecca Nazarene University
+school1553;	Trinity Washington University
+school1554;	Troy University
+school1555;	Tulane University
+school1556;	Tusculum College
+school1557;	Tuskegee University
+school1558;	Union College
+school1559;	Union University
+school1560;	United States Naval Academy
+school1561;	Valdosta State University
+school1562;	Vanderbilt University
+school1563;	Stevenson University
+school1564;	University of the Virgin Islands
+school1565;	Virginia Commonwealth University
+school1567;	Virginia Military Institute
+school1568;	Virginia Polytechnic Institute and State University
+school1569;	Virginia State University
+school1570;	Virginia Union University
+school1571;	University of Virginia
+school1572;	University of Virginia's College at Wise
+school1573;	Virginia Wesleyan College
+school1574;	Voorhees College
+school1575;	Wake Forest University
+school1576;	Warner University
+school1577;	Warren Wilson College
+school1579;	Washington College
+school1580;	Washington and Lee University
+school1581;	Webber International University
+school1582;	Wesley College
+school1583;	Wesleyan College
+school1584;	University of West Florida
+school1585;	University of West Georgia
+school1586;	West Liberty University
+school1587;	West Virginia University Institute of Technology
+school1588;	West Virginia State University
+school1589;	West Virginia University
+school1590;	West Virginia Wesleyan College
+school1591;	Western Carolina University
+school1592;	Western Kentucky University
+school1593;	College of William and Mary
+school1594;	Wilmington University
+school1595;	Wingate University
+school1596;	Winston-Salem State University
+school1597;	Winthrop University
+school1598;	North Carolina State University
+school1599;	University of North Carolina at Asheville
+school1600;	University of North Carolina at Chapel Hill
+school1601;	University of North Carolina at Charlotte
+school1602;	University of North Carolina at Greensboro
+school1603;	University of North Carolina at Wilmington
+school1604;	North Carolina Wesleyan College
+school1605;	University of North Florida
+school1606;	University of North Georgia
+school1607;	University of Louisiana at Monroe
+school1608;	Northern Kentucky University
+school1609;	Northwestern State University of Louisiana
+school1610;	Notre Dame of Maryland University
+school1611;	Nova Southeastern University
+school1612;	Oakwood University
+school1613;	Oglethorpe University
+school1614;	Old Dominion University
+school1615;	Ouachita Baptist University
+school1616;	Our Lady of Holy Cross College
+school1617;	University of the Ozarks
+school1618;	Paine College
+school1619;	Palm Beach Atlantic University
+school1620;	University of North Carolina at Pembroke
+school1621;	Piedmont College
+school1622;	University of Pikeville
+school1623;	Presbyterian College
+school1624;	Queens University of Charlotte
+school1625;	Radford University
+school1626;	Randolph-Macon College
+school1627;	Randolph College
+school1628;	Rust College
+school1629;	Rhodes College
+school1630;	University of Richmond
+school1631;	Ringling College of Art and Design
+school1632;	Roanoke College
+school1633;	St. Andrews University
+school1634;	St. Augustine's University
+school1635;	St. John's College
+school1636;	Saint Joseph Seminary College
+school1637;	Saint Leo University
+school1639;	Salem College
+school1640;	Salisbury University
+school1641;	Samford University
+school1642;	Savannah State University
+school1643;	University of South Alabama
+school1644;	South Carolina State University
+school1645;	Coastal Carolina University
+school1646;	University of South Carolina Upstate
+school1647;	University of South Florida
+school1648;	Southeastern Louisiana University
+school1649;	Southeastern Bible College
+school1650;	Southeastern University
+school1651;	Southern Adventist University
+school1652;	Salem International University
+school1653;	St. Mary's College of Maryland
+school1654;	Spring Hill College
+school1655;	University of South Carolina Aiken
+school1656;	Savannah College of Art and Design
+school1657;	Southern Polytechnic State University
+school1658;	University of Southern Mississippi
+school1659;	Spelman College
+school1660;	Sweet Briar College
+school1661;	Stetson University
+school1663;	Shaw University
+school1664;	Shenandoah University
+school1665;	Shorter University
+school1666;	University of South Carolina
+school1667;	Sewanee: University of the South
+school1668;	Delaware State University
+school1669;	University of Delaware
+school1670;	Delta State University
+school1671;	Dillard University
+school1672;	University of the District of Columbia
+school1673;	Emporia State University
+school1674;	Saint Martin's University
+school1675;	Oklahoma State University
+school1676;	University of St. Thomas
+school1677;	Pomona College
+school1678;	Pacific Lutheran University
+school1679;	Northwestern Oklahoma State University
+school1680;	Midwestern State University
+school1681;	Jarvis Christian College
+school1682;	Hardin-Simmons University
+school1684;	Multnomah University
+school1685;	California State University Fullerton
+school1686;	Baker University
+school1687;	University of Colorado Denver
+school1688;	Northeastern State University
+school1689;	Youngstown State University
+school1690;	Xavier University
+school1691;	Wright State University
+school1692;	College of Wooster
+school1693;	Wittenberg University
+school1694;	University of Wisconsin - Whitewater
+school1695;	University of Wisconsin - Superior
+school1696;	University of Wisconsin - Stout
+school1697;	University of Wisconsin - Stevens Point
+school1698;	University of Wisconsin - River Falls
+school1699;	University of Wisconsin - Platteville
+school1700;	University of Wisconsin - Parkside
+school1701;	University of Wisconsin - Oshkosh
+school1702;	University of Wisconsin - Milwaukee
+school1703;	University of Wisconsin - Madison
+school1704;	University of Wisconsin - La Crosse
+school1705;	University of Wisconsin - Green Bay
+school1706;	University of Wisconsin - Eau Claire
+school1707;	Winona State University
+school1708;	Wilmington College
+school1709;	William Woods University
+school1711;	William Penn University
+school1712;	William Jewell College
+school1713;	Wilberforce University
+school1714;	Wheaton College
+school1715;	Westminster College
+school1716;	Western Michigan University
+school1717;	Western Illinois University
+school1718;	Webster University
+school1719;	Wayne State University
+school1720;	Washington University in St. Louis
+school1721;	Wartburg College
+school1722;	Walsh College
+school1723;	Walsh University
+school1724;	Wabash College
+school1725;	Viterbo University
+school1726;	VanderCook College of Music
+school1727;	Valparaiso University
+school1728;	Urbana University
+school1729;	Upper Iowa University
+school1730;	Trine University
+school1731;	Trinity International University
+school1732;	Trinity Christian College
+school1733;	University of Toledo
+school1734;	Tiffin University
+school1735;	Taylor University
+school1736;	Franciscan University of Steubenville
+school1737;	Stephens College
+school1738;	Spring Arbor University
+school1739;	Southwest Minnesota State University
+school1740;	Missouri State University
+school1741;	Southwest Baptist University
+school1742;	University of Southern Indiana
+school1743;	Southern Illinois University Edwardsville
+school1744;	Southern Illinois University Carbondale
+school1745;	Southeast Missouri State University
+school1746;	Simpson College
+school1747;	Silver Lake College of the Holy Family
+school1748;	Siena Heights University
+school1749;	University of St. Thomas
+school1750;	Gustavus Adolphus College
+school1751;	University of Indianapolis
+school1752;	Pontifical College Josephinum
+school1753;	Purdue University
+school1754;	St. Olaf College
+school1755;	University of Illinois at Springfield
+school1756;	Faith Baptist Bible College and Theological Seminary
+school1757;	Franklin College
+school1758;	Goshen College
+school1759;	Hillsdale College
+school1760;	Hope College
+school1761;	Kalamazoo College
+school1762;	Lake Forest College
+school1763;	Lawrence University
+school1764;	Madonna University
+school1765;	Indiana State University
+school1766;	Huntington University
+school1767;	University of Iowa
+school1768;	Marquette University
+school1769;	Michigan Technological University
+school1770;	Milwaukee School of Engineering
+school1771;	Michigan State University
+school1772;	University of Missouri - Columbia
+school1773;	Moody Bible Institute
+school1774;	University of Notre Dame
+school1775;	University of Missouri - St. Louis
+school1776;	Northwest Missouri State University
+school1777;	Oakland University
+school1778;	Oberlin College
+school1779;	Truman State University
+school1780;	Eastern Illinois University
+school1781;	Elmhurst College
+school1782;	University of Findlay
+school1783;	Hiram College
+school1784;	Iowa State University
+school1785;	Otterbein University
+school1786;	North Central University
+school1787;	Morningside College
+school1788;	Lake Superior State University
+school1789;	Macalester College
+school1790;	Ohio Northern University
+school1791;	University of Rio Grande
+school1792;	St. Catherine University
+school1793;	Purdue University Calumet
+school1794;	Rockhurst University
+school1795;	Saint John's University
+school1796;	Quincy University
+school1797;	Saginaw Valley State University
+school1798;	University of St. Francis
+school1799;	Saint Louis University
+school1801;	Saint Mary's University of Minnesota
+school1802;	Park University
+school1803;	Northwestern University
+school1804;	College of the Ozarks
+school1805;	Olivet Nazarene University
+school1806;	Olivet College
+school1807;	Ohio State University
+school1808;	Henderson State University
+school1809;	James Madison University
+school1810;	Jacksonville State University
+school1811;	John Brown University
+school1812;	Northland College
+school1813;	University of Massachusetts Lowell
+school1814;	Goucher College
+school1815;	LIU Brooklyn
+school1816;	University of New England
+school1818;	American Academy of Art
+school1819;	Art Institute of Phoenix
+school1820;	Hamilton Technical College
+school1821;	Bacone College
+school1822;	Global University
+school1825;	Beth Hatalmud Rabbinical College
+school1826;	Briarcliffe College
+school1827;	Columbia College
+school1828;	Independence University
+school1829;	California State University Monterey Bay
+school1830;	Carlos Albizu University - Miami
+school1832;	Central Yeshiva Tomchei Tmimim-Lubavitch
+school1833;	Rogers State University
+school1835;	Jefferson College of Health Sciences
+school1836;	Dalton State College
+school1841;	EDP University of Puerto Rico
+school1844;	Escuela de Artes Plasticas de Puerto Rico
+school1846;	Grantham University
+school1847;	Griggs University
+school1848;	Haskell Indian Nations University
+school1849;	Hebrew Theological College
+school1852;	Hobe Sound Bible College
+school1853;	Holy Trinity Orthodox Seminary
+school1855;	Jones International University
+school1856;	Kehilath Yakov Rabbinical Seminary
+school1860;	Lyme Academy College of Fine Arts
+school1861;	Machzikei Hadath Rabbinical College
+school1863;	College of Saint Mary Magdalen
+school1865;	Mesivta Torah Vodaath Seminary
+school1867;	Midstate College
+school1868;	Mirrer Yeshiva
+school1869;	Mount Angel Seminary
+school1871;	National American University - Rio Rancho
+school1872;	New Orleans Baptist Theological Seminary - Leavell College
+school1875;	Ohio University Southern
+school1876;	Ohio University Lancaster
+school1877;	Ohio University Zanesville
+school1878;	Ohio University Eastern
+school1879;	Ohr Somayach/Joseph Tanenbaum Educational Center
+school1880;	Oregon College of Art & Craft
+school1881;	Our Lady of the Lake College
+school1883;	Peabody Conservatory of Johns Hopkins University
+school1885;	Rabbinical Academy Mesivta Rabbi Chaim Berlin
+school1886;	Rabbinical College Bobover Yeshiva B'nei Zion
+school1887;	Rabbinical College Ch'san Sofer
+school1888;	Rabbinical College of Long Island
+school1889;	Rabbinical College of Telshe
+school1891;	St. Augustine College
+school1892;	St. Charles Borromeo Seminary, Overbrook
+school1895;	Talmudical Institute of Upstate New York
+school1896;	Talmudical Seminary Oholei Torah
+school1897;	Talmudical Yeshiva of Philadelphia
+school1898;	Telshe Yeshiva - Chicago
+school1899;	Texas College
+school1900;	United Talmudical Seminary
+school1901;	University of Puerto Rico at Aguadilla
+school1902;	University of Puerto Rico at Utuado
+school1903;	University of South Carolina Beaufort
+school1906;	World College
+school1907;	Yeshiva Beth Moshe
+school1908;	Yeshiva Derech Chaim
+school1910;	Yeshiva of Nitra
+school1911;	Yeshiva Shaar Hatorah
+school1912;	Yeshiva Zichron Moshe
+school1913;	Globe Institute of Technology
+school1915;	Southwest University of Visual Arts
+school1916;	Atlantic University College
+school1918;	DeVry University - Westminster
+school1921;	New England School of Communications
+school1922;	New England Institute of Art
+school1923;	Pennsylvania College of Art & Design
+school1924;	Mercy College of Health Sciences
+school1925;	College of Biblical Studies - Houston
+school1926;	Bethesda University of California
+school1927;	New Charter University
+school1928;	California National University for Advanced Studies
+school1929;	Cox College
+school1931;	Western Governors University
+school1942;	Columbia Southern University
+school1944;	Northpoint Bible College
+school1945;	Michigan Jewish Institute
+school1946;	DeVry University - Miramar
+school1947;	DeVry University - Ft. Washington
+school1948;	The King's University
+school1949;	Beacon College
+school1950;	The King's College
+school1952;	Neumont University
+school1958;	DeVry University - Houston
+school1961;	Soka University of America
+school1963;	Westwood College
+school1965;	Argosy University, Chicago
+school1968;	Regent University
+school1990;	University of Management and Technology
+school1994;	Baptist University of the Americas
+school1995;	Beis Medrash Heichal Dovid
+school1996;	ITT Technical Institute
+school1998;	Yeshiva and Kolel Bais Medrash Elyon
+school1999;	Yeshiva Shaarei Torah of Rockland
+school2002;	Monroe College
+school2003;	Franklin W. Olin College of Engineering
+school2004;	California State University Channel Islands
+school2005;	Antioch University Santa Barbara
+school2006;	Antioch University Seattle
+school2010;	Capella University
+school2011;	Keystone College
+school2013;	International Baptist College
+school2014;	Art Institute of California - Hollywood
+school2015;	New Saint Andrews College
+school2016;	SUM Bible College & Theological Seminary
+school2017;	Art Institute of Michigan
+school2020;	Ohio Mid-Western College
+school2021;	Gutenberg College
+school2022;	Penn State DuBois
+school2023;	Penn State Worthington Scranton
+school2024;	Harrisburg University of Science and Technology
+school2025;	Penn State Hazleton
+school2026;	Penn State Greater Allegheny
+school2027;	Penn State Brandywine
+school2028;	Penn State Beaver
+school2029;	Penn State Mont Alto
+school2030;	Penn State New Kensington
+school2031;	Penn State Shenango
+school2032;	Penn State Fayette, The Eberly Campus
+school2033;	Penn State York
+school2036;	Virginia University of Lynchburg
+school2037;	Patrick Henry College
+school2038;	University of Washington Bothell
+school2039;	Kaplan University
+school2040;	Davenport University
+school2042;	Minnesota School of Business - Blaine
+school2043;	Stratford University - Woodbridge
+school2044;	Strayer University - Washington Campus
+school2045;	Art Institute of Houston
+school2046;	University of California, Merced
+school2047;	Adventist University of Health Sciences
+school2048;	Holy Cross College
+school2049;	Boston Baptist College
+school2050;	Bob Jones University
+school2051;	Hillsdale Free Will Baptist College
+school2052;	Luther Rice University
+school2054;	Trinity Baptist College
+school2055;	University of Waterloo
+school2056;	Watkins College of Art, Design and Film
+school2057;	Florida Career College
+school2059;	Southern California Seminary
+school2060;	Apex School of Theology
+school2062;	University of Washington Tacoma
+school2063;	Everglades University - Orlando
+school2064;	Art Institute of California - Inland Empire
+school2066;	Art Institute of California - Sacramento
+school2067;	Rasmussen College - Lake Elmo/Woodbury
+school2068;	Ecclesia College
+school2069;	Southwest University
+school2070;	Full Sail University
+school2071;	Argosy University, Atlanta
+school2072;	Argosy University, Twin Cities
+school2073;	Argosy University, Sarasota
+school2074;	Argosy University, Phoenix
+school2075;	Argosy University, Washington DC
+school2076;	Argosy University, San Francisco Bay Area
+school2077;	Argosy University, Tampa
+school2078;	Argosy University, Seattle
+school2080;	Argosy University, Hawaii
+school2081;	Argosy University, Nashville
+school2082;	Argosy University, Dallas
+school2083;	Argosy University, Los Angeles
+school2084;	Argosy University, San Diego
+school2085;	Argosy University, Denver
+school2086;	Argosy University, Inland Empire
+school2087;	Argosy University, Salt Lake City
+school2088;	California Miramar University
+school2089;	Argosy University, Schaumburg
+school2090;	Trident University International
+school2091;	Argosy University, Orange County
+school2092;	West Coast University
+school2093;	Denver School of Nursing
+school2094;	Ex'pression College for Digital Arts
+school2095;	Georgia Gwinnett College
+school2096;	Chamberlain College of Nursing
+school2097;	Chamberlain College of Nursing
+school2098;	Chamberlain College of Nursing
+school2099;	Chamberlain College of Nursing
+school3000;	Central Penn College
+school3001;	Westwood College - Inland Empire
+school3002;	Westwood College - Denver South
+school3003;	Kaplan University
+school3004;	Louisiana State University Alexandria
+school3005;	National American University - Kansas City
+school3006;	Westwood College - Anaheim
+school3007;	Hickey College
+school3008;	Art Institutes International Minnesota
+school3009;	Kettering College
+school3011;	Bauder College
+school3012;	Art Institute of Las Vegas
+school3013;	Herzing University Kenner
+school3014;	Rabbinical College Beth Shraga
+school3015;	Rabbinical Seminary of America
+school3016;	University of Puerto Rico at Carolina
+school3017;	Everglades University - Boca Raton
+school3020;	Inter American University of Puerto Rico - Metropolitan Campus
+school3021;	Ohio University Chillicothe
+school3022;	New England Institute of Technology
+school3023;	Westwood College - Chicago River Oaks
+school3024;	Embry-Riddle Aeronautical University - Worldwide
+school3025;	National University College
+school3026;	Globe University - Woodbury
+school3027;	Berkeley College
+school3028;	Art Institute of Philadelphia
+school3029;	Berkeley College
+school3030;	Westwood College - Chicago O'Hare Airport
+school3031;	University of Arkansas for Medical Sciences
+school3032;	South College
+school3033;	National American University - Denver
+school3034;	Art Institute of Dallas
+school3035;	Truett-McConnell College
+school3036;	International Business College
+school3037;	ITT Technical Institute
+school3038;	Herzing University Atlanta
+school3039;	Beth Hamedrash Shaarei Yosher Institute
+school3041;	Southern California Institute of Technology
+school3042;	Sh'or Yoshuv Institute
+school3043;	Torah Temimah Talmudical Seminary
+school3044;	Brigham Young University - Idaho
+school3045;	Herzing University Madison
+school3046;	Virginia College in Birmingham
+school3047;	Pillar College
+school3048;	Platt College San Diego
+school3049;	Carolina Christian College
+school3050;	Allegheny Wesleyan College
+school3051;	Tri-State Bible College
+school3052;	Williamson Christian College
+school3053;	Dunlap-Stone University
+school3054;	Harrison Middleton University
+school3055;	Art Institute of Tucson
+school3056;	Westwood College - Atlanta Midtown
+school3057;	Westwood College - Chicago Loop Campus
+school3058;	Westwood College - Chicago Du Page
+school3059;	Stratford University - Falls Church
+school3060;	Mercy College of Ohio
+school3061;	Trinity College of Nursing and Health Sciences
+school3062;	DigiPen Institute of Technology
+school3063;	Westwood College - South Bay Campus
+school3064;	Rabbi Jacob Joseph School
+school3065;	Rabbinical College of Ohr Shimon Yisroel
+school3066;	Yeshiva D'Monsey Rabbinical College
+school3067;	Yeshiva Gedolah Imrei Yosef D'Spinka
+school3068;	Yeshiva Karlin Stolin Rabbinical Institute
+school3069;	Yeshiva and Kollel Harbotzas Torah
+school3070;	Yeshiva of the Telshe Alumni
+school3071;	Yeshivas Novominsk
+school3072;	Yeshivath Viznitz
+school3073;	Uta Mesivta of Kiryas Joel
+school3074;	Yeshiva Gedolah Rabbinical College
+school3075;	Yeshivat Mikdash Melech
+school3076;	Yeshiva College of the Nation's Capital
+school3077;	Carver College
+school3078;	Johnson & Wales University
+school3079;	Universidad Central del Caribe
+school3080;	Universidad Pentecostal Mizpa
+school3082;	Westwood College - Arlington Ballston Campus
+school3083;	Baptist College of Health Sciences
+school3084;	Southern Virginia University
+school3085;	California College San Diego
+school3086;	Westwood College - Online Campus
+school3087;	Baker College of Allen Park
+school3088;	Ave Maria University
+school3089;	Westwood College - Annandale Campus
+school3090;	Aspen University
+school3091;	California Coast University
+school3092;	Minnesota School of Business - Rochester
+school3093;	Westwood College - Atlanta Northlake
+school3094;	Silicon Valley University
+school3095;	University of the West
+school3096;	Nevada State College
+school3097;	National American University - Roseville
+school3098;	California Christian College
+school3099;	University of Phoenix Oregon Campus
+school3100;	Chamberlain College of Nursing
+school3101;	Broadview University
+school3103;	University of Phoenix Birmingham Campus
+school3104;	University of Phoenix Southern Arizona Campus
+school3105;	University of Phoenix Little Rock Campus
+school3106;	University of Phoenix Northwest Arkansas Campus
+school3107;	University of Phoenix Central Valley Campus
+school3109;	University of Phoenix Sacramento Valley Campus
+school3110;	University of Phoenix Southern California Campus
+school3111;	University of Phoenix Denver Campus
+school3112;	University of Phoenix Southern Colorado Campus
+school3114;	University of Phoenix Washington D.C. Campus
+school3116;	University of Phoenix North Florida Campus
+school3117;	University of Phoenix West Florida Campus
+school3118;	University of Phoenix Atlanta Campus
+school3119;	University of Phoenix Augusta Campus
+school3120;	University of Phoenix Columbus Georgia Campus
+school3121;	University of Phoenix Savannah Campus
+school3122;	University of Phoenix Hawaii Campus
+school3123;	University of Phoenix Idaho Campus
+school3124;	University of Phoenix Chicago Campus
+school3125;	University of Phoenix Indianapolis Campus
+school3127;	University of Phoenix Louisville Campus
+school3128;	University of Phoenix Maryland Campus
+school3129;	University of Phoenix Boston Campus
+school3131;	University of Phoenix Milwaukee Campus
+school3132;	University of Phoenix Minneapolis/St. Louis Park Campus
+school3133;	University of Phoenix Austin Campus
+school3134;	University of Phoenix Charlotte Campus
+school3135;	University of Phoenix Chattanooga Campus
+school3138;	University of Phoenix Cleveland Campus
+school3139;	University of Phoenix Columbia Campus
+school3141;	University of Phoenix Dallas Campus
+school3142;	University of Phoenix Des Moines Campus
+school3143;	University of Phoenix Houston Campus
+school3144;	University of Phoenix Jersey City Campus
+school3145;	University of Phoenix Kansas City Campus
+school3146;	University of Phoenix Las Vegas Campus
+school3147;	University of Phoenix Louisiana Campus
+school3148;	University of Phoenix Memphis Campus
+school3150;	University of Phoenix Nashville Campus
+school3151;	University of Phoenix New Mexico Campus
+school3153;	University of Phoenix Oklahoma City Campus
+school3154;	University of Phoenix Omaha Campus
+school3155;	University of Phoenix Philadelphia Campus
+school3156;	University of Phoenix Pittsburgh Campus
+school3157;	University of Phoenix Puerto Rico Campus
+school3159;	University of Phoenix Richmond Campus
+school3160;	University of Phoenix San Antonio Campus
+school3161;	University of Phoenix San Diego Campus
+school3163;	University of Phoenix St. Louis Campus
+school3164;	University of Phoenix Tulsa Campus
+school3165;	University of Phoenix Utah Campus
+school3167;	Herzing University Brookfield
+school3168;	Herzing University Kenosha
+school3169;	Amberton University
+school3170;	Antioch University Midwest
+school3171;	Antioch University Los Angeles
+school3172;	California Institute of Integral Studies
+school3173;	Austin Graduate School of Theology
+school3174;	United States Sports Academy
+school3175;	Walden University
+school3176;	Minnesota School of Business - Richfield
+school3178;	DeVry University Online
+school3179;	National American University - Bloomington
+school3180;	CollegeAmerica
+school3181;	Minnesota School of Business - Shakopee
+school3182;	Minnesota School of Business - St. Cloud
+school3183;	American Sentinel University
+school3184;	Selma University
+school3186;	Globe University - Green Bay
+school3187;	Southern Baptist Theological Seminary
+school3188;	University of Phoenix Bay Area Campus
+school3191;	Globe University - Minneapolis
+school3192;	Minnesota School of Business - Elk River
+school3193;	Minnesota School of Business - Lakeville
+school3194;	Minnesota School of Business - Moorhead
+school3195;	Rasmussen College - Blaine
+school3196;	Rasmussen College - Tampa/Brandon
+school3198;	Middle Georgia State College
+school3199;	Pennsylvania Academy of the Fine Arts
+school3200;	Crossroads Bible College
+school3201;	Creative Center
+school3202;	National University College
+school3203;	Visible Music College
+school3204;	Miller College
+school3205;	Bergin University of Canine Studies
+school3206;	California University of Management and Sciences
+school3207;	Family of Faith College
+school3208;	Jose Maria Vargas University
+school3209;	National University College
+school3210;	Northland International University
+school3211;	Touro College Los Angeles
+school3213;	Chamberlain College of Nursing
+school3214;	Chamberlain College of Nursing
+school3215;	Chamberlain College of Nursing
+school3216;	Chamberlain College of Nursing
+school3217;	Chamberlain College of Nursing
+school3218;	Chamberlain College of Nursing
+school3219;	AIB College of Business
+school3220;	Art Institute of Wisconsin
+school3221;	College of Coastal Georgia
+school3222;	Everest University - Orange Park
+school3223;	John Paul the Great Catholic University
+school3224;	Logan University
+school3225;	McNally Smith College of Music
+school3226;	Montana Bible College
+school3227;	National Paralegal College
+school3228;	New Hampshire Institute of Art
+school3229;	Charlotte Christian College and Theological Seminary
+school3230;	Northern New Mexico College
+school3231;	Pennsylvania College of Health Sciences
+school3232;	Rasmussen College - Appleton
+school3233;	Rasmussen College - Mokena/Tinley Park
+school3234;	Rasmussen College - Moorhead
+school3235;	Shiloh University
+school3236;	South Georgia State College
+school3237;	University of South Florida - Saint Petersburg
+school3238;	University of South Florida - Sarasota-Manatee
+school3239;	Virginia College in Knoxville
+school3240;	West Coast University
+school3241;	West Coast University
+school3242;	West Coast University
+school3243;	Bryan College of Health Sciences
+school3244;	National American University - Lee's Summit
+school3245;	Rasmussen College - New Port Richey
+school3246;	Rasmussen College - Ocala
+school3247;	Rasmussen College - Fargo
+school3249;	Rasmussen College - Fort Myers
+school3252;	Art Institute of Seattle
+school3253;	The Sage Colleges
+school3254;	University of Phoenix Jackson Campus
+school3255;	Charter College
+school3256;	Academy of Couture Art
+school3257;	American National University - Roanoke Valley
+school3258;	American Public University System
+school3259;	Beckfield College
+school3260;	Berkeley College
+school3261;	Sanford-Brown College
+school3262;	Sanford-Brown College
+school3263;	Brown Mackie College - Tucson
+school3264;	Bryant & Stratton College - Eastlake Campus
+school3265;	Bryant & Stratton College - Parma Campus
+school3266;	City College - Fort Lauderdale
+school3267;	Conservatory of Music of Puerto Rico
+school3268;	ECPI University
+school3269;	EDP University of Puerto Rico
+school3270;	Great Basin College
+school3271;	Herzing University - Birmingham
+school3272;	Omaha School of Massage and Healthcare of Herzing University
+school3273;	Herzing University - Toledo
+school3274;	Horizon University
+school3275;	Institute of American Indian Arts
+school3276;	ITT Technical Institute
+school3277;	ITT Technical Institute
+school3278;	ITT Technical Institute
+school3279;	ITT Technical Institute
+school3280;	ITT Technical Institute
+school3281;	ITT Technical Institute
+school3282;	ITT Technical Institute
+school3283;	ITT Technical Institute
+school3284;	ITT Technical Institute
+school3285;	ITT Technical Institute
+school3286;	ITT Technical Institute
+school3287;	ITT Technical Institute
+school3288;	ITT Technical Institute
+school3289;	ITT Technical Institute
+school3290;	ITT Technical Institute
+school3291;	ITT Technical Institute
+school3292;	ITT Technical Institute
+school3293;	ITT Technical Institute
+school3294;	ITT Technical Institute
+school3295;	ITT Technical Institute
+school3296;	ITT Technical Institute
+school3297;	ITT Technical Institute
+school3298;	ITT Technical Institute
+school3299;	ITT Technical Institute
+school3300;	ITT Technical Institute
+school3301;	ITT Technical Institute
+school3302;	ITT Technical Institute
+school3303;	ITT Technical Institute
+school3304;	ITT Technical Institute
+school3305;	ITT Technical Institute
+school3306;	ITT Technical Institute
+school3307;	ITT Technical Instutute
+school3308;	ITT Technical Institute
+school3309;	ITT Technical Institute
+school3310;	ITT Technical Instutute
+school3311;	ITT Technical Institute
+school3312;	ITT Technical Institute
+school3313;	ITT Technical Institute
+school3314;	ITT Technical Institute
+school3315;	ITT Technical Institute
+school3316;	ITT Technical Institute
+school3317;	ITT Technical Institute
+school3318;	ITT Technical Institute
+school3319;	ITT Technical Institute
+school3320;	Kaplan University
+school3321;	Miller-Motte College
+school3322;	Minnesota School of Business-Plymouth
+school3323;	Mount Washington College
+school3324;	Penn State Wilkes-Barre
+school3325;	Platt College
+school3326;	Remington College - Tampa Campus
+school3327;	The Restaurant School at Walnut Hill College
+school3328;	Spartan College of Aeronautics and Technology
+school3329;	St. Catharine College
+school3330;	Stanbridge College
+school3331;	University of Phoenix Detroit Campus
+school3332;	University of Phoenix South Florida Campus
+school3333;	University of Phoenix Western Washington
+school3334;	American InterContinental University Online
+school3336;	DeVry University - Kansas City
+school3339;	Theological University of the Caribbean
+school3340;	University College of San Juan

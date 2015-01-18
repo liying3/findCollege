@@ -290,3 +290,7 @@ You won't find a better value than Illinois. You'll have job certainty, as Illin
                 Employment
                   Work-Study Programs	Federal work study available, other work study available	
                   Average Earnings fromOn-Campus Employment	Not reported	
+Business Rank: 51;
+Education Rank: 19;
+Engineering Rank: 28;
+Health Rank: 35;

@@ -283,3 +283,6 @@ Three out of four SU students engage in community service by the time they gradu
                 Employment
                   Work-Study Programs	Federal work study available, other work study available	
                   Average Earnings fromOn-Campus Employment	$3,936	
+Business Rank: 45;
+Engineering Rank: 150;
+Health Rank: 59;

@@ -281,3 +281,7 @@ With 24,000 students from more than 130 different countries and across the U.S.,
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$2,400	
+Business Rank: 464;
+Education Rank: 236;
+Engineering Rank: 246;
+Health Rank: 158;

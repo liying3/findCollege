@@ -268,3 +268,7 @@ PROFILE OF FALL ADMISSION
                 Employment
                   Work-Study Programs	Federal work study available	
                   Average Earnings fromOn-Campus Employment	$3,984	
+Business Rank: 151;
+Education Rank: 15;
+Engineering Rank: 61;
+Health Rank: 239;
