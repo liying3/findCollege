@@ -43,6 +43,7 @@ $( document ).ready(function() {
 				codeAddress(i, colleges[i]['name']);
 			}
 			fillTable();
+			//console.log(colleges.length);
 		  },
         });   
 	});
@@ -56,8 +57,10 @@ $( document ).ready(function() {
 	}
 
 	function fillTable() {
-	    //$('#result-table').
-	    //$('#myTable').append('<tr><td>my data</td><td>more data</td></tr>');
+	    for (var i = 0; i < colleges.length; i++) {
+	        var newRow = '<tr id="' + i + '"><td>' + String(i+1) + '</td><td>' + colleges[i]['name'] + '</td><td>' + colleges[i]['loc'] + '</td><td>' + colleges[i]['tuition'] + '</td><td>' + colleges[i]['aGPA'] + '</td><td>' + colleges[i]['aSAT'] + '</td><td>' + colleges[i]['chance'] + '</td></tr>';
+	        $('#result-table').append(newRow);
+	    }
 	}
 
     //drag and drop

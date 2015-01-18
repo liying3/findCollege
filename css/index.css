@@ -17,9 +17,9 @@ h2 {
     padding:5px 0;
 }
 #map-canvas {
-    width: 800px;
+    width: 600px;
     height: 600px;
-    margin-top:20px;
+    float:left;
 }
 #img-preview{
     position:absolute;
@@ -29,10 +29,14 @@ h2 {
     display: none;
 }
 #sch-content{
-    position:absolute;
+    /*position:absolute;
     top:100px;
-    left:850px;
+    left:650px;*/
+    width:600px;
+    max-width:600px;
+    float:left;
     display: none;
+    margin: 0 10px 0 30px;
 }
 #panel {     
     position: absolute;     
@@ -126,4 +130,13 @@ body{
 .ui-state-default > .input-group > .input-group-addon
 {
     cursor:pointer;
+}
+#result-table
+{
+    background-color:white;
+    margin-right:10px;
+}
+.clear
+{
+    clear:both;
 }
