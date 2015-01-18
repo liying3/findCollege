@@ -93,18 +93,41 @@
          <input type="button" value="Geocode" onclick="codeAddress()">   
     </div-->
       <div class="clear">
-        <div id="map-canvas"></div>
-          <table class="table table-condensed table-hover table-striped" id="result-table">
-                <tr>
-                    <th>#</th><th>Name</th><th>Location</th><th>Tuition</th><th>GPA</th><th>SAT</th><th>Accepted Rate</th>
-                </tr>
-            </table>
+        <table>
+            <tr>
+                <td valign="top"> <div id="map-canvas"></div></td>
+                <td valign="top">
+                    <table >
+                        <tr valign="top">
+                            <td  >
+                                   <table class="table table-condensed table-hover table-striped" id="result-table">
+                                    <tr>
+                                        <td >
+                                            <table >
+                                                <tr align="left">
+                                                    <td width = "5%">&nbsp;</td><td width="5%">#</td><td width="35%">Name</td><td width="12%">Location</td><td width="10%">Tuition</td><td width="8%">GPA</td><td width="10%">SAT</td><td width="auto">Accepted Rate</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr >
+                            <td style="padding-left:30px;"><div id="accordion" style = "width:700px;"></div></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+       
+       
+     
     </div>
-    <div id="accordion" style = "position:absolute; left:650px; top:140px;width:700px">
-    </div>
+  
 
     <div id="img-preview">
-        <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "100px", height = "100px">
+        <img src = "" width = "100px", height = "100px">
         <span id = "name-preview"></span>
     </div>
   </div>

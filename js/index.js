@@ -3,7 +3,6 @@ $( document ).ready(function() {
       collapsible: true
     });
 	var colleges = [];
-
     /*---------------------------- form -----------------------------*/
 	$('#search-form').submit(function (e) {
 	    e.preventDefault()
@@ -12,9 +11,19 @@ $( document ).ready(function() {
        var gpa = $('#gpa').val();
        var percentage = $('#percentage').val();
        var loc = $('#location').val();
-	   var tuition = $('#tuition').val();
-	   var major = $('#major').val();
+	     var tuition = $('#tuition').val();
+	     var major = $('#major').val();
 
+       if(sat > 2400 || sat < 600 || gpa > 4 || gpa <0 || percentage>100 || percentage<0){
+        alert("input out of range");
+        //return
+        sat = 2300;
+        gpa = 3.5;
+        percentage = 90;
+        loc = 2;
+        tuition = 1;
+        major = 1;
+       }
 	   console.log(sat);
 	   console.log(gpa);
 	   console.log(percentage);
@@ -60,7 +69,6 @@ $( document ).ready(function() {
         });   
 	});
   
-
 	function showDetailInfo(i){
 		$('#cName').text(colleges[i]['name']);
 		$('#cLoc').text(colleges[i]['loc']);
@@ -74,9 +82,9 @@ $( document ).ready(function() {
 
 	function fillTable() {
        $('#accordion').html('');
-	    for (var i = 0; i < colleges.length; i++) {
-        var newTable = '<table class="table table-condensed table-hover table-striped"><tr><th>' + String(i+1) +'</th><th>' + colleges[i]['name'] +'</th><th>' + colleges[i]['loc']+'</th><th>'+ colleges[i]['tuition']+'</th><th>'+colleges[i]['aGPA']+'</th><th>'+colleges[i]['aSAT']+'</th><th>'+colleges[i]['chance'] +'</th></tr></table>';
-        var newDetail =  '<p><img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "200px", height = "200px"><br>Name of school:'+ colleges[i]['name'] +'<br>Location:'+ colleges[i]['loc']+'<br>Tuition:'+colleges[i]['tuition']+'<br>SAT:'+colleges[i]['aSAT']+'<br>GPA:'+colleges[i]['aGPA']+'<br></p>';
+	    for (var i = 0; i < colleges.length; i++) {5
+        var newTable = '<table><tr><td width="5%">' + String(i+1) +'</td><td width="230px">' + confineLength(colleges[i]['name'],28) +'</td><td width="60px">' + colleges[i]['loc']+'</td><td width="60px">'+ colleges[i]['tuition']+'</td><td width="9%">'+colleges[i]['aGPA']+'</td><td width="80px">'+colleges[i]['aSAT']+'</td><td width="auto">'+ parseFloat(colleges[i]['chance']).toFixed(2) +'%</td></tr></table>';
+        var newDetail =  '<p><img src = "pics/'+ colleges[i]['img'] +'.jpg" width = "200px", height = "200px"><br>Name of school: '+ colleges[i]['name'] +'<br>Location: '+ colleges[i]['loc']+'<br>Tuition: '+colleges[i]['tuition']+'<br>SAT: '+colleges[i]['aSAT']+'<br>GPA: '+colleges[i]['aGPA']+'<br></p>';
         var newItem = '<div id = c' + i + '> ' + newTable + '</div><div>' + newDetail + '</div>';
         $('#accordion').append(newItem).accordion('destroy').accordion();
 	        //var newRow = '<tr id=c' + i + ' ><td >' + String(i+1) + '</td><td>' + colleges[i]['name'] + '</td><td>' + colleges[i]['loc'] + '</td><td>' + colleges[i]['tuition'] + '</td><td>' + colleges[i]['aGPA'] + '</td><td>' + colleges[i]['aSAT'] + '</td><td>' + colleges[i]['chance'] + '</td></tr>';
@@ -88,6 +96,14 @@ $( document ).ready(function() {
     });
 	}
 
+  function confineLength(str,len){
+        len = len || 0;
+        if(str.length > len){
+          var a = str.substring(0,len) + "...";
+          return a;
+        }
+         return str;
+  }
 
    function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -146,6 +162,7 @@ $( document ).ready(function() {
                   $("#img-preview").css("top", my + "px");
                   $("#img-preview").css("display", "block");
                   $('#name-preview').text(colleges[key]['name']);
+                  $('#img-preview img').attr({src: "pics/" + colleges[key]['img'] + ".jpg"});
              }
             }(i)); 
       
