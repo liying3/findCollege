@@ -13,16 +13,16 @@
 	echo FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration);
 	
 	function FindColleges($SAT, $GPA, $TopPercentage, $Locations, $Tuition, $Concentration) {
-   // exec("Q:\Python34\python CollegeSearch.py" ." " .$SAT . " ". $GPA. " ".  $TopPercentage. " ".  $Locations. " ".  $Tuition. " ".  $Concentration, $output);
+    exec("C:\Python34\python CollegeSearch.py" ." " .$SAT . " ". $GPA. " ".  $TopPercentage. " ".  $Locations. " ".  $Tuition. " ".  $Concentration, $output);
     //var_dump($output);
-   // return getString($output);
-    return getString($GLOBALS['colleges']);
+    return getString($output);
+    //return getString($GLOBALS['colleges']);
 	}
 	
 	function getString($out)
 	{
 		$s = "";
-		for ($i = 0; $i < count($out)/7; $i++)
+		for ($i = 0; $i < 10; $i++)
 		{
       $s .= $out[$i*7] . "&" . $out[$i*7+1] . "&" . $out[$i*7+2] . "&" . $out[$i*7+3] . "&" . $out[$i*7+4] . "&" . $out[$i*7+5] . "&" . $out[$i*7+6]. ";" ;
 		}

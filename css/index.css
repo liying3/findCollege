@@ -19,7 +19,7 @@ h2 {
 
 #map-canvas {
     width: 600px;
-    height: 600px;
+    height: 500px;
     float:left;
 }
 #img-preview{
@@ -146,4 +146,5 @@ body{
 .clear
 {
     clear:both;
+    padding-top:40px;
 }

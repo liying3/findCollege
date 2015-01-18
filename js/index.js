@@ -37,9 +37,9 @@ $( document ).ready(function() {
 		  data: { sat: sat, gpa: gpa, percentage: percentage, loc:loc, tuition:tuition, major:major},
 		  success: function (data, status) {
               
-		      console.log(data);
+		     // console.log(data);
 		      var cols = data.split(';');
-		      console.log(cols.length);
+		      console.log(cols.length-1);
 			for (var i = 0; i < cols.length-1; i++)
 			{
 			    var t = cols[i].split('&');
@@ -55,21 +55,18 @@ $( document ).ready(function() {
        //$(this).next().animate({down:'250px'});
        // toggle_visibility('sch-content');
      // });
-			console.log(colleges.length);
 		  },
         });   
 	});
-  
 
-	function showDetailInfo(i){
-		$('#cName').text(colleges[i]['name']);
-		$('#cLoc').text(colleges[i]['loc']);
-		$('#cTuition').text(colleges[i]['tuition']);
-		$('#cSAT').text(colleges[i]['aSAT']);
-		$('#cGPA').text(colleges[i]['aGPA']);
+	function showDetailInfo(i) {
+	    $('#cName').text(colleges[i]['name']);
+	    $('#cLoc').text(colleges[i]['loc']);
+	    $('#cTuition').text(colleges[i]['tuition']);
+	    $('#cSAT').text(colleges[i]['aSAT']);
+	    $('#cGPA').text(colleges[i]['aGPA']);
 	}
-
-
+  
 
 
 	function fillTable() {
@@ -96,10 +93,6 @@ $( document ).ready(function() {
        else
           e.style.display = 'block';
     }
-
-    //drag and drop
-	$("#sortable").sortable();
-	$("#sortable").disableSelection();
 	
    //google map
 	  var markers = [];
