@@ -1,6 +1,9 @@
 $( document ).ready(function() {
+    $( "#accordion" ).accordion({
+      collapsible: true
+    });
 	var colleges = [];
-	
+
     /*---------------------------- form -----------------------------*/
 	$('#search-form').submit(function (e) {
 	    e.preventDefault()
@@ -44,14 +47,21 @@ $( document ).ready(function() {
 				colleges[i] = col;
 				codeAddress(i, colleges[i]['name']);
 			}
+
 			fillTable();
-		      //console.log(colleges.length);
+
+     // $('#result-table tr').click(function(){
+       // $(this).next().slideToggle(500);
+       //$(this).next().animate({down:'250px'});
+       // toggle_visibility('sch-content');
+     // });
+			console.log(colleges.length);
 		  },
         });   
 	});
+  
 
-	function showDetailInfo(i)
-	{
+	function showDetailInfo(i){
 		$('#cName').text(colleges[i]['name']);
 		$('#cLoc').text(colleges[i]['loc']);
 		$('#cTuition').text(colleges[i]['tuition']);
@@ -59,12 +69,25 @@ $( document ).ready(function() {
 		$('#cGPA').text(colleges[i]['aGPA']);
 	}
 
+
+
+
 	function fillTable() {
+       $('#accordion').html('');
 	    for (var i = 0; i < colleges.length; i++) {
-	        var newRow = '<tr id="' + i + '"><td>' + String(i+1) + '</td><td>' + colleges[i]['name'] + '</td><td>' + colleges[i]['loc'] + '</td><td>' + colleges[i]['tuition'] + '</td><td>' + colleges[i]['aGPA'] + '</td><td>' + colleges[i]['aSAT'] + '</td><td>' + colleges[i]['chance'] + '</td></tr>';
-	        $('#result-table').append(newRow);
+        var newTable = '<table class="table table-condensed table-hover table-striped"><tr><th>' + String(i+1) +'</th><th>' + colleges[i]['name'] +'</th><th>' + colleges[i]['loc']+'</th><th>'+ colleges[i]['tuition']+'</th><th>'+colleges[i]['aGPA']+'</th><th>'+colleges[i]['aSAT']+'</th><th>'+colleges[i]['chance'] +'</th></tr></table>';
+        var newDetail =  '<p><img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "200px", height = "200px"><br>Name of school:'+ colleges[i]['name'] +'<br>Location:'+ colleges[i]['loc']+'<br>Tuition:'+colleges[i]['tuition']+'<br>SAT:'+colleges[i]['aSAT']+'<br>GPA:'+colleges[i]['aGPA']+'<br></p>';
+        var newItem = '<div id = c' + i + '> ' + newTable + '</div><div>' + newDetail + '</div>';
+        $('#accordion').append(newItem).accordion('destroy').accordion();
+	        //var newRow = '<tr id=c' + i + ' ><td >' + String(i+1) + '</td><td>' + colleges[i]['name'] + '</td><td>' + colleges[i]['loc'] + '</td><td>' + colleges[i]['tuition'] + '</td><td>' + colleges[i]['aGPA'] + '</td><td>' + colleges[i]['aSAT'] + '</td><td>' + colleges[i]['chance'] + '</td></tr>';
+	        //$('#result-table').append(newRow);
 	    }
+       $( "#accordion" ).accordion( "refresh" );
+        $( "#accordion" ).accordion({
+      collapsible: true
+    });
 	}
+
 
    function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -78,24 +101,11 @@ $( document ).ready(function() {
 	$("#sortable").sortable();
 	$("#sortable").disableSelection();
 	
-    //google map
-
-    $(".row1").click(function(){
-      $(".row2").slideToggle(500);
-      toggle_visibility("hidden");
-    });
-
-     $(".row2").click(function(){
-      $(".row3").slideToggle(500);
-    });
-
-    $(".row3").click(function(){
-      $(".row4").slideToggle(500);
-    });
-
+   //google map
 	  var markers = [];
        var map;      
        var geocoder;
+
       function initialize() {
         var mapCanvas = document.getElementById('map-canvas');
         geocoder = new google.maps.Geocoder();
@@ -122,17 +132,22 @@ $( document ).ready(function() {
              google.maps.event.addListener(markers[i], 'click', function(key) {
                 return function() {
                 $("#sch-content").css("display", "block");
-                showDetailInfo(key);
+                //showDetailInfo(key);
+                $( "#accordion" ).accordion( "option", "active", false);
+                $( "#accordion" ).accordion( "option", "active", key);
               }
             }(i));
 
-             google.maps.event.addListener(markers[i], 'mouseover', function() {
+             google.maps.event.addListener(markers[i], 'mouseover', function(key) {
+                  return function() {
                   var mx = event.pageX;
                   var my = event.pageY;
                   $("#img-preview").css("left", mx + "px");
                   $("#img-preview").css("top", my + "px");
                   $("#img-preview").css("display", "block");
-            });   
+                  $('#name-preview').text(colleges[key]['name']);
+             }
+            }(i)); 
       
             google.maps.event.addListener(markers[i], 'mouseout', function() {
                   $("#img-preview").css("display", "none");
@@ -146,4 +161,7 @@ $( document ).ready(function() {
        }  
 	   
       google.maps.event.addDomListener(window, 'load', initialize);	  
+
+
+
 });

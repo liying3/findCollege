@@ -16,6 +16,7 @@ h2 {
     color:#26ae90;
     padding:5px 0;
 }
+
 #map-canvas {
     width: 600px;
     height: 600px;
@@ -36,6 +37,12 @@ h2 {
     max-width:600px;
     float:left;
     display: none;
+    margin: 0 10px 0 30px;
+}
+#result-table{
+   width:600px;
+    max-width:600px;
+    float:left;
     margin: 0 10px 0 30px;
 }
 #panel {     
@@ -68,7 +75,7 @@ h2 {
     color:#FFF;
 }
 .message p {
-    color:#FFF;
+    color:#000;
 }
 #toggle {
     position:absolute;
