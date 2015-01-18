@@ -91,8 +91,8 @@ def GetCost(s, val):
 def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration ):
     #print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
     for i in range(len(pcolleges)):
-        if  len(Locations)==2:
-            if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000 and pcolleges[i].loc == Locations:
+        if  len(str(Locations))==2:
+            if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000 and pcolleges[i].loc == str(Locations):
                 print(pcolleges[i].name)
                 print(pcolleges[i].loc)
                 print(pcolleges[i].tuition)
@@ -101,7 +101,7 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
                 print(pcolleges[i].chance)
                 print(pcolleges[i].filename)
 
-        elif len(Locations)==3:
+        elif len(str(Locations))==3:
             if pcolleges[i].tuition>=Tuition and pcolleges[i].tuition<=Tuition+10000:
                 print(pcolleges[i].name)
                 print(pcolleges[i].loc)
@@ -122,10 +122,10 @@ def CalculateChance(SAT, GPA, TopPercentage, aSAT, aGPA):
     except ValueError:
         return 0
     
-#ReadCollegeFiles(SAT=sys.argv[1], GPA=sys.argv[2], TopPercentage=sys.argv[3], Locations=sys.argv[4], Tuition=sys.argv[5], Concentration=sys.argv[6])
+ReadCollegeFiles(SAT=int(sys.argv[1]), GPA=float(sys.argv[2]), TopPercentage=int(sys.argv[3]), Locations=str(sys.argv[4]), Tuition=int(sys.argv[5]), Concentration=str(sys.argv[6]))
+FindBestColleges(SAT=int(sys.argv[1]), GPA=float(sys.argv[2]), TopPercentage=int(sys.argv[3]), Locations=str(sys.argv[4]), Tuition=int(sys.argv[5]), Concentration=str(sys.argv[6]))
+#ReadCollegeFiles(SAT=1800, GPA=3.0, TopPercentage=20, Locations='MA', Tuition=10000, Concentration='Business')
 #FindBestColleges(SAT=1800, GPA=3.0, TopPercentage=20, Locations='MA', Tuition=10000, Concentration='Business')
-ReadCollegeFiles(SAT=1800, GPA=3.0, TopPercentage=20, Locations='MA', Tuition=10000, Concentration='Business')
-FindBestColleges(SAT=1800, GPA=3.0, TopPercentage=20, Locations='MA', Tuition=10000, Concentration='Business')
 
 
     
