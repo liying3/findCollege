@@ -40,7 +40,7 @@ $( document ).ready(function() {
 			for (var i = 0; i < cols.length-1; i++)
 			{
 			    var t = cols[i].split('&');
-			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5]};
+			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5], img:t[6]};
 				colleges[i] = col;
 				codeAddress(i, colleges[i]['name']);
 			}

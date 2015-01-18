@@ -22,9 +22,9 @@
 	function getString($out)
 	{
 		$s = "";
-		for ($i = 0; $i < count($out)/6; $i++)
+		for ($i = 0; $i < count($out)/7; $i++)
 		{
-      $s .= $out[$i*6] . "&" . $out[$i*6+1] . "&" . $out[$i*6+2] . "&" . $out[$i*6+3] . "&" . $out[$i*6+4] . "&" . $out[$i*6+5] . ";" ;
+      $s .= $out[$i*7] . "&" . $out[$i*7+1] . "&" . $out[$i*7+2] . "&" . $out[$i*7+3] . "&" . $out[$i*7+4] . "&" . $out[$i*7+5] . "&" . $out[$i*7+6]. ";" ;
 		}
 		return $s;
 	}
