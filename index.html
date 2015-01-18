@@ -18,53 +18,47 @@
   			<label class="sr-only">SAT</label>
   			<div class="input-group">
   				<div class="input-group-addon">SAT</div>
-  				<input class="form-control" id="sat" name="sat" placeholder="600-2400">
+  				<input class="form-control input-sm" id="sat" name="sat" placeholder="600-2400">
   			</div>
   		  </div>
   		  <div class="form-group col-md-2">
   			<label class="sr-only">GPA</label>
   			<div class="input-group">
   				<div class="input-group-addon">GPA</div>
-  				<input class="form-control" id="gpa" name="gpa" placeholder="<4.00">
+  				<input class="form-control input-sm" id="gpa" name="gpa" placeholder="<4.00">
   			</div>
   		  </div>
   		  <div class="form-group col-md-3">
   			<label class="sr-only">Top Percentage</label>
   			<div class="input-group">
   				<div class="input-group-addon">Top Percentage</div>
-  				<input class="form-control" id="percentage" name="percentage">
+  				<input class="form-control input-sm" id="percentage" name="percentage">
   				<div class="input-group-addon">%</div>
   			</div>
   		  </div>
-  	  </div>
-  	  <br/>
-        <ul id="sortable">
-          <li class="form-group col-md-2 ui-state-default">
+            <div class="form-group col-md-2">
   			<div class="input-group">
   			<div class="input-group-addon">location</div>
-  			 <select class="form-control" id="location" name="location">
-  				<option>Whatever</option>
-  				<option>Alabama</option>
-  				<option>Alaska</option>
-  				<option>Arizona</option>
-  				<option>Arkansas</option>
-  				<option>California</option>
-  				<option>Colorado</option>
-  				<option>Connecticut</option>
-  				<option>Delaware</option>
-  				<option>Florida</option>
-  				<option>Georgia</option>
-  				<option>Hawaii</option>
-  				<option>Idaho</option>
-  				<option>Illinois</option>	
+  			 <select class="form-control input-sm" id="location" name="location">
+                   <option>Pennsylvania</option>
+                   <option>AL</option><option>AK</option><option>AZ</option><option>AR</option><option>CA</option><option>CO</option><option>CT</option><option>DE</option><option>FL</option>
+  				   <option>GA</option><option>HI</option><option>ID</option><option>IL</option><option>IN</option><option>IA</option><option>KS</option><option>KY</option><option>LA</option>
+                   <option>ME</option><option>MD</option><option>MA</option><option>MI</option><option>MN</option><option>MS</option><option>MO</option><option>MT</option><option>NE</option>
+                   <option>NV</option><option>NH</option><option>NJ</option><option>NM</option><option>NY</option><option>NC</option><option>ND</option><option>OH</option><option>OK</option>
+                   <option>OR</option><option>PA</option><option>RI</option><option>SC</option><option>SD</option><option>TN</option><option>TX</option><option>UT</option><option>VT</option>
+                   <option>VA</option><option>WA</option><option>WV</option><option>WI</option><option>WY</option>
   			</select>
   			</div>
-          </li>
-          <li class="form-group col-md-2 ui-state-default">
-              <div class="input-group">
-  				<div class="input-group-addon">tuition $</div>
-  				<select class="form-control" id="tuition" name="tuition">
-  					<option>5-4</option>
+          </div>
+            <button type="submit" class="btn btn-primary btn-sm" >Search</button>
+  	  </div>
+  	  <br/>
+        <ul id="sortable" class="row">
+            <li class="form-group col-md-2 ui-state-default" id="tuition-pri">
+  			<div class="input-group">
+  			    <div class="input-group-addon">tuition $</div>
+                  <select class="form-control input-sm" id="tuition" name="tuition">
+  					<option>5000-4000</option>
   					<option>4-3</option>
   					<option>3-2</option>
   					<option>2-1</option>
@@ -72,14 +66,14 @@
   				</select>
   			</div>
           </li>
-          <li class="form-group col-md-2 ui-state-default">
+          <li class="form-group col-md-3 ui-state-default" id="major-pri">
               <div class="input-group">
   				<div class="input-group-addon">Concentration</div>
-  				<input class="form-control" id="major" name="major">
+  				<input class="form-control input-sm" id="major" name="major">
   			</div>
           </li>
         </ul>
-        <button type="submit" class="btn btn-primary" >Search</button>
+        
   	</form> 
      <!--div id="panel"> 
          <input id="address" type="textbox" value="New York, NY">      
@@ -91,6 +85,12 @@
       text
     </div>
     <div id="sch-content">
+        <table class="table">
+            <tr>
+                <th>Name</th><th>Location</th><th>Tuition</th><th>GPA</th><th>SAT</th><th>Chance</th>
+            </tr>
+
+        </table>
       <h1>haha</h1>
       <p>
          <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "200px", height = "200px"><br>

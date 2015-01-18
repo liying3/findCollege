@@ -23,15 +23,7 @@ def ReadCollegeFiles():
     for i in range(6,3340):
         filename = "../infoRaw/school" + str(i) + ".txt"
         if os.path.isfile(filename):
-            with open(filename,"r") as f:
-                try:
-                    for line in f:
-                        if "Average GPA" in line:
-                            print(filename)
-                            print(line)
-                except ValueError:
-                    print("UnicodeDecodeError")
-            colleges.append(College(filename, "Pennsylvania", 50000, i, 3.00))
+            colleges.append(College(str(i+10000), "Pennsylvania", 50000, i, 3.00))
 
     return
 
@@ -42,15 +34,13 @@ def FindBestColleges( SAT, GPA, TopPercentage, Locations, Tuition, Concentration
     #print("My SAT: ", SAT, "My GPA: ", GPA, "\n");
 
     for i in range(len(colleges)):
-    
-        if colleges[i].loc in Locations:
-            print( colleges[i].name);
-            print( colleges[i].loc);
-            print( colleges[i].tuition);
-            print( colleges[i].aGPA);
-            print( colleges[i].aSAT);
-            chance = CalculateChance(SAT, GPA, TopPercentage, colleges[i].aSAT, colleges[i].aGPA)
-            print( chance);
+        print( colleges[i].name);
+        print( colleges[i].loc);
+        print( colleges[i].tuition);
+        print( colleges[i].aGPA);
+        print( colleges[i].aSAT);
+        chance = CalculateChance(SAT, GPA, TopPercentage, colleges[i].aSAT, colleges[i].aGPA)
+        print( chance);
         
     return;
 
