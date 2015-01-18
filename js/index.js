@@ -24,22 +24,7 @@ $( document ).ready(function() {
         tuition = 1;
         major = 1;
        }
-	   console.log(sat);
-	   console.log(gpa);
-	   console.log(percentage);
-	   console.log(loc);
-	   console.log(tuition);
-	   console.log(major);
 
-	   var tuitionPrio = 1;
-	   var majorPrio = 2;
-	   var i = 0;
-	   $('#sortable').children().each(function () {
-	       if ($(this).attr('id') == 'tuition-pri')
-	           tuitionPrio = ++i;
-	       else if ($(this).attr('id') == 'major-pri')
-	           majorPrio = ++i;
-	   });
         $.ajax({
           type: "POST",
           url: "back/proc.php",
@@ -90,26 +75,27 @@ $( document ).ready(function() {
 	    for (var i = 0; i < colleges.length; i++)
 	        newColleges[i] = colleges[i];
 	    switch (colI) {
-	        case 0:
-	            newColleges.sort(function (a, b) {
-	                var alc = a['name'].toLowerCase(), blc = b['name'].toLowerCase();
-	                return alc > blc ? 1 : alc < blc ? -1 : 0;
-	            });
+	        case '0':
+	            newColleges.sort(cmpStr);
 	            break;
-	        case 1:
+	        case '1':
+	            newColleges.sort(cmpStr);
 	            break;
-	        case 2:
+	        case '2':
+	            newColleges.sort(cmpNum);
 	            break;
-	        case 3:
+	        case '3':
+	            newColleges.sort(cmpNum);
 	            break;
-	        case 4:
+	        case '4':
+	            newColleges.sort(cmpNum);
 	            break;
-	        case 5:
+	        case '5':
+	            newColleges.sort(cmpNum);
 	            break;
 	        default:
 	            break;
 	    }
-
 
 	    $('#accordion').html('');
 	    for (var i = 0; i < newColleges.length; i++) {5
@@ -125,6 +111,14 @@ $( document ).ready(function() {
 	        collapsible: true
 	    });
 	});
+
+	function cmpNum(a, b) {
+	    return a > b ? 1 : a < b ? -1 : 0;
+	}
+	function cmpStr(a, b) {
+	    var alc = a['name'].toLowerCase(), blc = b['name'].toLowerCase();
+	    return alc > blc ? 1 : alc < blc ? -1 : 0;
+	}
 
 
 	function fillTable() {
