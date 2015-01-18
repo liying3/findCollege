@@ -76,6 +76,23 @@
   			</select>
   			</div>
           </div>
+
+            <button type="submit" class="btn btn-primary btn-sm" >Search</button>
+  	  </div>
+  	  <br/>
+        <div id="sortable" class="row">
+            <div class="form-group col-md-2" id="tuition-pri">
+  			<div class="input-group">
+  			    <div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Tuition $</div>
+                  <select class="form-control input-sm" id="tuition" name="tuition">
+                    <option value="5">All</option>
+  					<option value="4">5000-4000</option>
+  					<option value="3">40000-30000</option>
+  					<option value="2">30000-20000</option>
+  					<option value="1">20000-10000</option>
+  				</select>
+  			</div>
+          </div>
           <div class="form-group col-md-3" id="major-pri">
               <div class="input-group">
   				<div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Concentration</div>
@@ -88,13 +105,11 @@
   			</div>
           </div>
         </div>
-        
   	</form> 
      <!--div id="panel"> 
          <input id="address" type="textbox" value="New York, NY">      
          <input type="button" value="Geocode" onclick="codeAddress()">   
     </div-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </tbody></table>
       <div class="clear">
         <div id="map-canvas"></div>
           <table class="table table-condensed table-hover table-striped" id="result-table">
@@ -104,10 +119,36 @@
             </table>
     </div>
     <div id="accordion" style = "position:absolute; left:650px; top:140px;width:700px">
+		<table>
+            <tr>
+                <td valign="top"> <div id="map-canvas"></div></td>
+                <td valign="top">
+                    <table >
+                        <tr valign="top">
+                            <td  >
+                                   <table class="table table-condensed table-hover table-striped" id="result-table">
+                                    <tr>
+                                        <td >
+                                            <table >
+                                                <tr align="left">
+                                                    <td width = "5%">&nbsp;</td><td width="5%">#</td><td width="35%">Name</td><td width="12%">Location</td><td width="10%">Tuition</td><td width="8%">GPA</td><td width="10%">SAT</td><td width="auto">Accepted Rate</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr >
+                            <td style="padding-left:30px;"><div id="accordion" style = "width:700px;"></div></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
     </div>
-
     <div id="img-preview">
-        <img src = "https://dl.dropboxusercontent.com/u/53181465/graphics/Best7_Texture.png" width = "100px", height = "100px">
+        <img src = "" width = "100px", height = "100px">
         <span id = "name-preview"></span>
     </div>
   </div>
