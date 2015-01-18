@@ -8,22 +8,39 @@ $( document ).ready(function() {
        var sat = $('#sat').val();
        var gpa = $('#gpa').val();
        var percentage = $('#percentage').val();
-	   var loc = $('#location').val();
+       var loc = $('#location').val();
 	   var tuition = $('#tuition').val();
 	   var major = $('#major').val();
-           
+
+	   console.log(sat);
+	   console.log(gpa);
+	   console.log(percentage);
+	   console.log(loc);
+	   console.log(tuition);
+	   console.log(major);
+
+	   var tuitionPrio = 1;
+	   var majorPrio = 2;
+	   var i = 0;
+	   $('#sortable').children().each(function () {
+	       if ($(this).attr('id') == 'tuition-pri')
+	           tuitionPrio = ++i;
+	       else if ($(this).attr('id') == 'major-pri')
+	           majorPrio = ++i;
+	   });
         $.ajax({
           type: "POST",
           url: "back/proc.php",
 		  data: { sat: sat, gpa: gpa, percentage: percentage, loc:loc, tuition:tuition, major:major},
-		  success: function(data, status) {
+		  success: function (data, status) {
+		      console.log(data);
 			var cols = data.split(';');
 			for (var i = 0; i < cols.length-1; i++)
 			{
-				var t = cols[i].split('&');
-				var col = { name:t[0], loc:t[1], tuition:t[2], aSAT:t[3], aGPA:t[4] };
+			    var t = cols[i].split('&');
+			    var col = { name:t[0], loc:t[1], tuition:t[2], aGPA:t[3], aSAT:t[4], chance:t[5]};
 				colleges[i] = col;
-        codeAddress(i, colleges[i]['name']);
+				codeAddress(i, colleges[i]['name']);
 			}
 		  },
         });   
