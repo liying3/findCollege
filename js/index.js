@@ -44,8 +44,6 @@ $( document ).ready(function() {
 			}
 			fillTable();
 		      //console.log(colleges.length);
-			alert("df");
-			$('#result-table tr').click(function () { alert("hi");});
 		  },
         });   
 	});
@@ -77,9 +75,6 @@ $( document ).ready(function() {
     //drag and drop
 	$("#sortable").sortable();
 	$("#sortable").disableSelection();
-	$(".ui-state-default > .input-group > .input-group-addon").hover(function () {
-
-	});
 	
     //google map
 
