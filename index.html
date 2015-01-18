@@ -66,11 +66,11 @@
   			<div class="input-group">
   			    <div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Tuition $</div>
                   <select class="form-control input-sm" id="tuition" name="tuition">
-                    <option value="5">All</option>
-  					<option value="4">5000-4000</option>
-  					<option value="3">40000-30000</option>
-  					<option value="2">30000-20000</option>
-  					<option value="1">20000-10000</option>
+                    <option value="0">All</option>
+  					<option value="40000">50000-40000</option>
+  					<option value="30000">40000-30000</option>
+  					<option value="20000">30000-20000</option>
+  					<option value="10000">20000-10000</option>
   				</select>
   			</div>
           </div>
@@ -126,8 +126,17 @@
 
 
     <div id="img-preview">
-        <img src = "" width = "100px", height = "100px">
-        <span id = "name-preview"></span>
+      <table>
+          <tr valign="top" >
+              <td><img src = "" width = "100px", height = "100px">
+              </td>
+              <td>
+               <div id = "name-preview"></div>
+              </td>
+          </tr>
+      </table>
+        
+      
     </div>
   </div>
   </body>

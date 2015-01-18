@@ -11,11 +11,13 @@ $( document ).ready(function() {
       collapsible: true
     });
 
+    var upenn = { name: "University of Pennsylvania", loc: "PA", tuition:25000 , aGPA:3.9 , aSAT:2163 , chance: 100.0, img:"school67"  };
+    colleges[0] = upenn;
 
     /*---------------------------- form -----------------------------*/
 	$('#search-form').submit(function (e) {
 	    e.preventDefault()
-
+  
        var sat = $('#sat').val();
        var gpa = $('#gpa').val();
        var percentage = $('#percentage').val();
@@ -24,40 +26,21 @@ $( document ).ready(function() {
 	     var major = $('#major').val();
 
        if(sat > 2400 || sat < 600 || gpa > 4 || gpa <0 || percentage>100 || percentage<0){
-        alert("input out of range");
-        //return
-        sat = 2300;
-        gpa = 3.5;
-        percentage = 90;
-        loc = 2;
-        tuition = 1;
-        major = 1;
+        alert("Please Verify your input. It is invalid at current stage.");
+        return false;
        }
-	   console.log(sat);
-	   console.log(gpa);
-	   console.log(percentage);
-	   console.log(loc);
-	   console.log(tuition);
-	   console.log(major);
+        clearTable();
+        showLoading();
+        //reset page count
+        currentPage = 0;
 
-	   var tuitionPrio = 1;
-	   var majorPrio = 2;
-	   var i = 0;
-	   $('#sortable').children().each(function () {
-	       if ($(this).attr('id') == 'tuition-pri')
-	           tuitionPrio = ++i;
-	       else if ($(this).attr('id') == 'major-pri')
-	           majorPrio = ++i;
-	   });
         $.ajax({
           type: "POST",
           url: "back/proc.php",
 		  data: { sat: sat, gpa: gpa, percentage: percentage, loc:loc, tuition:tuition, major:major},
 		  success: function (data, status) {
-              
 		      console.log(data);
 		      var cols = data.split(';');
-		      console.log(cols.length);
 			for (var i = 0; i < cols.length-1; i++)
 			{
 			    var t = cols[i].split('&');
@@ -89,15 +72,32 @@ $( document ).ready(function() {
 		$('#cGPA').text(colleges[i]['aGPA']);
 	}
 
-
-  
 	function fillTable() {
        $('#accordion').html('');
+       for(var i=0; i<markers.length; i++){
+          markers[i].setMap(null);
+       }
        //force reset
        if(currentPage > 1){
         currentPage = 1;
        }
-	    for (var i = currentPage * 5; i < (currentPage*5 + 5); i++) {5
+       var numPadding = colleges.length % 5;
+      var endIndex = 0;
+       if(colleges.length<10){
+        if(currentPage == 0){
+            if(colleges.length<5){
+              endIndex = colleges.length;
+            } else {
+              endIndex = 5;
+            }
+        } else{ // current page is 1 and colleges less than 10
+            endIndex = colleges.length;
+        }
+       } else{
+        endIndex = currentPage + 5;
+       }
+       
+	    for (var i = currentPage * 5; i < endIndex; i++) {
         var newTable = '<table><tr><td width="5%">' + String(i+1) +'</td><td width="230px">' + confineLength(colleges[i]['name'],28) +'</td><td width="60px">' + colleges[i]['loc']+'</td><td width="60px">'+ colleges[i]['tuition']+'</td><td width="9%">'+colleges[i]['aGPA']+'</td><td width="80px">'+colleges[i]['aSAT']+'</td><td width="auto">'+ parseFloat(colleges[i]['chance']).toFixed(2) +'%</td></tr></table>';
         var newDetail =  '<p><img src = "pics/'+ colleges[i]['img'] +'.jpg" width = "200px", height = "200px"><br>Name of school: '+ colleges[i]['name'] +'<br>Location: '+ colleges[i]['loc']+'<br>Tuition: '+colleges[i]['tuition']+'<br>SAT: '+colleges[i]['aSAT']+'<br>GPA: '+colleges[i]['aGPA']+'<br></p>';
         var newItem = '<div id = c' + i + '> ' + newTable + '</div><div>' + newDetail + '</div>';
@@ -111,7 +111,10 @@ $( document ).ready(function() {
     });
 	}
 
- 
+  function showLoading(){
+    var newItem = "<div>Loading... Please wait for the results to be generated</div>"
+    $('#accordion').append(newItem).accordion('destroy').accordion();
+  }
 
    function toggle_visibility(id) {
        var e = document.getElementById(id);
@@ -139,6 +142,7 @@ $( document ).ready(function() {
           center: myLatlng
         }
         map = new google.maps.Map(mapCanvas, mapOptions);
+        codeAddress(0, "University of Pennsylvania");
       }
 
       function codeAddress(i, addr) {      
@@ -187,7 +191,7 @@ $( document ).ready(function() {
 	   
       google.maps.event.addDomListener(window, 'load', initialize);	  
 
-
+      fillTable();
 
 });
 
@@ -214,9 +218,9 @@ function previousPage(){
 
 function refillTable() {
         clearTable();
-        //get maxPage
+
          maxPage = Math.floor((colleges.length/5) -1);
-       //force reset
+
        if(currentPage > maxPage){
         currentPage = maxPage;
        }

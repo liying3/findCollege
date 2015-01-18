@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="http://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+  <script src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
+  <script src="js/index.js"></script>
+      <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+      <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    
+     
+  </head>
+  <body>
+   <input type="checkbox" name="toggle" id="toggle" />
+   <label for="toggle"></label>
+   <div class="container">
+     <h1>Sorting Hat</h1>
+     <h2>Path to Your Future</h2>
+  </div>
+  <div class="message">
+    <form id="search-form" class="form-inline">
+  	  <div class="row">
+  		  <div class="form-group col-md-2">
+  			<label class="sr-only">SAT</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">SAT</div>
+  				<input class="form-control input-sm" id="sat" name="sat" placeholder="< 2400">
+  			</div>
+  		  </div>
+  		  <div class="form-group col-md-2">
+  			<label class="sr-only">GPA</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">GPA</div>
+  				<input class="form-control input-sm" id="gpa" name="gpa" placeholder="< 4.00">
+  			</div>
+  		  </div>
+  		  <div class="form-group col-md-3">
+  			<label class="sr-only">Top Percentage</label>
+  			<div class="input-group">
+  				<div class="input-group-addon">Top Percentage</div>
+  				<input class="form-control input-sm" id="percentage" name="percentage">
+  				<div class="input-group-addon">%</div>
+  			</div>
+  		  </div>
+            
+            <button type="submit" class="btn btn-primary btn-sm" >Search</button>
+  	  </div>
+  	  <br/>
+        <div class="row">
+            <div class="form-group col-md-2" id="tuition-pri">
+  			<div class="input-group">
+  			    <div class="input-group-addon" data-toggle="tooltip" title="Drag to set Preference">Tuition $</div>
+                  <select class="form-control input-sm" id="tuition" name="tuition">
+                    <option value="5">All</option>
+  					<option value="4">50000-40000</option>
+  					<option value="3">40000-30000</option>
+  					<option value="2">30000-20000</option>
+  					<option value="1">20000-10000</option>
+  				</select>
+  			</div>
+          </div>
+            <div class="form-group col-md-2">
+  			<div class="input-group">
+  			<div class="input-group-addon">location</div>
+  			 <select class="form-control input-sm" id="location" name="location">
+                   <option>All</option>
+                   <option>AL</option><option>AK</option><option>AZ</option><option>AR</option><option>CA</option><option>CO</option><option>CT</option><option>DE</option><option>FL</option>
+  				   <option>GA</option><option>HI</option><option>ID</option><option>IL</option><option>IN</option><option>IA</option><option>KS</option><option>KY</option><option>LA</option>
+                   <option>ME</option><option>MD</option><option>MA</option><option>MI</option><option>MN</option><option>MS</option><option>MO</option><option>MT</option><option>NE</option>
+                   <option>NV</option><option>NH</option><option>NJ</option><option>NM</option><option>NY</option><option>NC</option><option>ND</option><option>OH</option><option>OK</option>
+                   <option>OR</option><option>PA</option><option>RI</option><option>SC</option><option>SD</option><option>TN</option><option>TX</option><option>UT</option><option>VT</option>
+                   <option>VA</option><option>WA</option><option>WV</option><option>WI</option><option>WY</option>
+  			</select>
+  			</div>
+          </div>
+  	  </div>
+  	  <br/>
+  	</form> 
+     <!--div id="panel"> 
+         <input id="address" type="textbox" value="New York, NY">      
+         <input type="button" value="Geocode" onclick="codeAddress()">   
+    </div-->
+      <div class="clear">
+        <div id="map-canvas"></div>
+          <table class="table table-condensed table-hover table-striped" id="result-table">
+                <tr>
+                    <th>#</th><th>Name</th><th>Location</th><th>Tuition</th><th>GPA</th><th>SAT</th><th>Accepted Chance</th>
+                </tr>
+            </table>
+    </div>
+    <div id="accordion" style = "position:absolute; left:650px; top:140px;width:700px">
+		<table>
+            <tr>
+                <td valign="top"> <div id="map-canvas"></div></td>
+                <td valign="top">
+                    <table >
+                        <tr valign="top">
+                            <td  >
+                                   <table class="table table-condensed table-hover table-striped" id="result-table">
+                                    <tr>
+                                        <td >
+                                            <table >
+                                                <tr align="left">
+                                                    <td width = "5%">&nbsp;</td><td width="5%">#</td><td width="35%">Name</td><td width="12%">Location</td><td width="10%">Tuition</td><td width="8%">GPA</td><td width="10%">SAT</td><td width="auto">Accepted Rate</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr >
+                            <td style="padding-left:30px;"><div id="accordion" style = "width:700px;"></div></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="img-preview">
+        <img src = "" width = "100px", height = "100px">
+        <span id = "name-preview"></span>
+    </div>
+  </div>
+  </body>
+</html>

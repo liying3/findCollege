@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="en" http-equiv="content-language" />
+<meta content="English" name="language" />
+
+
+
+ 
+
+<title>Error | IU South Bend</title>
+
+
+
+
+
+
+<!-- BEGIN INDIANA UNIVERSITY BRANDING BAR AND FOOTER <HEAD> ELEMENTS -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="/_iu-brand/css/base.css" rel="stylesheet" type="text/css" />
+<link href="/_iu-brand/css/fixed.css" rel="stylesheet" type="text/css" />
+
+<!--[if (lte IE 8) & (!IEMobile)]>
+		<link href="/_iu-brand/css/fixed.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+		<link href="/_iu-brand/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]--> 
+<!--[if IE 6]>
+		<link href="/_iu-brand/css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!-- END INDIANA UNIVERSITY BRANDING BAR AND FOOTER <HEAD> ELEMENTS -->
+
+<link href="/_common/fonts/fonts.css" rel="stylesheet" type="text/css"/>
+<link href="/_common/css/iusb-global.css" rel="stylesheet" type="text/css"/>
+<link href="/_common/scripts/menu/ddsmoothmenu.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+<link href="../_common/css/level2-common.css" rel="stylesheet" type="text/css" />
+<link href="../_common/css/dept.css" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+<!-- BEGIN INDIANA UNIVERSITY BRANDING BAR AND FOOTER <HEAD> ELEMENTS -->
+
+<script src="/_iu-brand/js/scripts.js" type="text/javascript"></script>
+<script type="text/javascript">
+var googleSearchToggleOptions = {
+searchResultsUrl: '/search/index.php',
+searchId: 'cse-search-form',
+searchResultsId: 'cse-search-results-form'
+};
+</script>
+
+<!-- END INDIANA UNIVERSITY BRANDING BAR AND FOOTER <HEAD> ELEMENTS -->
+
+
+
+<!-- local combo of jQuery + jQueryTools caused incorrect behavior of homepage video grid. Use jQueryTools containing jQuery instead. -->
+<!--
+<script src="/_common/scripts/jquery-1.6.1.min.js" type="text/javascript"></script>
+<script src="/_common/scripts/jquery.tools.full.nojquery.min.js" type="text/javascript"></script>
+-->
+
+<!-- can't use CDN because of https requirement (IE) -->
+<!-- <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js" type="text/javascript"></script> -->
+
+<script src="/_common/scripts/jquery.tools.min-1.2.5.js" type="text/javascript"></script><!-- includes jQuery -->
+<script src="/_common/scripts/menu/ddsmoothmenu.js" type="text/javascript"></script>
+<script src="/_common/scripts/iusbLib.js" type="text/javascript"></script>
+
+<script src="/_common/jwplayer/jwplayer.js" type="text/javascript"></script>
+<script type="text/javascript">jwplayer.key="NFQixkVRoxqEAmV58RP6ewsbEuxLq+yXMfnErw==";</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+		
+			
+			var featureImages = [
+			
+				
+				
+["images/404.jpg",""]
+,
+["images/404_2.jpg",""]
+,
+["images/404_3.jpg",""]
+
+				
+			
+			
+				];
+			
+		
+		</script>
+
+
+
+</head>
+
+
+<!-- Use CSS class to apply browser specific CSS -->
+
+<!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
+
+
+
+
+
+
+<div id="skipnav">
+  <a href="#navSkip">Skip to main site navigation</a><br />
+  <a href="#mainSkip">Skip to main content</a><br />
+  <a href="#" onclick="setTextOnly(true);">Switch to text-only view</a><br />
+  <a href="#" onclick="setTextOnly(false);">Switch to default view</a>
+  <hr />
+</div>
+
+
+<!-- BEGIN INDIANA UNIVERSITY BRANDING BAR -->
+<div id="branding-bar">
+  <div class="bar">
+        <div class="wrapper">
+          <p class="campus">
+              <a href="https://www.iusb.edu/">
+                  <img src="https://www.iusb.edu/_iu-brand/img/trident-tab.gif" height="73" width="64" alt=" " />
+                  <span class="line-break">Indiana University</span> South Bend
+              </a>
+          </p>
+          <!-- BEGIN OPTIONAL GOOGLE CUSTOM SEARCH -->
+          <div id="cse-search">
+              <form id="cse-search-form" method="get" action="https://www.google.com/cse" role="search">
+                                    <fieldset id="cse-search-fieldset1">
+                      <ul>
+                          <li><a href="https://www.iusb.edu/portal/biglist.php">A-Z Index</a> &nbsp;| </li>
+                          <li><a href="http://people.iu.edu/" class="people">Find People</a></li>
+                      </ul>
+                  </fieldset>
+                  <fieldset id="cse-search-fieldset2">
+                    <label for="cse-search-keywords" class="visuallyhidden">Search keywords</label> 
+                      <input type="text" name="as_q" id="cse-search-keywords" placeholder="Google&#8482; Custom Search" />
+                      <input type="submit" name="cse-search-submit" id="cse-search-submit" value="Go" />
+                      <input type="hidden" name="cx" value="015259877170389514313:f7mbppu3dj0" />
+                      <input type="hidden" name="ie" value="UTF-8" />
+                      <input type="hidden" name="nojs" value="1" />
+                      <!-- THIS WAS A RADIO BUTTON - HARD SET IN HIDDEN FIELD HERE -->
+                      <input type="hidden" name="q" id="cse-search-option2" value="site:www.iusb.edu" />
+                  </fieldset>
+              </form>
+              <p class="toggle search close"><a href="#"><span>Close</span> Search</a></p>
+          </div>
+          <div class="toggles">
+              <p class="toggle search open"><a href="#cse-search"><span>Open</span> Search</a></p>
+          </div>
+          <!-- END OPTIONAL GOOGLE CUSTOM SEARCH -->
+      </div>
+  </div>
+</div>
+<!-- END INDIANA UNIVERSITY BRANDING BAR --><!--severity:Unknown-->
+<system-region name="DEFAULT"/>
+
+
+
+
+
+ 
+ 
+
+
+<!-- BEGIN OUTER WRAPPER -->
+<div id="outer-wrapper">
+  
+  <div id="menu-strip">
+  
+    <div class="ddsmoothmenu" id="menu-wrapper">
+    
+
+
+            <a name="navSkip" id="navSkip"></a>
+            <ul>
+        <li class="about"><a href="https://www.iusb.edu/portal/about.php">About</a>
+            <ul>
+            <li><a href="https://www.iusb.edu/portal/maps/index.php">Maps &amp; Directions</a></li>
+            <li><a href="https://www.iusb.edu/news/">News</a></li>
+            <li><a href="https://www.iusb.edu/portal/events.php">Events</a></li>
+            <li><a href="https://www.iusb.edu/human-resources/job-opportunities/index.php">Employment</a></li>
+            <li><a href="https://www.iusb.edu/chancellor/index.php">Chancellor</a></li>
+            <li><a href="https://www.iusb.edu/portal/fastfacts.php">Fast Facts</a></li>
+            <li><a href="https://www.iusb.edu/development/index.php">Giving</a></li> 
+            <li><a href="https://www.iusb.edu/portal/contact.php">Contact Us</a></li> 
+          </ul>
+        </li>
+        <li class="academics"><a href="https://www.iusb.edu/portal/academics.php">Academics</a>
+            <ul>
+            <li><a href="https://www.iusb.edu/majors-programs/index.php">Undergraduate Programs</a></li>
+            <li><a href="http://bulletins.iu.edu/iusb/2014-2015/degree-listing/index.shtml">Graduate Programs</a></li>
+            <li><a href="https://www.iusb.edu/library/index.php">Library</a></li>
+            <li><a href="http://bulletins.iu.edu/iusb/2014-2015/">Course Catalog</a></li>
+            <li><a href="https://www.iusb.edu/registrar/schedulelanding.php">Schedule of Classes</a></li>
+            <li><a href="https://www.iusb.edu/portal/academics.php">Academics index</a></li>
+            <li><a href="https://www.iusb.edu/distance-learning/index.php">Distance Education</a></li>
+          </ul>
+        </li>
+        <li class="admissions"><a href="https://www.iusb.edu/admissions/index.php">Admissions</a>
+            <ul>                          
+            <li><a href="https://www.iusb.edu/portal/apply.php">Apply Online</a></li>
+            <li><a href="https://www.iusb.edu/admissions/index.php">Undergraduate students</a></li>
+            <li><a href="https://www.iusb.edu/graduate-studies/index.php">Graduate Students</a></li>
+            <li><a href="https://www.iusb.edu/oiss/index.php">International Students</a></li>
+            <li><a href="https://www.iusb.edu/admissions/hs_students.php">High School Students</a></li>
+            <li><a href="https://www.iusb.edu/portal/veterans.php">Veterans</a></li>
+            <li><a href="https://www.iusb.edu/distance-learning/index.php">Distance Learners</a></li>
+            <li><a href="https://www.iusb.edu/admissions/adult.php">Adult Learners</a></li>
+            <li><a href="https://www.iusb.edu/admissions/transfer.php">Transfer Students</a></li>
+            <li><a href="https://www.iusb.edu/portal/visitors.php">Plan a visit</a></li>
+            <li><a href="https://www.iusb.edu/portal/request.php">Request Information</a></li>
+                    </ul>
+        </li>
+        <li class="studentlife"><a href="https://www.iusb.edu/portal/student/index.php">Campus Life</a>
+            <ul>
+            <li><a href="http://www.iusbtitans.com/">Titan Athletics</a></li>
+            <li><a href="http://www.iusbtitans.com/f/Student_Activities_Center/Student_Activities_Center.php">Student Activities Center</a></li>
+            <li><a href="https://www.iusb.edu/housing/index.php">Housing</a></li>
+            <li><a href="https://www.iusb.edu/studentlife/index.php">Student Life</a></li>
+            <li><a href="https://www.iusb.edu/gateway/index.php">Resources &amp; Services</a></li>
+            <li><a href="https://www.iusb.edu/portal/biglist.php">A-Z Index</a></li>
+          </ul>
+        </li>
+        <li class="payingforcollege"><a href="https://www.iusb.edu/portal/costs.php">Paying for College</a>
+            <ul>
+            <li><a href="https://www.iusb.edu/bursar/tuition_and_fee_rates/index.php">Costs and Tuition</a></li>
+            <li><a href="https://www.iusb.edu/finaid/index.php">Financial Aid</a></li>
+            <li><a href="https://www.iusb.edu/bursar/index.php">Paying Bills</a></li>
+            <li><a href="https://www.iusb.edu/scholarships/index.php">Scholarships</a></li>
+          </ul>
+        </li>
+        <li class="library"><a href="https://www.iusb.edu/library/index.php">Library</a>
+            <ul>
+            <li><a href="https://www.iusb.edu/library/services/gethelp.php">Ask a Librarian</a></li>
+            <li><a href="https://www.iusb.edu/library/about/hours.php">Hours & Directions</a></li>
+            <li><a href="https://www.iusb.edu/library/about/newsevents/index.php">News & Events</a></li>
+          </ul>
+        </li>
+        <li class="giving"><a href="https://www.iusb.edu/development/index.php">Giving</a>
+            <ul>
+            <li><a href="https://www.iusb.edu/development/index.php">Office of Development</a></li>
+            <li><a href="http://iufoundation.iu.edu/">IU Foundation</a></li>
+          </ul>
+        </li>
+        <li class="administration"><a href="https://www.iusb.edu/chancellor/index.php">Administration</a>
+            <ul>
+            <li><a href="https://www.iusb.edu/chancellor/index.php">Chancellor</a></li>
+            <li><a href="https://www.iusb.edu/academic-affairs/index.php">Academic Affairs</a></li>
+            <li><a href="https://www.iusb.edu/fiscalaff/index.php">Fiscal Affairs</a></li>
+            <li><a href="https://www.iusb.edu/paua/index.php">Public Affairs</a></li>
+            <li><a href="https://www.iusb.edu/stuaff/index.php">Student Affairs</a></li>
+            <li><a href="https://www.iusb.edu/uits/index.php">Information Technology</a></li>
+            <li><a href="http://www.indiana.edu/~trustees/">IU Trustees</a></li>
+          </ul>
+        </li>
+      </ul>
+
+
+ 
+ 
+    </div>
+  
+  </div>
+  
+  <div id="header-strip">
+  
+    <h1>IU SOUTH BEND SEARCH RESULTS</h1>
+  
+  </div>
+  
+  
+    
+    
+  <div class="columnleft" id="main-wrapper">
+    
+    
+    
+    <!-- feature-box location option 2 -->
+    
+    
+    <div id="column">
+    
+      <div id="subnav1">
+        <ul><li><a href="https://www.iusb.edu/search/">Search iusb.edu</a></li><li><a href="http://www.iu.edu/search/">Search IU.EDU</a></li><li><a href="http://phonebook.iu.edu/dept/listing.cfm?cc=SB">Directories</a></li><li><a href="http://people.iu.edu/">Find People</a></li></ul>
+        
+        
+      </div>
+
+    </div>
+    
+    <div id="main">
+      
+      <!-- feature-box location option 1 -->    
+      <div id="feature-box"><img alt="" src="images/404.jpg" /></div>
+      
+      <div id="content">
+      
+        <div id="breadcrumbs">
+         <a href="index.php">Search</a> &#187; 404
+        </div><!-- end breadcrumbs -->
+        
+        <a id="mainSkip" name="mainSkip" ></a>
+        
+        <h2 class="content-heading">Sorry, Page Not Found<br /></h2><h3>May we suggest the following:</h3>
+<p><a href="../portal/biglist.php">A-Z List</a><br />
+<a href="../admissions/index.php">Admissions</a><br />
+<a href="../finaid/index.php">Financial Aid</a><br />
+<a href="../registrar/index.php">Registrar</a><br />
+<a href="../index.php">IU South Bend Home</a></p>
+<h3>Or, try searching for the page here:</h3>
+<p><form id="cse-search-results-form" method="get" action="https://www.google.com/cse" target="cse-search-results-noscript">
+    <fieldset id="cse-search-results-fieldset2">
+    	<label for="cse-search-results-keywords" class="visuallyhidden">Search keywords</label> 
+		<input type="text" name="as_q" id="cse-search-results-keywords" placeholder="Google&#8482; Custom Search" />
+        <input type="submit" name="cse-search-results-submit" id="cse-search-results-submit" value="Go" />
+        <input type="hidden" name="cx" value="015259877170389514313:f7mbppu3dj0" />
+		<input type="hidden" name="ie" value="UTF-8" />
+        <input type="hidden" name="nojs" value="1" />
+        <input type="hidden" name="q" value="site:www.iusb.edu" />
+	</fieldset>
+</form>
+<noscript>
+	<iframe id="cse-search-results-noscript" name="cse-search-results-noscript"></iframe>
+</noscript>
+<div id="gcse-searchbox"></div></p>
+        
+       </div><!-- end content-->
+    </div>
+    
+    
+    
+    <div class="clear" ></div>
+  </div><!-- end main-wrapper -->
+  
+  
+  <div id="footer-strip">
+    
+
+
+<!-- BEGIN INDIANA UNIVERSITY FOOTER -->
+<div id="footer" role="contentinfo">
+  <div class="wrapper">
+        <!-- <p class="tagline">What matters. Where it matters.</p> -->
+        <div id="icons" class="internal">
+            <h3 class="hide">Social networking links:</h3>
+            <a target="_blank" href="https://www.iusb.edu/portal/blogs.php" title="Blogger"><img src="https://www.iusb.edu/_common/images/template/icon-blogger.gif" alt="Blogger" width="24" height="24" /></a>
+            <a target="_blank" href="http://www.instagram.com/iusouthbend" title="Instagram"><img src="https://www.iusb.edu/_common/images/template/icon-instagram.gif" alt="Instagram" width="24" height="24" /></a>
+            <a target="_blank" href="http://www.youtube.com/user/IUSouthBend" title="YouTube"><img src="https://www.iusb.edu/_common/images/template/icon-youtube.gif" alt="YouTube" width="24" height="24" /></a>
+            <a target="_blank" href="http://twitter.com/#!/IUSouthBend" title="Twitter"><img src="https://www.iusb.edu/_common/images/template/icon-twitter.gif" alt="Twitter" width="24" height="24" /></a>
+            <a target="_blank" href="http://www.facebook.com/pages/Indiana-University-South-Bend/116828985000129" title="Facebook"><img src="https://www.iusb.edu/_common/images/template/icon-facebook.gif" alt="Facebook" width="24" height="24" /></a>
+        </div>
+        <p class="copyright">
+            <a href="http://www.iu.edu/" class="block-iu"><img src="http://iusb.edu/_iu-brand/img/block-iu.png" height="26" width="22" alt="Block IU" /></a> 
+            <span class="line-break">
+                <a href="http://www.iu.edu/copyright/index.shtml">Copyright</a> &#169; 
+                <script type="text/javascript">
+                    var theDate=new Date()
+                    document.write(theDate.getFullYear())
+                </script>
+            </span> 
+            <span class="line-break">The Trustees of <a href="http://www.iu.edu/">Indiana University</a>,</span> 
+            <span class="line-break"><a href="http://www.iu.edu/copyright/complaints.shtml">Copyright Complaints</a> | <a href="https://www.iusb.edu/portal/privacy_policy.php">Privacy Notice</a> | <a href="http://www.iusb.edu/portal/contact.php">Contact Us</a> </span>
+        </p>
+    </div>
+</div>
+<!-- END INDIANA UNIVERSITY FOOTER -->
+    
+
+
+
+
+ 
+ 
+  </div><!-- end main-wrapper -->
+
+</div><!-- end outer-wrapper -->
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21241748-1']);
+  _gaq.push(['_setDomainName', '.iusb.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</body>
+</html>
